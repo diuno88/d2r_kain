@@ -12,7 +12,9 @@
 - '압축 해제된 프로그램로드' 버튼 클릭 ▶ 압축해제 폴더 선택
 
 5. 크롬 우측 상단의 추가된 프로그램 확인
-<img width="401" height="490" alt="image" src="https://github.com/user-attachments/assets/0bca3fe5-f7bf-4cdc-a485-dd122abfaf4a" />
+
+<img width="388" height="307" alt="image" src="https://github.com/user-attachments/assets/4ca39c54-5c7a-47e8-9414-4a1067a896e6" />
+
 
 6. 'D2R 아이템 식별기' 선택하여 프로그램 로드
 <img width="840" height="857" alt="image" src="https://github.com/user-attachments/assets/88fc5edf-eab4-417e-81e1-5738571ec4d4" />
