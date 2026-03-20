@@ -337,9 +337,66 @@
       {
         "min": 3,
         "max": 3,
-        "property": "plus to Random Character Class Skills",
-        "property_id": null,
-        "property_kor": null
+        "property": "plus to Necromancer Skill Levels",
+        "property_id": 498,
+        "property_kor": "강령술사 기술 레벨",
+        "selectable": true
+      },
+      {
+        "min": 3,
+        "max": 3,
+        "property": "plus to Druid Skill Levels",
+        "property_id": 488,
+        "property_kor": "드루이드 기술 레벨",
+        "selectable": true
+      },
+      {
+        "min": 3,
+        "max": 3,
+        "property": "plus to Paladin Skill Levels",
+        "property_id": 442,
+        "property_kor": "성기사 기술 레벨",
+        "selectable": true
+      },
+      {
+        "min": 3,
+        "max": 3,
+        "property": "plus to Amazon Skill Levels",
+        "property_id": 453,
+        "property_kor": "아마존 기술 레벨",
+        "selectable": true
+      },
+      {
+        "min": 3,
+        "max": 3,
+        "property": "plus to Assassin Skill Levels",
+        "property_id": 519,
+        "property_kor": "암살자 기술 레벨",
+        "selectable": true
+      },
+      {
+        "min": 3,
+        "max": 3,
+        "property": "plus to Barbarian Skill Levels",
+        "property_id": 403,
+        "property_kor": "야만용사 기술 레벨",
+        "selectable": true
+      },
+      {
+        "min": 3,
+        "max": 3,
+        "property": "plus to Sorceress Skill Levels",
+        "property_id": 514,
+        "property_kor": "원소술사 기술 레벨",
+        "selectable": true
+      },
+      {
+        "min": 3,
+        "max": 3,
+        "property": "plus to Warlock Skill Levels",
+        "property_id": 1862,
+        "property_kor": "악마술사 기술 레벨",
+        "selectable": true
       },
       {
         "min": 10,
