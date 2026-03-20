@@ -1,0 +1,2911 @@
+[
+  {
+    "id": "2912900382",
+    "name": "Aldur's Advance",
+    "korName": "알더의 전진 (부츠)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/boot/light_plate_boots.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 39,
+        "max": 47,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "Fire Resist +40-50%",
+        "min": 40,
+        "max": 50,
+        "variable": true,
+        "property": "Fire Resist +{{value}}%",
+        "property_id": 427,
+        "property_kor": "화염 저항"
+      }
+    ],
+    "nameId": "aldurs-advance"
+  },
+  {
+    "id": "4257248502",
+    "name": "Aldur's Deception",
+    "korName": "알더의 기만 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/full_plate_mail.png",
+    "tier": "Elite",
+    "description": [
+      {
+        "min": 746,
+        "max": 857,
+        "property": "Defense"
+      },
+      {
+        "min": 300,
+        "max": 300,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "Lightning Resist +40-50%",
+        "min": 40,
+        "max": 50,
+        "variable": true,
+        "property": "Lightning Resist +{{value}}%",
+        "property_id": 428,
+        "property_kor": "번개 저항"
+      }
+    ],
+    "nameId": "aldurs-deception"
+  },
+  {
+    "id": "2186559570",
+    "name": "Aldur's Rhythm",
+    "korName": "알더의 리듬 (메이스)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/mace/bloodrise.png",
+    "tier": "Exceptional",
+    "description": [],
+    "description_filtered": [
+      {
+        "text": "Adds 40-62 Damage",
+        "min": 40,
+        "max": 62,
+        "variable": true,
+        "property": "Unknown",
+        "property_id": 0,
+        "property_kor": "알수없음"
+      },
+      {
+        "text": "Adds 50-75 Lightning Damage",
+        "min": 50,
+        "max": 75,
+        "variable": true,
+        "property": "Lightning Damage",
+        "property_id": 550,
+        "property_kor": "번개 피해"
+      },
+      {
+        "text": "Socketed (2-3)",
+        "min": 2,
+        "max": 3,
+        "variable": true,
+        "property": "Socketed ({{value}})",
+        "property_id": 402,
+        "property_kor": "홈 있음"
+      }
+    ],
+    "nameId": "aldurs-rhythm"
+  },
+  {
+    "id": "3438280911",
+    "name": "Aldur's Stony Gaze",
+    "korName": "알더의 돌같은 시선 (스피리트)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/pelt/antlers.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 157,
+        "max": 171,
+        "property": "Defense"
+      },
+      {
+        "min": 90,
+        "max": 90,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "Cold Resist +40-50%",
+        "min": 40,
+        "max": 50,
+        "variable": true,
+        "property": "Cold Resist +{{value}}%",
+        "property_id": 426,
+        "property_kor": "냉기 저항"
+      }
+    ],
+    "nameId": "aldurs-stony-gaze"
+  },
+  {
+    "id": "3001899185",
+    "name": "Angelic Halo",
+    "korName": "천사의 후광 (반지)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/ring/ring5.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [],
+    "nameId": "angelic-halo"
+  },
+  {
+    "id": "3099988469",
+    "name": "Angelic Mantle",
+    "korName": "천사의 망토 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/ring_mail.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 68,
+        "max": 68,
+        "property": "Defense"
+      },
+      {
+        "min": 40,
+        "max": 40,
+        "property": "Enhanced Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "angelic-mantle"
+  },
+  {
+    "id": "3952018128",
+    "name": "Angelic Sickle",
+    "korName": "천사의 낫 (소드)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/sword/krintizs_skewer.png",
+    "tier": "Normal",
+    "description": [],
+    "description_filtered": [],
+    "nameId": "angelic-sickle"
+  },
+  {
+    "id": "3719638985",
+    "name": "Angelic Wings",
+    "korName": "천사의 날개 (목걸이)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/amulet/amulet2.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [],
+    "nameId": "angelic-wings"
+  },
+  {
+    "id": "3017305269",
+    "name": "Arcanna's Deathwand",
+    "korName": "아르카나의 죽음의 지팡이 (스태프)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/staff/war_staff.png",
+    "tier": "Normal",
+    "description": [],
+    "description_filtered": [],
+    "nameId": "arcannas-deathwand"
+  },
+  {
+    "id": "2906410711",
+    "name": "Arcanna's Flesh",
+    "korName": "아르카나의 살 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/light_plate.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 90,
+        "max": 107,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "arcannas-flesh"
+  },
+  {
+    "id": "4256527178",
+    "name": "Arcanna's Head",
+    "korName": "아르카나의 머리 (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/skull_cap.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 8,
+        "max": 11,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "arcannas-head"
+  },
+  {
+    "id": "3449502882",
+    "name": "Arcanna's Sign",
+    "korName": "아르카나의 표식 (목걸이)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/amulet/amulet3.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [],
+    "nameId": "arcannas-sign"
+  },
+  {
+    "id": "2420647637",
+    "name": "Arctic Binding",
+    "korName": "북극의 결속 (벨트)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/belt/light_belt.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 33,
+        "max": 33,
+        "property": "Defense"
+      },
+      {
+        "min": 30,
+        "max": 30,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "arctic-binding"
+  },
+  {
+    "id": "2155103945",
+    "name": "Arctic Furs",
+    "korName": "북극의 모피 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/quilted_armor.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 45,
+        "max": 51,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "+275-325% Enhanced Defense",
+        "min": 275,
+        "max": 325,
+        "variable": true,
+        "property": "defense",
+        "property_id": 399,
+        "property_kor": "방어력"
+      }
+    ],
+    "nameId": "arctic-furs"
+  },
+  {
+    "id": "4173678802",
+    "name": "Arctic Horn",
+    "korName": "북극의 뿔 (보우)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/bow/hellclap.png",
+    "tier": "Normal",
+    "description": [],
+    "description_filtered": [],
+    "nameId": "arctic-horn"
+  },
+  {
+    "id": "2697540533",
+    "name": "Arctic Mitts",
+    "korName": "북극의 장갑 (글러브)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/glove/light_gauntlets.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 9,
+        "max": 11,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "arctic-mitts"
+  },
+  {
+    "id": "432025938",
+    "name": "Bane's Authority",
+    "korName": "재앙의 권위 라이트 벨트 (벨트)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/belt/light_belt.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [],
+    "nameId": "banes-authority"
+  },
+  {
+    "id": "224802998",
+    "name": "Bane's Oathmaker",
+    "korName": "재앙의 맹약자 크리스 (나이프)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/knife/banes_spire.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [],
+    "nameId": "banes-oathmaker"
+  },
+  {
+    "id": "1394617614",
+    "name": "Bane's Wraithskin",
+    "korName": "재앙의 망령껍질 하드 레더 아머 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/hard_leather_armor.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [],
+    "nameId": "banes-wraithskin"
+  },
+  {
+    "id": "3285983437",
+    "name": "Berserker's Arsenal",
+    "korName": "광전사의 무기고",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/sets/Berserkers_Arsenal.png",
+    "tier": "Normal",
+    "description": [],
+    "description_filtered": [
+      {
+        "text": "Adds (5-9) Poison Damage Over 3 Seconds",
+        "min": 5,
+        "max": 9,
+        "variable": true,
+        "property": "Poison Damage",
+        "property_id": 589,
+        "property_kor": "독 피해"
+      }
+    ],
+    "nameId": "berserkers-arsenal"
+  },
+  {
+    "id": "2881447838",
+    "name": "Berserker's Hatchet",
+    "korName": "광전사의 손도끼 (액스)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/axe/double_axe.png",
+    "tier": "Normal",
+    "description": [],
+    "description_filtered": [],
+    "nameId": "berserkers-hatchet"
+  },
+  {
+    "id": "3633212624",
+    "name": "Berserker's Hauberk",
+    "korName": "광전사의 사슬갑옷 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/splint_mail.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 90,
+        "max": 95,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "berserkers-hauberk"
+  },
+  {
+    "id": "2264033564",
+    "name": "Berserker's Headgear",
+    "korName": "광전사의 머리장식 (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/coif_of_glory.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 30,
+        "max": 33,
+        "property": "Defense"
+      },
+      {
+        "min": 15,
+        "max": 15,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "berserkers-headgear"
+  },
+  {
+    "id": "3867296295",
+    "name": "Bul-Kathos' Sacred Charge",
+    "korName": "불카토스의 신성한 돌격 (소드)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/sword/the_patriarch.png",
+    "tier": "Elite",
+    "description": [],
+    "description_filtered": [],
+    "nameId": "bul-kathos-sacred-charge"
+  },
+  {
+    "id": "4016600101",
+    "name": "Bul-Kathos' Tribal Guardian",
+    "korName": "불카토스의 부족 수호자 (소드)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/sword/war_sword.png",
+    "tier": "Elite",
+    "description": [],
+    "description_filtered": [],
+    "nameId": "bul-kathos-tribal-guardian"
+  },
+  {
+    "id": "2648311224",
+    "name": "Cathan's Mesh",
+    "korName": "캐선의 그물 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/chain_mail.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 87,
+        "max": 90,
+        "property": "Defense"
+      },
+      {
+        "min": 15,
+        "max": 15,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "cathans-mesh"
+  },
+  {
+    "id": "3826660228",
+    "name": "Cathan's Rule",
+    "korName": "캐선의 규율 (스태프)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/staff/battle_staff.png",
+    "tier": "Normal",
+    "description": [],
+    "description_filtered": [],
+    "nameId": "cathans-rule"
+  },
+  {
+    "id": "3601754843",
+    "name": "Cathan's Seal",
+    "korName": "캐선의 인장 (반지)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/ring/ring2.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [],
+    "nameId": "cathans-seal"
+  },
+  {
+    "id": "2854028496",
+    "name": "Cathan's Sigil",
+    "korName": "캐선의 문장 (목걸이)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/amulet/amulet3.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [],
+    "nameId": "cathans-sigil"
+  },
+  {
+    "id": "3184939581",
+    "name": "Cathan's Visage",
+    "korName": "캐선의 얼굴 (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/mask.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 9,
+        "max": 27,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "cathans-visage"
+  },
+  {
+    "id": "4037297345",
+    "name": "Civerb's Cudgel",
+    "korName": "시버브의 곤봉 (셉터)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/scepter/grand_scepter.png",
+    "tier": "Normal",
+    "description": [],
+    "description_filtered": [
+      {
+        "text": "+ (1 Per Character Level) 1-99 To Maximum Damage (Based On Character Level)",
+        "min": 1,
+        "max": 99,
+        "variable": true,
+        "property": "to Maximum Damage",
+        "property_id": 448,
+        "property_kor": "최대 피해"
+      },
+      {
+        "text": "+17-23 to Max Damage",
+        "min": 17,
+        "max": 23,
+        "variable": true,
+        "property": "to Max Damage",
+        "property_id": 448,
+        "property_kor": "최대 피해"
+      }
+    ],
+    "nameId": "civerbs-cudgel"
+  },
+  {
+    "id": "3493026449",
+    "name": "Civerb's Icon",
+    "korName": "시버브의 성상 (목걸이)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/amulet/amulet1.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [],
+    "nameId": "civerbs-icon"
+  },
+  {
+    "id": "3783073382",
+    "name": "Civerb's Ward",
+    "korName": "시버브의 수호 (쉴드)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/shield/stormguild.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 27,
+        "max": 29,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "civerbs-ward"
+  },
+  {
+    "id": "3209445059",
+    "name": "Cleglaw's Claw",
+    "korName": "클레글로의 발톱 (쉴드)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/shield/umbral_disk.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 25,
+        "max": 27,
+        "property": "Defense"
+      },
+      {
+        "min": 17,
+        "max": 17,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "cleglaws-claw"
+  },
+  {
+    "id": "4010568096",
+    "name": "Cleglaw's Pincers",
+    "korName": "클레글로의 집게 (글러브)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/glove/bracers_m.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 8,
+        "max": 9,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "cleglaws-pincers"
+  },
+  {
+    "id": "2393195676",
+    "name": "Cleglaw's Tooth",
+    "korName": "클레글로의 이빨 (소드)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/sword/hellplague.png",
+    "tier": "Normal",
+    "description": [],
+    "description_filtered": [],
+    "nameId": "cleglaws-tooth"
+  },
+  {
+    "id": "2229737111",
+    "name": "Cow King's Hide",
+    "korName": "소왕의 가죽 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/studded_leather.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 57,
+        "max": 57,
+        "property": "Defense"
+      },
+      {
+        "min": 60,
+        "max": 60,
+        "property": "Enhanced Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "cow-kings-hide"
+  },
+  {
+    "id": "4104204890",
+    "name": "Cow King's Hooves",
+    "korName": "소왕의 발굽 (부츠)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/boot/heavy_boots.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 30,
+        "max": 41,
+        "property": "Defense"
+      },
+      {
+        "min": 25,
+        "max": 35,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "Adds 25-35 Fire Damage",
+        "min": 25,
+        "max": 35,
+        "variable": true,
+        "property": "Fire Damage",
+        "property_id": 549,
+        "property_kor": "화염 피해"
+      }
+    ],
+    "nameId": "cow-kings-hooves"
+  },
+  {
+    "id": "3834585967",
+    "name": "Cow King's Horns",
+    "korName": "소왕의 뿔 (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/cap_hat.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 120,
+        "max": 128,
+        "property": "Defense"
+      },
+      {
+        "min": 75,
+        "max": 75,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "cow-kings-horns"
+  },
+  {
+    "id": "3167124406",
+    "name": "Credendum",
+    "korName": "크레덴덤 (벨트)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/belt/belt_m.png",
+    "tier": "Elite",
+    "description": [
+      {
+        "min": 108,
+        "max": 115,
+        "property": "Defense"
+      },
+      {
+        "min": 50,
+        "max": 50,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "credendum"
+  },
+  {
+    "id": "3126291861",
+    "name": "Dangoon's Teaching",
+    "korName": "단군의 가르침 (메이스)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/mace/dangoons_teaching.png",
+    "tier": "Elite",
+    "description": [],
+    "description_filtered": [
+      {
+        "text": "+ (1.5 Per Character Level) +1-148 To Maximum Damage (Based on Character Level)",
+        "min": 1,
+        "max": 148,
+        "variable": true,
+        "property": "to Maximum Damage",
+        "property_id": 448,
+        "property_kor": "최대 피해"
+      },
+      {
+        "text": "Adds 20-30 Fire Damage",
+        "min": 20,
+        "max": 30,
+        "variable": true,
+        "property": "Fire Damage",
+        "property_id": 549,
+        "property_kor": "화염 피해"
+      }
+    ],
+    "nameId": "dangoons-teaching"
+  },
+  {
+    "id": "2402943669",
+    "name": "Dark Adherent",
+    "korName": "Dark Adherent (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/quilted_armor.png",
+    "tier": "Elite",
+    "description": [
+      {
+        "min": 666,
+        "max": 882,
+        "property": "Defense"
+      },
+      {
+        "min": 305,
+        "max": 415,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "Adds 24-34 Poison Damage Over 2 Seconds",
+        "min": 24,
+        "max": 34,
+        "variable": true,
+        "property": "Poison Damage",
+        "property_id": 589,
+        "property_kor": "독 피해"
+      }
+    ],
+    "nameId": "dark-adherent"
+  },
+  {
+    "id": "3186576978",
+    "name": "Death's Guard",
+    "korName": "죽음의 수호 (벨트)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/belt/sash_l.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 22,
+        "max": 22,
+        "property": "Defense"
+      },
+      {
+        "min": 20,
+        "max": 20,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "deaths-guard"
+  },
+  {
+    "id": "3983240540",
+    "name": "Death's Hand",
+    "korName": "죽음의 손 (글러브)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/glove/gloves_l.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 2,
+        "max": 3,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "deaths-hand"
+  },
+  {
+    "id": "2381647271",
+    "name": "Death's Touch",
+    "korName": "죽음의 손길 (소드)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/sword/war_sword.png",
+    "tier": "Normal",
+    "description": [],
+    "description_filtered": [],
+    "nameId": "deaths-touch"
+  },
+  {
+    "id": "2937859179",
+    "name": "Griswold's Heart",
+    "korName": "그리스왈드의 심장 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/corpsemourn.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 917,
+        "max": 950,
+        "property": "Defense"
+      },
+      {
+        "min": 500,
+        "max": 500,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "griswolds-heart"
+  },
+  {
+    "id": "3741345509",
+    "name": "Griswold's Honor",
+    "korName": "그리스왈드의 명예 (쉴드)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/shield/crown_shield.png",
+    "tier": "Elite",
+    "description": [
+      {
+        "min": 290,
+        "max": 333,
+        "property": "Defense"
+      },
+      {
+        "min": 108,
+        "max": 108,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "griswolds-honor"
+  },
+  {
+    "id": "3466880444",
+    "name": "Griswold's Redemption",
+    "korName": "그리스왈드의 구원 (셉터)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/scepter/war_scepter.png",
+    "tier": "Elite",
+    "description": [],
+    "description_filtered": [
+      {
+        "text": "+200-240% Enhanced Damage",
+        "min": 200,
+        "max": 240,
+        "variable": true,
+        "property": "+{{value}}% Enhanced Damage",
+        "property_id": 510,
+        "property_kor": "피해 증가"
+      },
+      {
+        "text": "Socketed (3-4)",
+        "min": 3,
+        "max": 4,
+        "variable": true,
+        "property": "Socketed ({{value}})",
+        "property_id": 402,
+        "property_kor": "홈 있음"
+      }
+    ],
+    "nameId": "griswolds-redemption"
+  },
+  {
+    "id": "4284314538",
+    "name": "Griswold's Valor",
+    "korName": "그리스왈드의 용맹 (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/crown.png",
+    "tier": "Elite",
+    "description": [
+      {
+        "min": 249,
+        "max": 290,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "+50-75% Enhanced Defense",
+        "min": 50,
+        "max": 75,
+        "variable": true,
+        "property": "defense",
+        "property_id": 399,
+        "property_kor": "방어력"
+      },
+      {
+        "text": "20-30% Better Chance Of Getting Magic Items",
+        "min": 20,
+        "max": 30,
+        "variable": true,
+        "property": "Better Chance of Getting Magic Items",
+        "property_id": 461,
+        "property_kor": "마법 아이템 발견 확률 증가"
+      },
+      {
+        "text": "+ (0.25 Per Character Level) 0-24 Absorbs Cold Damage (Based On Character Level)",
+        "min": 0,
+        "max": 24,
+        "variable": true,
+        "property": "Cold Damage",
+        "property_id": 551,
+        "property_kor": "냉기 피해"
+      }
+    ],
+    "nameId": "griswolds-valor"
+  },
+  {
+    "id": "4017690976",
+    "name": "Guillaume's Face",
+    "korName": "기욤의 얼굴 (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/great_helm.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 217,
+        "max": 217,
+        "property": "Defense"
+      },
+      {
+        "min": 120,
+        "max": 120,
+        "property": "Enhanced Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "guillaumes-face"
+  },
+  {
+    "id": "3977016850",
+    "name": "Haemosu's Adamant",
+    "korName": "해모수의 강철 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/haemosus_adament.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 688,
+        "max": 702,
+        "property": "Defense"
+      },
+      {
+        "min": 500,
+        "max": 500,
+        "property": "plus Defense"
+      },
+      {
+        "min": 40,
+        "max": 40,
+        "property": "plus Defense"
+      },
+      {
+        "min": 35,
+        "max": 35,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "haemosus-adamant"
+  },
+  {
+    "id": "1491273256",
+    "name": "Horazon's Countenance",
+    "korName": "호라존의 표정(헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/horazons_countenance.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [
+      {
+        "text": "힘 +10-20",
+        "min": 10,
+        "max": 20,
+        "variable": true,
+        "property": "+{{value}} to Strength",
+        "property_id": 437,
+        "property_kor": "힘"
+      },
+      {
+        "text": "마법 피해 7-10 감소",
+        "min": 7,
+        "max": 10,
+        "variable": true,
+        "property": "Magic Damage Reduced by {{value}}",
+        "property_id": 414,
+        "property_kor": "마법 피해 감소"
+      }
+    ],
+    "nameId": "horazons-countenance"
+  },
+  {
+    "id": "176323484",
+    "name": "Horazon's Dominion",
+    "korName": "호라존의 지배(갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/splint_mail.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [
+      {
+        "text": "방어력 +75-100% 증가",
+        "min": 75,
+        "max": 100,
+        "variable": true,
+        "property": "Enhanced Defense",
+        "property_id": 425,
+        "property_kor": "방어력 증가"
+      },
+      {
+        "text": "마나 +75-100",
+        "min": 75,
+        "max": 100,
+        "variable": true,
+        "property": "to Mana",
+        "property_id": 400,
+        "property_kor": "마나"
+      },
+      {
+        "text": "냉기 저항 +15-25%",
+        "min": 15,
+        "max": 25,
+        "variable": true,
+        "property": "Cold Resist +{{value}}%",
+        "property_id": 426,
+        "property_kor": "냉기 저항"
+      },
+      {
+        "text": "화염 저항 +15-25%",
+        "min": 15,
+        "max": 25,
+        "variable": true,
+        "property": "Fire Resist +{{value}}%",
+        "property_id": 427,
+        "property_kor": "화염 저항"
+      },
+      {
+        "text": "번개 저항 +15-25%",
+        "min": 15,
+        "max": 25,
+        "variable": true,
+        "property": "Lightning Resist +{{value}}%",
+        "property_id": 428,
+        "property_kor": "번개 저항"
+      }
+    ],
+    "nameId": "horazons-dominion"
+  },
+  {
+    "id": "553089084",
+    "name": "Horazon's Hold",
+    "korName": "호라존의 장악(글러브)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/glove/gloves_l.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [
+      {
+        "text": "명중률 +95-150",
+        "min": 95,
+        "max": 150,
+        "variable": true,
+        "property": "Bonus To Attack Rating",
+        "property_id": 424,
+        "property_kor": "명중률"
+      },
+      {
+        "text": "민첩 +10-15",
+        "min": 10,
+        "max": 15,
+        "variable": true,
+        "property": "+{{value}} to Dexterity",
+        "property_id": 429,
+        "property_kor": "민첩"
+      },
+      {
+        "text": "생명력 +30-40",
+        "min": 30,
+        "max": 40,
+        "variable": true,
+        "property": "+{{value}} to Life",
+        "property_id": 418,
+        "property_kor": "생명력"
+      }
+    ],
+    "nameId": "horazons-hold"
+  },
+  {
+    "id": "2037975948",
+    "name": "Horazon's Legacy",
+    "korName": "호라존의 유산(부츠)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/boot/light_plate_boots.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [
+      {
+        "text": "힘 +10-15",
+        "min": 10,
+        "max": 15,
+        "variable": true,
+        "property": "+{{value}} to Strength",
+        "property_id": 437,
+        "property_kor": "힘"
+      },
+      {
+        "text": "민첩 +10-15",
+        "min": 10,
+        "max": 15,
+        "variable": true,
+        "property": "+{{value}} to Dexterity",
+        "property_id": 429,
+        "property_kor": "민첩"
+      },
+      {
+        "text": "마법 저항 +20-30%",
+        "min": 20,
+        "max": 30,
+        "variable": true,
+        "property": "Magic Resist",
+        "property_id": 936,
+        "property_kor": "마법 저항"
+      }
+    ],
+    "nameId": "horazons-legacy"
+  },
+  {
+    "id": "2061919011",
+    "name": "Horazon's Secrets",
+    "korName": "호라존의 비밀(마법서)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/grimoires/ars_torbaalos.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [
+      {
+        "text": "활력 +20-30",
+        "min": 20,
+        "max": 30,
+        "variable": true,
+        "property": "To Vitality",
+        "property_id": 582,
+        "property_kor": "활력"
+      },
+      {
+        "text": "생명력 +30-50",
+        "min": 30,
+        "max": 50,
+        "variable": true,
+        "property": "+{{value}} to Life",
+        "property_id": 418,
+        "property_kor": "생명력"
+      }
+    ],
+    "nameId": "horazons-secrets"
+  },
+  {
+    "id": "2295745237",
+    "name": "Hsarus' Iron Fist",
+    "korName": "사루스의 강철 주먹 (쉴드)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/shield/pelta_lunata.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 4,
+        "max": 6,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "hsarus-iron-fist"
+  },
+  {
+    "id": "3899413104",
+    "name": "Hsarus' Iron Heel",
+    "korName": "사루스의 강철 발꿈치 (부츠)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/boot/chain_boots.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 8,
+        "max": 9,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "hsarus-iron-heel"
+  },
+  {
+    "id": "2613143690",
+    "name": "Hsarus' Iron Stay",
+    "korName": "사루스의 강철 지지대 (벨트)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/belt/belt_m.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 5,
+        "max": 5,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "hsarus-iron-stay"
+  },
+  {
+    "id": "2531153726",
+    "name": "Hwanin's Blessing",
+    "korName": "Hwanin's Blessing (벨트)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/belt/belt_m.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 6,
+        "max": 153,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "Adds 3-33 Lightning Damage",
+        "min": 3,
+        "max": 33,
+        "variable": true,
+        "property": "Lightning Damage",
+        "property_id": 550,
+        "property_kor": "번개 피해"
+      }
+    ],
+    "nameId": "hwanins-blessing"
+  },
+  {
+    "id": "2954718866",
+    "name": "Hwanin's Justice",
+    "korName": "Hwanin's Justice (폴암)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/polearm/voulge.png",
+    "tier": "Exceptional",
+    "description": [],
+    "description_filtered": [
+      {
+        "text": "Adds 5-25 Lightning Damage",
+        "min": 5,
+        "max": 25,
+        "variable": true,
+        "property": "Lightning Damage",
+        "property_id": 550,
+        "property_kor": "번개 피해"
+      }
+    ],
+    "nameId": "hwanins-justice"
+  },
+  {
+    "id": "3764345246",
+    "name": "Hwanin's Refuge",
+    "korName": "Hwanin's Refuge (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/scale_mail.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 376,
+        "max": 390,
+        "property": "Defense"
+      },
+      {
+        "min": 200,
+        "max": 200,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "hwanins-refuge"
+  },
+  {
+    "id": "2826700613",
+    "name": "Hwanin's Splendor",
+    "korName": "Hwanin's Splendor (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/crown_of_thieves.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 228,
+        "max": 228,
+        "property": "Defense"
+      },
+      {
+        "min": 100,
+        "max": 100,
+        "property": "Enhanced Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "hwanins-splendor"
+  },
+  {
+    "id": "4275061870",
+    "name": "Immortal King's Detail",
+    "korName": "불멸의 왕의 장식 (벨트)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/belt/girdle_h.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 89,
+        "max": 89,
+        "property": "Defense"
+      },
+      {
+        "min": 36,
+        "max": 36,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "immortal-kings-detail"
+  },
+  {
+    "id": "4017579480",
+    "name": "Immortal King's Forge",
+    "korName": "불멸의 왕의 대장간 (글러브)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/glove/gaunlets_h.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 108,
+        "max": 118,
+        "property": "Defense"
+      },
+      {
+        "min": 65,
+        "max": 65,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "immortal-kings-forge"
+  },
+  {
+    "id": "3227151854",
+    "name": "Immortal King's Pillar",
+    "korName": "불멸의 왕의 기둥 (부츠)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/boot/plate_boots.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 118,
+        "max": 128,
+        "property": "Defense"
+      },
+      {
+        "min": 75,
+        "max": 75,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "immortal-kings-pillar"
+  },
+  {
+    "id": "4134612737",
+    "name": "Immortal King's Soul Cage",
+    "korName": "불멸의 왕의 영혼 우리 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/victors_silk.png",
+    "tier": "Elite",
+    "description": [
+      {
+        "min": 1001,
+        "max": 1001,
+        "property": "Defense"
+      },
+      {
+        "min": 400,
+        "max": 400,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "immortal-kings-soul-cage"
+  },
+  {
+    "id": "2327139623",
+    "name": "Immortal King's Stone Crusher",
+    "korName": "불멸의 왕의 돌 분쇄기 (마울)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/hammer/maul.png",
+    "tier": "Elite",
+    "description": [],
+    "description_filtered": [
+      {
+        "text": "35-40% Chance Of Crushing Blow",
+        "min": 35,
+        "max": 40,
+        "variable": true,
+        "property": "Chance of Crushing Blow",
+        "property_id": 567,
+        "property_kor": "강한타격 확률"
+      }
+    ],
+    "nameId": "immortal-kings-stone-crusher"
+  },
+  {
+    "id": "2264300634",
+    "name": "Immortal King's Will",
+    "korName": "불멸의 왕의 의지 (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/avenger_guard.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 160,
+        "max": 175,
+        "property": "Defense"
+      },
+      {
+        "min": 125,
+        "max": 125,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "25-40% Better Chance Of Finding Magic Items",
+        "min": 25,
+        "max": 40,
+        "variable": true,
+        "property": "Better Chance Of Finding Magic Items",
+        "property_id": 461,
+        "property_kor": "마법 아이템 발견 확률 증가"
+      }
+    ],
+    "nameId": "immortal-kings-will"
+  },
+  {
+    "id": "2673100469",
+    "name": "Infernal Cranium",
+    "korName": "지옥의 두개골 (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/war_bonnet.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 3,
+        "max": 5,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "infernal-cranium"
+  },
+  {
+    "id": "2743959522",
+    "name": "Infernal Sign",
+    "korName": "지옥의 표식 (벨트)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/belt/heavy_belt.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 31,
+        "max": 31,
+        "property": "Defense"
+      },
+      {
+        "min": 25,
+        "max": 25,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "infernal-sign"
+  },
+  {
+    "id": "3505593812",
+    "name": "Infernal Torch",
+    "korName": "지옥의 횃불 (원드)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/wand/grim_wand.png",
+    "tier": "Normal",
+    "description": [],
+    "description_filtered": [],
+    "nameId": "infernal-torch"
+  },
+  {
+    "id": "3593687160",
+    "name": "Iratha's Coil",
+    "korName": "이라사의 코일 (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/crown.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 25,
+        "max": 45,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "irathas-coil"
+  },
+  {
+    "id": "2940688535",
+    "name": "Iratha's Collar",
+    "korName": "이라사의 목걸이 (목걸이)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/amulet/amulet1.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [],
+    "nameId": "irathas-collar"
+  },
+  {
+    "id": "3211535556",
+    "name": "Iratha's Cord",
+    "korName": "이라사의 끈 (벨트)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/belt/heavy_belt.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 31,
+        "max": 31,
+        "property": "Defense"
+      },
+      {
+        "min": 25,
+        "max": 25,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "irathas-cord"
+  },
+  {
+    "id": "3338799207",
+    "name": "Iratha's Cuff",
+    "korName": "이라사의 팔찌 (글러브)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/glove/light_gauntlets.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 9,
+        "max": 11,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "irathas-cuff"
+  },
+  {
+    "id": "4252857064",
+    "name": "Isenhart's Case",
+    "korName": "아이젠하트의 갑옷 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/breast_plate.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 105,
+        "max": 108,
+        "property": "Defense"
+      },
+      {
+        "min": 40,
+        "max": 40,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "isenharts-case"
+  },
+  {
+    "id": "3930858950",
+    "name": "Isenhart's Horns",
+    "korName": "아이젠하트의 뿔 (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/duskdeep.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 23,
+        "max": 26,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "isenharts-horns"
+  },
+  {
+    "id": "2318413367",
+    "name": "Isenhart's Lightbrand",
+    "korName": "아이젠하트의 빛의 검 (소드)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/sword/griswolds_edge.png",
+    "tier": "Normal",
+    "description": [],
+    "description_filtered": [],
+    "nameId": "isenharts-lightbrand"
+  },
+  {
+    "id": "3747877818",
+    "name": "Isenhart's Parry",
+    "korName": "아이젠하트의 방패 (쉴드)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/shield/the_ward.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 70,
+        "max": 75,
+        "property": "Defense"
+      },
+      {
+        "min": 40,
+        "max": 40,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "isenharts-parry"
+  },
+  {
+    "id": "2419933598",
+    "name": "Laying of Hands",
+    "korName": "안수 (글러브)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/glove/gloves_l.png",
+    "tier": "Elite",
+    "description": [
+      {
+        "min": 79,
+        "max": 87,
+        "property": "Defense"
+      },
+      {
+        "min": 25,
+        "max": 25,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "laying-of-hands"
+  },
+  {
+    "id": "3417201846",
+    "name": "Magnus' Skin",
+    "korName": "마그누스의 피부 (글러브)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/glove/heavy_gloves.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 60,
+        "max": 60,
+        "property": "Defense"
+      },
+      {
+        "min": 50,
+        "max": 50,
+        "property": "Enhanced Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "magnus-skin"
+  },
+  {
+    "id": "3196591890",
+    "name": "M'avina's Caster",
+    "korName": "마비나의 활 (보우)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/bow/reflex_bow.png",
+    "tier": "Elite",
+    "description": [],
+    "description_filtered": [],
+    "nameId": "mavinas-caster"
+  },
+  {
+    "id": "2641654843",
+    "name": "M'avina's Embrace",
+    "korName": "마비나의 포옹 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/field_plate.png",
+    "tier": "Elite",
+    "description": [
+      {
+        "min": 771,
+        "max": 1269,
+        "property": "Defense"
+      },
+      {
+        "min": 350,
+        "max": 350,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "Magic Damage Reduced By 5-12",
+        "min": 5,
+        "max": 12,
+        "variable": true,
+        "property": "Magic Damage Reduced by {{value}}",
+        "property_id": 414,
+        "property_kor": "마법 피해 감소"
+      }
+    ],
+    "nameId": "mavinas-embrace"
+  },
+  {
+    "id": "2167544980",
+    "name": "M'avina's Icy Clutch",
+    "korName": "마비나의 얼음 손아귀 (글러브)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/glove/light_gauntlets.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 84,
+        "max": 97,
+        "property": "Defense"
+      },
+      {
+        "min": 45,
+        "max": 50,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "6-18 Cold Damage, 6 sec. Duration",
+        "min": 6,
+        "max": 18,
+        "variable": true,
+        "property": "Cold Damage",
+        "property_id": 551,
+        "property_kor": "냉기 피해"
+      }
+    ],
+    "nameId": "mavinas-icy-clutch"
+  },
+  {
+    "id": "4236260079",
+    "name": "M'avina's Tenet",
+    "korName": "마비나의 신조 (벨트)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/belt/light_belt.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 81,
+        "max": 86,
+        "property": "Defense"
+      },
+      {
+        "min": 50,
+        "max": 50,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "mavinas-tenet"
+  },
+  {
+    "id": "2319788801",
+    "name": "M'avina's True Sight",
+    "korName": "마비나의 진실한 시야 (써클릿)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/circlet/diadem.png",
+    "tier": "Elite",
+    "description": [
+      {
+        "min": 200,
+        "max": 210,
+        "property": "Defense"
+      },
+      {
+        "min": 150,
+        "max": 150,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "mavinas-true-sight"
+  },
+  {
+    "id": "3745212043",
+    "name": "Milabrega's Diadem",
+    "korName": "밀라브레가의 왕관 (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/crown.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 25,
+        "max": 45,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "milabregas-diadem"
+  },
+  {
+    "id": "3214288448",
+    "name": "Milabrega's Orb",
+    "korName": "밀라브레가의 보주 (쉴드)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/shield/steelclash.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 44,
+        "max": 44,
+        "property": "Defense"
+      },
+      {
+        "min": 25,
+        "max": 25,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "milabregas-orb"
+  },
+  {
+    "id": "2442813660",
+    "name": "Milabrega's Robe",
+    "korName": "밀라브레가의 로브 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/victors_silk.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 234,
+        "max": 234,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "milabregas-robe"
+  },
+  {
+    "id": "3769121903",
+    "name": "Milabrega's Rod",
+    "korName": "밀라브레가의 지팡이 (셉터)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/scepter/war_scepter.png",
+    "tier": "Normal",
+    "description": [],
+    "description_filtered": [],
+    "nameId": "milabregas-rod"
+  },
+  {
+    "id": "2158968455",
+    "name": "Naj's Circlet",
+    "korName": "나즈의 왕관 (써클릿)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/circlet/circlet.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 95,
+        "max": 105,
+        "property": "Defense"
+      },
+      {
+        "min": 75,
+        "max": 75,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "+25-35 Fire Damage",
+        "min": 25,
+        "max": 35,
+        "variable": true,
+        "property": "Fire Damage",
+        "property_id": 549,
+        "property_kor": "화염 피해"
+      }
+    ],
+    "nameId": "najs-circlet"
+  },
+  {
+    "id": "2979936598",
+    "name": "Naj's Light Plate",
+    "korName": "나즈의 경갑옷 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/plate_mail.png",
+    "tier": "Elite",
+    "description": [
+      {
+        "min": 721,
+        "max": 830,
+        "property": "Defense"
+      },
+      {
+        "min": 300,
+        "max": 300,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "najs-light-plate"
+  },
+  {
+    "id": "3772189159",
+    "name": "Naj's Puzzler",
+    "korName": "나즈의 수수께끼 (스태프)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/staff/lazarus_spire.png",
+    "tier": "Elite",
+    "description": [],
+    "description_filtered": [
+      {
+        "text": "Adds 6-45 Lightning Damage",
+        "min": 6,
+        "max": 45,
+        "variable": true,
+        "property": "Lightning Damage",
+        "property_id": 550,
+        "property_kor": "번개 피해"
+      }
+    ],
+    "nameId": "najs-puzzler"
+  },
+  {
+    "id": "3295942653",
+    "name": "Natalya's Mark",
+    "korName": "나탈리아의 표식 (탤런)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/h2h/natalyas_mark.png",
+    "tier": "Elite",
+    "description": [],
+    "description_filtered": [
+      {
+        "text": "Adds 12-17 Fire Damage",
+        "min": 12,
+        "max": 17,
+        "variable": true,
+        "property": "Fire Damage",
+        "property_id": 549,
+        "property_kor": "화염 피해"
+      }
+    ],
+    "nameId": "natalyas-mark"
+  },
+  {
+    "id": "4099953499",
+    "name": "Natalya's Shadow",
+    "korName": "나탈리아의 그림자 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/scale_mail.png",
+    "tier": "Elite",
+    "description": [
+      {
+        "min": 540,
+        "max": 721,
+        "property": "Defense"
+      },
+      {
+        "min": 150,
+        "max": 225,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "+ (1 Per Character Level) 1-99 To Life (Based On Character Level)",
+        "min": 1,
+        "max": 99,
+        "variable": true,
+        "property": "+{{value}} to Life",
+        "property_id": 418,
+        "property_kor": "생명력"
+      },
+      {
+        "text": "Socketed (1-3)",
+        "min": 1,
+        "max": 3,
+        "variable": true,
+        "property": "Socketed ({{value}})",
+        "property_id": 402,
+        "property_kor": "홈 있음"
+      }
+    ],
+    "nameId": "natalyas-shadow"
+  },
+  {
+    "id": "3570407092",
+    "name": "Natalya's Soul",
+    "korName": "나탈리아의 영혼 (부츠)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/boot/chain_boots.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 112,
+        "max": 169,
+        "property": "Defense"
+      },
+      {
+        "min": 75,
+        "max": 125,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "Heal Stamina Plus (0.25 Per Character Level) 0-24% (Based On Character Level)",
+        "min": 0,
+        "max": 24,
+        "variable": true,
+        "property": "Heal Stamina Plus {{value}}%",
+        "property_id": 477,
+        "property_kor": "지구력 회복 속도 증가"
+      },
+      {
+        "text": "Cold Resist +15-25%",
+        "min": 15,
+        "max": 25,
+        "variable": true,
+        "property": "Cold Resist +{{value}}%",
+        "property_id": 426,
+        "property_kor": "냉기 저항"
+      },
+      {
+        "text": "Lightning Resist +15-25%",
+        "min": 15,
+        "max": 25,
+        "variable": true,
+        "property": "Lightning Resist +{{value}}%",
+        "property_id": 428,
+        "property_kor": "번개 저항"
+      }
+    ],
+    "nameId": "natalyas-soul"
+  },
+  {
+    "id": "2812479223",
+    "name": "Natalya's Totem",
+    "korName": "나탈리아의 토템 (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/wormskull.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 195,
+        "max": 300,
+        "property": "Defense"
+      },
+      {
+        "min": 135,
+        "max": 175,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "All Resistances +10-20",
+        "min": 10,
+        "max": 20,
+        "variable": true,
+        "property": "+{{value}} to All Resistances",
+        "property_id": 441,
+        "property_kor": "모든 저항"
+      },
+      {
+        "text": "+20-30 To Dexterity",
+        "min": 20,
+        "max": 30,
+        "variable": true,
+        "property": "+{{value}} to Dexterity",
+        "property_id": 429,
+        "property_kor": "민첩"
+      },
+      {
+        "text": "+10-20 To Strength",
+        "min": 10,
+        "max": 20,
+        "variable": true,
+        "property": "+{{value}} to Strength",
+        "property_id": 437,
+        "property_kor": "힘"
+      }
+    ],
+    "nameId": "natalyas-totem"
+  },
+  {
+    "id": "3712490589",
+    "name": "Ondal's Almighty",
+    "korName": "온달의 전능함 (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/ondals_almighty.png",
+    "tier": "Elite",
+    "description": [
+      {
+        "min": 164,
+        "max": 209,
+        "property": "Defense"
+      },
+      {
+        "min": 50,
+        "max": 50,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "ondals-almighty"
+  },
+  {
+    "id": "2165184904",
+    "name": "Rite of Passage",
+    "korName": "통과의례 (부츠)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/boot/leather_boots.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 53,
+        "max": 60,
+        "property": "Defense"
+      },
+      {
+        "min": 25,
+        "max": 25,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "+15-25 Maximum Stamina",
+        "min": 15,
+        "max": 25,
+        "variable": true,
+        "property": "+{{value}} Maximum Stamina",
+        "property_id": 452,
+        "property_kor": "최대 지구력"
+      }
+    ],
+    "nameId": "rite-of-passage"
+  },
+  {
+    "id": "2536509549",
+    "name": "Sander's Paragon",
+    "korName": "샌더스의 모범 (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/war_bonnet.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 4,
+        "max": 104,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "sanders-paragon"
+  },
+  {
+    "id": "3839100867",
+    "name": "Sander's Riprap",
+    "korName": "샌더스의 돌무더기 (부츠)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/boot/heavy_boots.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 5,
+        "max": 6,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "sanders-riprap"
+  },
+  {
+    "id": "4024507482",
+    "name": "Sander's Superstition",
+    "korName": "샌더스의 미신 (원드)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/wand/gravenspine.png",
+    "tier": "Normal",
+    "description": [],
+    "description_filtered": [
+      {
+        "text": "25-75 Cold Damage, 2 sec. Duration",
+        "min": 25,
+        "max": 75,
+        "variable": true,
+        "property": "Cold Damage",
+        "property_id": 551,
+        "property_kor": "냉기 피해"
+      }
+    ],
+    "nameId": "sanders-superstition"
+  },
+  {
+    "id": "3025625262",
+    "name": "Sander's Taboo",
+    "korName": "샌더스의 금기 (글러브)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/glove/heavy_gloves.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 25,
+        "max": 31,
+        "property": "Defense"
+      },
+      {
+        "min": 20,
+        "max": 25,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "Adds 9-11 Poison Damage Over 3 Seconds",
+        "min": 9,
+        "max": 11,
+        "variable": true,
+        "property": "Poison Damage",
+        "property_id": 589,
+        "property_kor": "독 피해"
+      }
+    ],
+    "nameId": "sanders-taboo"
+  },
+  {
+    "id": "3260618690",
+    "name": "Sazabi's Cobalt Redeemer",
+    "korName": "사자비의 코발트 구원자 (소드)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/sword/hellplague.png",
+    "tier": "Elite",
+    "description": [],
+    "description_filtered": [
+      {
+        "text": "Adds 25-35 Cold Damage, 2 sec. Duration",
+        "min": 25,
+        "max": 35,
+        "variable": true,
+        "property": "Cold Damage",
+        "property_id": 551,
+        "property_kor": "냉기 피해"
+      }
+    ],
+    "nameId": "sazabis-cobalt-redeemer"
+  },
+  {
+    "id": "4079485892",
+    "name": "Sazabi's Ghost Liberator",
+    "korName": "사자비의 유령 해방자 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/splint_mail.png",
+    "tier": "Elite",
+    "description": [
+      {
+        "min": 810,
+        "max": 917,
+        "property": "Defense"
+      },
+      {
+        "min": 400,
+        "max": 400,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "+50-75 To Life",
+        "min": 50,
+        "max": 75,
+        "variable": true,
+        "property": "+{{value}} to Life",
+        "property_id": 418,
+        "property_kor": "생명력"
+      }
+    ],
+    "nameId": "sazabis-ghost-liberator"
+  },
+  {
+    "id": "2732874563",
+    "name": "Sazabi's Mental Sheath",
+    "korName": "사자비의 정신 칼집 (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/duskdeep.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 175,
+        "max": 184,
+        "property": "Defense"
+      },
+      {
+        "min": 100,
+        "max": 100,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "Lightning Resist +15-20%",
+        "min": 15,
+        "max": 20,
+        "variable": true,
+        "property": "Lightning Resist +{{value}}%",
+        "property_id": 428,
+        "property_kor": "번개 저항"
+      },
+      {
+        "text": "Fire Resist +15-20%",
+        "min": 15,
+        "max": 20,
+        "variable": true,
+        "property": "Fire Resist +{{value}}%",
+        "property_id": 427,
+        "property_kor": "화염 저항"
+      }
+    ],
+    "nameId": "sazabis-mental-sheath"
+  },
+  {
+    "id": "2457555923",
+    "name": "Sigon's Gage",
+    "korName": "시곤의 건틀렛 (글러브)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/glove/gaunlets_h.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 12,
+        "max": 15,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "sigons-gage"
+  },
+  {
+    "id": "2749106253",
+    "name": "Sigon's Guard",
+    "korName": "시곤의 방패 (쉴드)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/shield/bverrit_keep.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 22,
+        "max": 25,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "sigons-guard"
+  },
+  {
+    "id": "3246675334",
+    "name": "Sigon's Sabot",
+    "korName": "시곤의 신발 (부츠)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/boot/plate_boots.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 12,
+        "max": 15,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "sigons-sabot"
+  },
+  {
+    "id": "2593020278",
+    "name": "Sigon's Shelter",
+    "korName": "시곤의 갑옷 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/gothic_plate.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 170,
+        "max": 170,
+        "property": "Defense"
+      },
+      {
+        "min": 25,
+        "max": 25,
+        "property": "Enhanced Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "sigons-shelter"
+  },
+  {
+    "id": "2321700074",
+    "name": "Sigon's Visor",
+    "korName": "시곤의 투구 (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/great_helm.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 55,
+        "max": 60,
+        "property": "Defense"
+      },
+      {
+        "min": 25,
+        "max": 25,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "sigons-visor"
+  },
+  {
+    "id": "3468104278",
+    "name": "Sigon's Wrap",
+    "korName": "시곤의 허리띠 (벨트)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/belt/girdle_h.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 8,
+        "max": 11,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "sigons-wrap"
+  },
+  {
+    "id": "2452108311",
+    "name": "Taebaek's Glory",
+    "korName": "태백의 영광 (쉴드)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/shield/heavens_taebaek.png",
+    "tier": "Elite",
+    "description": [
+      {
+        "min": 203,
+        "max": 220,
+        "property": "Defense"
+      },
+      {
+        "min": 50,
+        "max": 50,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "taebaeks-glory"
+  },
+  {
+    "id": "3508566971",
+    "name": "Tal Rasha's Adjudication",
+    "korName": "탈라샤의 판결 (목걸이)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/amulet/amulet2.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [
+      {
+        "text": "Adds 3-32 Lightning Damage",
+        "min": 3,
+        "max": 32,
+        "variable": true,
+        "property": "Lightning Damage",
+        "property_id": 550,
+        "property_kor": "번개 피해"
+      }
+    ],
+    "nameId": "tal-rashas-adjudication"
+  },
+  {
+    "id": "2481158566",
+    "name": "Tal Rasha's Fine-Spun Cloth",
+    "korName": "탈라샤의 고급 천 (벨트)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/belt/belt_m.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 35,
+        "max": 40,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "10-15% Better Chance Of Getting Magic Items",
+        "min": 10,
+        "max": 15,
+        "variable": true,
+        "property": "Better Chance of Getting Magic Items",
+        "property_id": 461,
+        "property_kor": "마법 아이템 발견 확률 증가"
+      }
+    ],
+    "nameId": "tal-rashas-fine-spun-cloth"
+  },
+  {
+    "id": "2994169422",
+    "name": "Tal Rasha's Guardianship",
+    "korName": "탈라샤의 수호 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/gothic_plate.png",
+    "tier": "Elite",
+    "description": [
+      {
+        "min": 833,
+        "max": 941,
+        "property": "Defense"
+      },
+      {
+        "min": 400,
+        "max": 400,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "tal-rashas-guardianship"
+  },
+  {
+    "id": "3807052825",
+    "name": "Tal Rasha's Horadric Crest",
+    "korName": "탈라샤의 호라드릭 문장 (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/mask.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 99,
+        "max": 131,
+        "property": "Defense"
+      },
+      {
+        "min": 45,
+        "max": 45,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "tal-rashas-horadric-crest"
+  },
+  {
+    "id": "2185308355",
+    "name": "Tal Rasha's Lidless Eye",
+    "korName": "탈라샤의 감시하는 눈 (오브)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/orb/dragon_stone.png",
+    "tier": "Exceptional",
+    "description": [],
+    "description_filtered": [
+      {
+        "text": "+1-2 To Lightning Mastery (Sorceress Only)",
+        "min": 1,
+        "max": 2,
+        "variable": true,
+        "property": "+{{value}} to Lightning Mastery (Sorceress Only)",
+        "property_id": 1051,
+        "property_kor": "번개 흡수 (원소술사 전용)"
+      },
+      {
+        "text": "+1-2 To Fire Mastery (Sorceress Only)",
+        "min": 1,
+        "max": 2,
+        "variable": true,
+        "property": "+{{value}} to Fire Mastery (Sorceress Only)",
+        "property_id": 1050,
+        "property_kor": "화염 숙련 (원소술사 전용)"
+      },
+      {
+        "text": "+1-2 To Cold Mastery (Sorceress Only)",
+        "min": 1,
+        "max": 2,
+        "variable": true,
+        "property": "+{{value}} to Cold Mastery (Sorceress Only)",
+        "property_id": 1053,
+        "property_kor": "냉기 숙련 (원소술사 전용)"
+      }
+    ],
+    "nameId": "tal-rashas-lidless-eye"
+  },
+  {
+    "id": "4029956852",
+    "name": "Tancred's Crowbill",
+    "korName": "탄크레드의 까마귀부리 (액스)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/axe/mindrend.png",
+    "tier": "Normal",
+    "description": [],
+    "description_filtered": [],
+    "nameId": "tancreds-crowbill"
+  },
+  {
+    "id": "2422102974",
+    "name": "Tancred's Hobnails",
+    "korName": "탄크레드의 징박은 신발 (부츠)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/boot/leather_boots.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 2,
+        "max": 3,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "tancreds-hobnails"
+  },
+  {
+    "id": "3117626652",
+    "name": "Tancred's Skull",
+    "korName": "탄크레드의 두개골 (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/wormskull.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 33,
+        "max": 36,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "tancreds-skull"
+  },
+  {
+    "id": "2171822281",
+    "name": "Tancred's Spine",
+    "korName": "탄크레드의 척추 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/goldskin.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 150,
+        "max": 161,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "tancreds-spine"
+  },
+  {
+    "id": "2847999465",
+    "name": "Tancred's Weird",
+    "korName": "탄크레드의 부적 (목걸이)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/amulet/amulet3.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [],
+    "nameId": "tancreds-weird"
+  },
+  {
+    "id": "4194008562",
+    "name": "Telling of Beads",
+    "korName": "묵주 (목걸이)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/amulet/amulet2.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [
+      {
+        "text": "Poison Resist +35-50%",
+        "min": 35,
+        "max": 50,
+        "variable": true,
+        "property": "Poison Resist +{{value}}%",
+        "property_id": 401,
+        "property_kor": "독 저항"
+      },
+      {
+        "text": "Attacker Takes Damage of 8-10",
+        "min": 8,
+        "max": 10,
+        "variable": true,
+        "property": "Attacker Takes Damage of {{value}}",
+        "property_id": 415,
+        "property_kor": "공격자가 피해를 받음"
+      }
+    ],
+    "nameId": "telling-of-beads"
+  },
+  {
+    "id": "2765902985",
+    "name": "Trang-Oul's Claws",
+    "korName": "트랑울의 발톱 (글러브)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/glove/bracers_m.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 67,
+        "max": 74,
+        "property": "Defense"
+      },
+      {
+        "min": 30,
+        "max": 30,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "trang-ouls-claws"
+  },
+  {
+    "id": "3086158739",
+    "name": "Trang-Oul's Girth",
+    "korName": "트랑울의 허리띠 (벨트)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/belt/heavy_belt.png",
+    "tier": "Elite",
+    "description": [
+      {
+        "min": 134,
+        "max": 166,
+        "property": "Defense"
+      },
+      {
+        "min": 75,
+        "max": 100,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "+25-50 To Mana",
+        "min": 25,
+        "max": 50,
+        "variable": true,
+        "property": "to Mana",
+        "property_id": 400,
+        "property_kor": "마나"
+      }
+    ],
+    "nameId": "trang-ouls-girth"
+  },
+  {
+    "id": "3922359990",
+    "name": "Trang-Oul's Guise",
+    "korName": "트랑울의 가면 (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/wormskull.png",
+    "tier": "Elite",
+    "description": [
+      {
+        "min": 180,
+        "max": 257,
+        "property": "Defense"
+      },
+      {
+        "min": 80,
+        "max": 100,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "trang-ouls-guise"
+  },
+  {
+    "id": "3613947673",
+    "name": "Trang-Oul's Scales",
+    "korName": "트랑울의 비늘 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/full_plate_mail.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 857,
+        "max": 857,
+        "property": "Defense"
+      },
+      {
+        "min": 150,
+        "max": 150,
+        "property": "Enhanced Defense"
+      },
+      {
+        "min": 100,
+        "max": 100,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "trang-ouls-scales"
+  },
+  {
+    "id": "4020337561",
+    "name": "Trang-Oul's Wing",
+    "korName": "트랑울의 날개 (트로피)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/voodoo_head/gargoyle_head.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 175,
+        "max": 189,
+        "property": "Defense"
+      },
+      {
+        "min": 125,
+        "max": 125,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [
+      {
+        "text": "Fire Resist +38-45%",
+        "min": 38,
+        "max": 45,
+        "variable": true,
+        "property": "Fire Resist +{{value}}%",
+        "property_id": 427,
+        "property_kor": "화염 저항"
+      }
+    ],
+    "nameId": "trang-ouls-wing"
+  },
+  {
+    "id": "4278402817",
+    "name": "Vidala's Ambush",
+    "korName": "비달라의 매복 (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/leather_armor.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 64,
+        "max": 67,
+        "property": "Defense"
+      },
+      {
+        "min": 50,
+        "max": 50,
+        "property": "plus Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "vidalas-ambush"
+  },
+  {
+    "id": "2367298410",
+    "name": "Vidala's Barb",
+    "korName": "비달라의 화살 (보우)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/bow/long_battle_bow.png",
+    "tier": "Normal",
+    "description": [],
+    "description_filtered": [
+      {
+        "text": "Adds 1-20 Lightning Damage",
+        "min": 1,
+        "max": 20,
+        "variable": true,
+        "property": "Lightning Damage",
+        "property_id": 550,
+        "property_kor": "번개 피해"
+      }
+    ],
+    "nameId": "vidalas-barb"
+  },
+  {
+    "id": "3663603700",
+    "name": "Vidala's Fetlock",
+    "korName": "비달라의 발목 (부츠)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/boot/light_plate_boots.png",
+    "tier": "Normal",
+    "description": [
+      {
+        "min": 9,
+        "max": 11,
+        "property": "Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "vidalas-fetlock"
+  },
+  {
+    "id": "2673028099",
+    "name": "Vidala's Snare",
+    "korName": "비달라의 올가미 (목걸이)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/amulet/amulet2.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [],
+    "nameId": "vidalas-snare"
+  },
+  {
+    "id": "3948544508",
+    "name": "Warlord's Authority",
+    "korName": "Warlord's Authority (벨트)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/belt/girdle_h.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [],
+    "nameId": "warlords-authority"
+  },
+  {
+    "id": "3356317273",
+    "name": "Warlord's Conquest",
+    "korName": "Warlord's Conquest (글러브)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/glove/gaunlets_h.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [],
+    "nameId": "warlords-conquest"
+  },
+  {
+    "id": "4163395957",
+    "name": "Warlord's Crushers",
+    "korName": "Warlord's Crushers (부츠)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/boot/plate_boots.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [],
+    "nameId": "warlords-crushers"
+  },
+  {
+    "id": "4161936065",
+    "name": "Warlord's Lust",
+    "korName": "Warlord's Lust (헬름)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/great_helm.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [],
+    "nameId": "warlords-lust"
+  },
+  {
+    "id": "3946842452",
+    "name": "Warlord's Mantle",
+    "korName": "Warlord's Mantle (갑옷)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/armor/full_plate_mail.png",
+    "tier": null,
+    "description": [],
+    "description_filtered": [],
+    "nameId": "warlords-mantle"
+  },
+  {
+    "id": "4284941252",
+    "name": "Whitstan's Guard",
+    "korName": "위트스탄의 수호 (쉴드)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/shield/mosers_blessed_circle.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 154,
+        "max": 154,
+        "property": "Defense"
+      },
+      {
+        "min": 175,
+        "max": 175,
+        "property": "Enhanced Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "whitstans-guard"
+  },
+  {
+    "id": "3671921839",
+    "name": "Wilhelm's Pride",
+    "korName": "빌헬름의 자긍심 (벨트)",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/belt/heavy_belt.png",
+    "tier": "Exceptional",
+    "description": [
+      {
+        "min": 75,
+        "max": 75,
+        "property": "Defense"
+      },
+      {
+        "min": 75,
+        "max": 75,
+        "property": "Enhanced Defense"
+      }
+    ],
+    "description_filtered": [],
+    "nameId": "wilhelms-pride"
+  }
+]
