@@ -13,7 +13,8 @@
     "sockets": 3,
     "korName": "고대인의서약",
     "description_filtered": [],
-    "nameId": "ancients-pledge"
+    "nameId": "ancients-pledge",
+    "baseItemKey": "Base Item (Shield) 3"
   },
   {
     "id": 3385933447,
@@ -26,10 +27,11 @@
         "eng": "Body Armor"
       }
     ],
-    "sockets": null,
+    "sockets": 4,
     "korName": "명예의굴레(명굴)",
     "description_filtered": [],
-    "nameId": "chains-of-honor"
+    "nameId": "chains-of-honor",
+    "baseItemKey": "Base Item (Body Armor) 4"
   },
   {
     "id": 3368308630,
@@ -45,7 +47,8 @@
     "sockets": 3,
     "korName": "착란",
     "description_filtered": [],
-    "nameId": "delirium"
+    "nameId": "delirium",
+    "baseItemKey": "Base Item (Helm) 3"
   },
   {
     "id": 2218687720,
@@ -61,7 +64,8 @@
     "sockets": 3,
     "korName": "깨우침",
     "description_filtered": [],
-    "nameId": "enlightenment"
+    "nameId": "enlightenment",
+    "baseItemKey": "Base Item (Body Armor) 3"
   },
   {
     "id": 3490200463,
@@ -77,7 +81,8 @@
     "sockets": 3,
     "korName": "분노",
     "description_filtered": [],
-    "nameId": "fury"
+    "nameId": "fury",
+    "baseItemKey": "Base Item (Melee) 3"
   },
   {
     "id": 2979471591,
@@ -93,7 +98,8 @@
     "sockets": 5,
     "korName": "명예",
     "description_filtered": [],
-    "nameId": "honor"
+    "nameId": "honor",
+    "baseItemKey": "Base Item (Melee) 5"
   },
   {
     "id": 3912241053,
@@ -109,7 +115,8 @@
     "sockets": 3,
     "korName": "발작(투지_갑옷)",
     "description_filtered": [],
-    "nameId": "hustle-armor"
+    "nameId": "hustle-armor",
+    "baseItemKey": "Base Item (Body Armor) 3"
   },
   {
     "id": 2455717479,
@@ -125,7 +132,8 @@
     "sockets": 3,
     "korName": "용맹",
     "description_filtered": [],
-    "nameId": "lionheart"
+    "nameId": "lionheart",
+    "baseItemKey": "Base Item (Body Armor) 3"
   },
   {
     "id": 2209115565,
@@ -141,7 +149,8 @@
     "sockets": 2,
     "korName": "전승",
     "description_filtered": [],
-    "nameId": "lore"
+    "nameId": "lore",
+    "baseItemKey": "Base Item (Helm) 2"
   },
   {
     "id": 4074840200,
@@ -157,7 +166,8 @@
     "sockets": 3,
     "korName": "악의",
     "description_filtered": [],
-    "nameId": "malice"
+    "nameId": "malice",
+    "baseItemKey": "Base Item (Melee) 3"
   },
   {
     "id": 4075954085,
@@ -183,7 +193,8 @@
     "sockets": 3,
     "korName": "선율",
     "description_filtered": [],
-    "nameId": "melody"
+    "nameId": "melody",
+    "baseItemKey": "Base Item (Ranged) 3"
   },
   {
     "id": 3824179300,
@@ -199,7 +210,8 @@
     "sockets": 4,
     "korName": "기억",
     "description_filtered": [],
-    "nameId": "memory"
+    "nameId": "memory",
+    "baseItemKey": "Base Item (Stave) 4"
   },
   {
     "id": 3449189353,
@@ -215,7 +227,8 @@
     "sockets": 3,
     "korName": "신화",
     "description_filtered": [],
-    "nameId": "myth"
+    "nameId": "myth",
+    "baseItemKey": "Base Item (Body Armor) 3"
   },
   {
     "id": 3516094811,
@@ -231,7 +244,8 @@
     "sockets": 2,
     "korName": "구렁텅이",
     "description_filtered": [],
-    "nameId": "nadir"
+    "nameId": "nadir",
+    "baseItemKey": "Base Item (Helm) 2"
   },
   {
     "id": 2771325093,
@@ -262,7 +276,8 @@
         "property_kor": "모든저항"
       }
     ],
-    "nameId": "obsession"
+    "nameId": "obsession",
+    "baseItemKey": "Base Item (Stave) 6"
   },
   {
     "id": 4238703010,
@@ -278,7 +293,8 @@
     "sockets": 3,
     "korName": "평화",
     "description_filtered": [],
-    "nameId": "peace"
+    "nameId": "peace",
+    "baseItemKey": "Base Item (Body Armor) 3"
   },
   {
     "id": 3250339330,
@@ -294,7 +310,8 @@
     "sockets": 3,
     "korName": "광휘",
     "description_filtered": [],
-    "nameId": "radiance"
+    "nameId": "radiance",
+    "baseItemKey": "Base Item (Helm) 3"
   },
   {
     "id": 3104530004,
@@ -310,7 +327,8 @@
     "sockets": 2,
     "korName": "각운",
     "description_filtered": [],
-    "nameId": "rhyme"
+    "nameId": "rhyme",
+    "baseItemKey": "Base Item (Shield) 2"
   },
   {
     "id": 2590924062,
@@ -326,7 +344,8 @@
     "sockets": 6,
     "korName": "침묵",
     "description_filtered": [],
-    "nameId": "silence"
+    "nameId": "silence",
+    "baseItemKey": "Base Item (Weapon) 6"
   },
   {
     "id": 3229615258,
@@ -342,7 +361,8 @@
     "sockets": 2,
     "korName": "연기",
     "description_filtered": [],
-    "nameId": "smoke"
+    "nameId": "smoke",
+    "baseItemKey": "Base Item (Body Armor) 2"
   },
   {
     "id": 2379502105,
@@ -358,7 +378,8 @@
     "sockets": 2,
     "korName": "잠행",
     "description_filtered": [],
-    "nameId": "stealth"
+    "nameId": "stealth",
+    "baseItemKey": "Base Item (Body Armor) 2"
   },
   {
     "id": 3110603193,
@@ -384,7 +405,8 @@
     "sockets": 2,
     "korName": "강철",
     "description_filtered": [],
-    "nameId": "steel"
+    "nameId": "steel",
+    "baseItemKey": "Base Item (Axe, Mace, Sword) 2"
   },
   {
     "id": 4066132501,
@@ -400,7 +422,8 @@
     "sockets": 2,
     "korName": "강함",
     "description_filtered": [],
-    "nameId": "strength"
+    "nameId": "strength",
+    "baseItemKey": "Base Item (Melee) 2"
   },
   {
     "id": 3765770868,
@@ -416,7 +439,8 @@
     "sockets": 3,
     "korName": "배신",
     "description_filtered": [],
-    "nameId": "treachery"
+    "nameId": "treachery",
+    "baseItemKey": "Base Item (Body Armor) 3"
   },
   {
     "id": 4059063280,
@@ -432,7 +456,8 @@
     "sockets": 3,
     "korName": "맹독",
     "description_filtered": [],
-    "nameId": "venom"
+    "nameId": "venom",
+    "baseItemKey": "Base Item (Weapon) 3"
   },
   {
     "id": 3209908061,
@@ -448,7 +473,8 @@
     "sockets": 3,
     "korName": "부",
     "description_filtered": [],
-    "nameId": "wealth"
+    "nameId": "wealth",
+    "baseItemKey": "Base Item (Body Armor) 3"
   },
   {
     "id": 2941072295,
@@ -464,7 +490,8 @@
     "sockets": 2,
     "korName": "순백",
     "description_filtered": [],
-    "nameId": "white"
+    "nameId": "white",
+    "baseItemKey": "Base Item (Wand) 2"
   },
   {
     "id": 3819728147,
@@ -498,7 +525,8 @@
         "property_kor": "+독피해에걸쳐초"
       }
     ],
-    "nameId": "black"
+    "nameId": "black",
+    "baseItemKey": "Base Item (Club, Hammer, Mace) 3"
   },
   {
     "id": 3193580456,
@@ -529,7 +557,8 @@
         "property_kor": "적중당마나훔침"
       }
     ],
-    "nameId": "wisdom"
+    "nameId": "wisdom",
+    "baseItemKey": "Base Item (Helm) 3"
   },
   {
     "id": 2435457251,
@@ -558,7 +587,8 @@
         "property_kor": "모든저항"
       }
     ],
-    "nameId": "fortitude"
+    "nameId": "fortitude",
+    "baseItemKey": "Base Item (Body Armor, Weapon) 4"
   },
   {
     "id": 2722520352,
@@ -587,7 +617,8 @@
         "property_kor": "모든저항"
       }
     ],
-    "nameId": "heart-of-the-oak"
+    "nameId": "heart-of-the-oak",
+    "baseItemKey": "Base Item (Mace, Stave) 4"
   },
   {
     "id": 2773029390,
@@ -611,7 +642,8 @@
         "property_kor": "to생명력"
       }
     ],
-    "nameId": "principle"
+    "nameId": "principle",
+    "baseItemKey": "Base Item (Body Armor) 3"
   },
   {
     "id": 2364875817,
@@ -652,7 +684,8 @@
         "property_kor": "힘"
       }
     ],
-    "nameId": "beast"
+    "nameId": "beast",
+    "baseItemKey": "Base Item (Axe, Hammer, Scepter) 5"
   },
   {
     "id": 3016236627,
@@ -693,7 +726,8 @@
         "property_kor": "악마에게주는피해"
       }
     ],
-    "nameId": "brand"
+    "nameId": "brand",
+    "baseItemKey": "Base Item (Ranged) 4"
   },
   {
     "id": 2448974169,
@@ -706,7 +740,7 @@
         "eng": "Weapon"
       }
     ],
-    "sockets": null,
+    "sockets": 6,
     "korName": "죽어가는자의숨결(죽숨)",
     "description_filtered": [
       {
@@ -724,7 +758,8 @@
         "property_kor": "적중당마나훔침"
       }
     ],
-    "nameId": "breath-of-the-dying"
+    "nameId": "breath-of-the-dying",
+    "baseItemKey": "Base Item (Weapon) 6"
   },
   {
     "id": 2323188615,
@@ -776,7 +811,8 @@
         "property_kor": "to전투의함성(AnyClass)"
       }
     ],
-    "nameId": "call-to-arms"
+    "nameId": "call-to-arms",
+    "baseItemKey": "Base Item (Weapon) 5"
   },
   {
     "id": 4012582858,
@@ -807,7 +843,8 @@
         "property_kor": "마법피해"
       }
     ],
-    "nameId": "chaos"
+    "nameId": "chaos",
+    "baseItemKey": "Base Item (Claw) 3"
   },
   {
     "id": 954013925,
@@ -848,7 +885,8 @@
         "property_kor": "마법흡수"
       }
     ],
-    "nameId": "crescent-moon"
+    "nameId": "crescent-moon",
+    "baseItemKey": "Base Item (Axe, Polearm, Sword) 3"
   },
   {
     "id": 3840874018,
@@ -884,7 +922,8 @@
         "property_kor": "번개피해"
       }
     ],
-    "nameId": "death"
+    "nameId": "death",
+    "baseItemKey": "Base Item (Axe, Sword) 5"
   },
   {
     "id": 4194200311,
@@ -925,7 +964,8 @@
         "property_kor": "적의냉기저항-"
       }
     ],
-    "nameId": "doom"
+    "nameId": "doom",
+    "baseItemKey": "Base Item (Axe, Hammer, Polearm) 5"
   },
   {
     "id": 2281267183,
@@ -938,7 +978,7 @@
         "eng": "Body Armor"
       }
     ],
-    "sockets": null,
+    "sockets": 3,
     "korName": "협박",
     "description_filtered": [
       {
@@ -956,7 +996,8 @@
         "property_kor": "방어증가"
       }
     ],
-    "nameId": "duress"
+    "nameId": "duress",
+    "baseItemKey": "Base Item (Body Armor) 3"
   },
   {
     "id": 4205149908,
@@ -980,7 +1021,8 @@
         "property_kor": "피해증가"
       }
     ],
-    "nameId": "eternity"
+    "nameId": "eternity",
+    "baseItemKey": "Base Item (Melee) 5"
   },
   {
     "id": 3070973153,
@@ -1037,7 +1079,8 @@
         "property_kor": "냉기피해"
       }
     ],
-    "nameId": "famine"
+    "nameId": "famine",
+    "baseItemKey": "Base Item (Axe, Hammer) 4"
   },
   {
     "id": 4017881382,
@@ -1071,7 +1114,8 @@
         "property_kor": "피해증가"
       }
     ],
-    "nameId": "hand-of-justice"
+    "nameId": "hand-of-justice",
+    "baseItemKey": "Base Item (Weapon) 4"
   },
   {
     "id": 2814586303,
@@ -1133,7 +1177,8 @@
         "property_kor": "발키리"
       }
     ],
-    "nameId": "harmony"
+    "nameId": "harmony",
+    "baseItemKey": "Base Item (Ranged) 4"
   },
   {
     "id": 3062130051,
@@ -1157,7 +1202,8 @@
         "property_kor": "피해증가"
       }
     ],
-    "nameId": "hustle-weapon"
+    "nameId": "hustle-weapon",
+    "baseItemKey": "Base Item (Weapon) 3"
   },
   {
     "id": 2490200098,
@@ -1198,7 +1244,8 @@
         "property_kor": "냉기기술"
       }
     ],
-    "nameId": "ice"
+    "nameId": "ice",
+    "baseItemKey": "Base Item (Ranged) 4"
   },
   {
     "id": 4155198360,
@@ -1236,10 +1283,11 @@
         "max": 55,
         "property": "To Enemy Lightning Resist",
         "property_id": 736,
-        "property_kor": "toEnemy번개저항ance"
+        "property_kor": "적의 번개저항 깎기"
       }
     ],
-    "nameId": "infinity"
+    "nameId": "infinity",
+    "baseItemKey": "Base Item (Polearm, Spear) 4"
   },
   {
     "id": 3753597518,
@@ -1268,7 +1316,8 @@
         "property_kor": "피해증가"
       }
     ],
-    "nameId": "kingslayer"
+    "nameId": "kingslayer",
+    "baseItemKey": "Base Item (Axe, Sword) 4"
   },
   {
     "id": 3400546348,
@@ -1309,7 +1358,8 @@
         "property_kor": "강한타격 확률"
       }
     ],
-    "nameId": "last-wish"
+    "nameId": "last-wish",
+    "baseItemKey": "Base Item (Axe, Hammer, Sword) 6"
   },
   {
     "id": 3813699743,
@@ -1354,7 +1404,8 @@
         "property_kor": "번개기술피해"
       }
     ],
-    "nameId": "mosaic"
+    "nameId": "mosaic",
+    "baseItemKey": "Base Item (Claw) 3"
   },
   {
     "id": 3343671684,
@@ -1395,7 +1446,8 @@
         "property_kor": "마법흡수"
       }
     ],
-    "nameId": "oath"
+    "nameId": "oath",
+    "baseItemKey": "Base Item (Axe, Mace, Sword) 4"
   },
   {
     "id": 3436543478,
@@ -1433,52 +1485,8 @@
         "property_kor": "번개피해"
       }
     ],
-    "nameId": "passion"
-  },
-  {
-    "id": 4086849218,
-    "name": "Pattern",
-    "img": "https://cdn.nookazon.com/diablo2resurrected/runeword/pattern.png",
-    "type": [
-      {
-        "kor": "Assassin Claw",
-        "group": "Assassin Claw",
-        "eng": "Assassin Claw"
-      }
-    ],
-    "sockets": null,
-    "korName": "귀감",
-    "description_filtered": [
-      {
-        "min": 40,
-        "max": 80,
-        "property": "Enhanced Damage (Varies)",
-        "property_id": 510,
-        "property_kor": "피해증가"
-      },
-      {
-        "min": 17,
-        "max": 62,
-        "property": "Fire Damage",
-        "property_id": 549,
-        "property_kor": "화염피해"
-      },
-      {
-        "min": 1,
-        "max": 50,
-        "property": "Lightning Damage",
-        "property_id": 550,
-        "property_kor": "번개피해"
-      },
-      {
-        "min": 3,
-        "max": 14,
-        "property": "Cold Damage",
-        "property_id": 548,
-        "property_kor": "냉기피해"
-      }
-    ],
-    "nameId": "pattern"
+    "nameId": "passion",
+    "baseItemKey": "Base Item (Weapon) 4"
   },
   {
     "id": 2197492014,
@@ -1502,7 +1510,8 @@
         "property_kor": "피해증가"
       }
     ],
-    "nameId": "wind"
+    "nameId": "wind",
+    "baseItemKey": "Base Item (Melee) 2"
   },
   {
     "id": 3276298517,
@@ -1533,7 +1542,8 @@
         "property_kor": "독저항"
       }
     ],
-    "nameId": "cure"
+    "nameId": "cure",
+    "baseItemKey": "Base Item (Helm) 3"
   },
   {
     "id": 4285012121,
@@ -1557,7 +1567,8 @@
         "property_kor": "방어증가"
       }
     ],
-    "nameId": "gloom"
+    "nameId": "gloom",
+    "baseItemKey": "Base Item (Body Armor) 3"
   },
   {
     "id": 3782113433,
@@ -1595,7 +1606,8 @@
         "property_kor": "번개Absorb"
       }
     ],
-    "nameId": "ground"
+    "nameId": "ground",
+    "baseItemKey": "Base Item (Helm) 3"
   },
   {
     "id": 2461085789,
@@ -1633,7 +1645,8 @@
         "property_kor": "냉기흡수"
       }
     ],
-    "nameId": "hearth"
+    "nameId": "hearth",
+    "baseItemKey": "Base Item (Helm) 3"
   },
   {
     "id": 3829221492,
@@ -1657,7 +1670,8 @@
         "property_kor": "방어증가"
       }
     ],
-    "nameId": "metamorphosis"
+    "nameId": "metamorphosis",
+    "baseItemKey": "Base Item (Helm) 3"
   },
   {
     "id": 3178447042,
@@ -1670,7 +1684,7 @@
         "eng": "Body Armor"
       }
     ],
-    "sockets": null,
+    "sockets": 2,
     "korName": "신중",
     "description_filtered": [
       {
@@ -1688,7 +1702,8 @@
         "property_kor": "모든저항"
       }
     ],
-    "nameId": "prudence"
+    "nameId": "prudence",
+    "baseItemKey": "Base Item (Body Armor) 2"
   },
   {
     "id": 2856481773,
@@ -1719,7 +1734,8 @@
         "property_kor": "모든저항"
       }
     ],
-    "nameId": "sanctuary"
+    "nameId": "sanctuary",
+    "baseItemKey": "Base Item (Shield) 3"
   },
   {
     "id": 3550826842,
@@ -1743,7 +1759,8 @@
         "property_kor": "방어증가"
       }
     ],
-    "nameId": "splendor"
+    "nameId": "splendor",
+    "baseItemKey": "Base Item (Shield) 2"
   },
   {
     "id": 2781950288,
@@ -1767,7 +1784,8 @@
         "property_kor": "방어증가"
       }
     ],
-    "nameId": "stone"
+    "nameId": "stone",
+    "baseItemKey": "Base Item (Body Armor) 4"
   },
   {
     "id": 2495623478,
@@ -1805,7 +1823,8 @@
         "property_kor": "화염흡수"
       }
     ],
-    "nameId": "temper"
+    "nameId": "temper",
+    "baseItemKey": "Base Item (Helm) 3"
   },
   {
     "id": 3733854279,
@@ -1836,7 +1855,8 @@
         "property_kor": "모든능력치"
       }
     ],
-    "nameId": "edge"
+    "nameId": "edge",
+    "baseItemKey": "Base Item (Ranged) 3"
   },
   {
     "id": 3352234063,
@@ -1879,7 +1899,8 @@
         "property_kor": "냉기피해"
       }
     ],
-    "nameId": "voice-of-reason"
+    "nameId": "voice-of-reason",
+    "baseItemKey": "Base Item (Mace, Sword) 4"
   },
   {
     "id": 3767021069,
@@ -1910,7 +1931,8 @@
         "property_kor": "독기술피해"
       }
     ],
-    "nameId": "bramble"
+    "nameId": "bramble",
+    "baseItemKey": "Base Item (Body Armor) 4"
   },
   {
     "id": 3001704624,
@@ -1951,7 +1973,8 @@
         "property_kor": "모든기술"
       }
     ],
-    "nameId": "faith"
+    "nameId": "faith",
+    "baseItemKey": "Base Item (Ranged) 4"
   },
   {
     "id": 2542550690,
@@ -2013,7 +2036,8 @@
         "property_kor": "to치명타(AnyClass)"
       }
     ],
-    "nameId": "insight"
+    "nameId": "insight",
+    "baseItemKey": "Base Item (Polearm, Ranged, Stave) 4"
   },
   {
     "id": 3927927332,
@@ -2068,7 +2092,8 @@
         "property_kor": "방어력vs.Missile"
       }
     ],
-    "nameId": "lawbringer"
+    "nameId": "lawbringer",
+    "baseItemKey": "Base Item (Hammer, Scepter, Sword) 3"
   },
   {
     "id": 4124397285,
@@ -2118,7 +2143,8 @@
         "property_kor": "화염흡수"
       }
     ],
-    "nameId": "phoenix"
+    "nameId": "phoenix",
+    "baseItemKey": "Base Item (Shield, Weapon) 4"
   },
   {
     "id": 3259904432,
@@ -2163,7 +2189,8 @@
         "property_kor": "마나"
       }
     ],
-    "nameId": "flickering-flame"
+    "nameId": "flickering-flame",
+    "baseItemKey": "Base Item (Helm) 3"
   },
   {
     "id": 3509804989,
@@ -2194,7 +2221,8 @@
         "property_kor": "방어증가"
       }
     ],
-    "nameId": "exile"
+    "nameId": "exile",
+    "baseItemKey": "Base Item (Auric) 4"
   },
   {
     "id": 2213836276,
@@ -2237,7 +2265,8 @@
         "property_kor": "피해증가"
       }
     ],
-    "nameId": "plague"
+    "nameId": "plague",
+    "baseItemKey": "Base Item (Claw, Dagger, Sword) 3"
   },
   {
     "id": 2501313411,
@@ -2260,7 +2289,7 @@
         "eng": "Ranged"
       }
     ],
-    "sockets": null,
+    "sockets": 5,
     "korName": "안개",
     "description_filtered": [
       {
@@ -2285,7 +2314,8 @@
         "property_kor": "냉기피해"
       }
     ],
-    "nameId": "mist"
+    "nameId": "mist",
+    "baseItemKey": "Base Item (Ranged) 5"
   },
   {
     "id": 3854262021,
@@ -2326,7 +2356,8 @@
         "property_kor": "명중률보너스"
       }
     ],
-    "nameId": "pride"
+    "nameId": "pride",
+    "baseItemKey": "Base Item (Polearm, Spear) 4"
   },
   {
     "id": 2513849782,
@@ -2350,7 +2381,8 @@
         "property_kor": "마나"
       }
     ],
-    "nameId": "bone"
+    "nameId": "bone",
+    "baseItemKey": "Base Item (Body Armor) 3"
   },
   {
     "id": 3558345749,
@@ -2374,7 +2406,8 @@
         "property_kor": "마나"
       }
     ],
-    "nameId": "rain"
+    "nameId": "rain",
+    "baseItemKey": "Base Item (Body Armor) 3"
   },
   {
     "id": 2499094534,
@@ -2403,7 +2436,8 @@
         "property_kor": "마법피해"
       }
     ],
-    "nameId": "destruction"
+    "nameId": "destruction",
+    "baseItemKey": "Base Item (Polearm, Sword) 5"
   },
   {
     "id": 3604494325,
@@ -2446,7 +2480,8 @@
         "property_kor": "모든능력치"
       }
     ],
-    "nameId": "rift"
+    "nameId": "rift",
+    "baseItemKey": "Base Item (Polearm, Scepter) 4"
   },
   {
     "id": 3342294954,
@@ -2475,7 +2510,8 @@
         "property_kor": "모든능력치"
       }
     ],
-    "nameId": "dragon"
+    "nameId": "dragon",
+    "baseItemKey": "Base Item (Body Armor, Shield) 3"
   },
   {
     "id": 3673698610,
@@ -2499,7 +2535,8 @@
         "property_kor": "방어력"
       }
     ],
-    "nameId": "enigma"
+    "nameId": "enigma",
+    "baseItemKey": "Base Item (Body Armor) 3"
   },
   {
     "id": 2241024865,
@@ -2540,7 +2577,8 @@
         "property_kor": "모든저항"
       }
     ],
-    "nameId": "obedience"
+    "nameId": "obedience",
+    "baseItemKey": "Base Item (Polearm, Spear) 5"
   },
   {
     "id": 2680357188,
@@ -2569,7 +2607,8 @@
         "property_kor": "번개피해"
       }
     ],
-    "nameId": "zephyr"
+    "nameId": "zephyr",
+    "baseItemKey": "Base Item (Ranged) 2"
   },
   {
     "id": 3588456322,
@@ -2626,7 +2665,8 @@
         "property_kor": "번개피해"
       }
     ],
-    "nameId": "spirit"
+    "nameId": "spirit",
+    "baseItemKey": "Base Item (Shield, Sword) 4"
   },
   {
     "id": 4098185100,
@@ -2676,7 +2716,8 @@
         "property_kor": "마법아이템발견확률증가"
       }
     ],
-    "nameId": "dream"
+    "nameId": "dream",
+    "baseItemKey": "Base Item (Helm, Shield) 3"
   },
   {
     "id": 2788445821,
@@ -2719,7 +2760,8 @@
         "property_kor": "번개피해"
       }
     ],
-    "nameId": "wrath"
+    "nameId": "wrath",
+    "baseItemKey": "Base Item (Ranged) 4"
   },
   {
     "id": 2438922385,
@@ -2757,7 +2799,8 @@
         "property_kor": "마법피해감소"
       }
     ],
-    "nameId": "bulwark"
+    "nameId": "bulwark",
+    "baseItemKey": "Base Item (Helm) 3"
   },
   {
     "id": 3067108730,
@@ -2814,7 +2857,8 @@
         "property_kor": "적처치시생명력"
       }
     ],
-    "nameId": "grief"
+    "nameId": "grief",
+    "baseItemKey": "Base Item (Axe, Sword) 5"
   },
   {
     "id": 3530636421,
@@ -2852,7 +2896,8 @@
         "property_kor": "적중당마나훔침"
       }
     ],
-    "nameId": "unbending-will"
+    "nameId": "unbending-will",
+    "baseItemKey": "Base Item (Sword) 6"
   },
   {
     "id": 3239662578,
@@ -2883,7 +2928,8 @@
         "property_kor": "번개피해"
       }
     ],
-    "nameId": "holy-thunder"
+    "nameId": "holy-thunder",
+    "baseItemKey": "Base Item (Scepter) 4"
   },
   {
     "id": 2713453202,
@@ -2912,7 +2958,8 @@
         "property_kor": "화염피해"
       }
     ],
-    "nameId": "kings-grace"
+    "nameId": "kings-grace",
+    "baseItemKey": "Base Item (Scepter, Sword) 3"
   },
   {
     "id": 2214159910,
@@ -2936,6 +2983,7 @@
         "property_kor": "화염피해"
       }
     ],
-    "nameId": "leaf"
+    "nameId": "leaf",
+    "baseItemKey": "Base Item (Stave) 2"
   }
 ]
