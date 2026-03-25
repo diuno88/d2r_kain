@@ -2138,8 +2138,8 @@
         "min": 4,
         "max": 8,
         "property": "Resist Fire Aura When Equipped (Varies)",
-        "property_id": 831,
-        "property_kor": "레벨_신성한불꽃오라장착시"
+        "property_id": 1906,
+        "property_kor": "레벨_화염저항오라장착시"
       },
       {
         "min": 10,
