@@ -1920,6 +1920,12 @@
     "global": false
   },
   {
+    "id": 1906,
+    "name": "Level {{value}} Resist Fire Aura When Equipped",
+    "koKR": "장착 시 레벨 화염 저항 오라 효과 적용",
+    "global": false
+  }
+  {
     "id": 726,
     "name": "Level {{value}} Sanctuary Aura When Equipped",
     "koKR": "장착 시 레벨 성역 오라 효과 적용",
