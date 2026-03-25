@@ -96,12 +96,6 @@
     "global": false
   },
   {
-    "id": 1862,
-    "name": "+{{value}} to Amazon Skill Levels",
-    "koKR": "악마술사 기술 레벨",
-    "global": false
-  },
-  {
     "id": 1022,
     "name": "+{{value}} to Iron Golem (Necromancer Only)",
     "koKR": "강철 골렘 (강령술사 전용)",
@@ -1633,7 +1627,7 @@
   },
    {
     "id": 1862,
-    "name": "+{{value}} to Amazon Skill Levels",
+    "name": "+{{value}} to Warlock Skill Levels",
     "koKR": "악마술사 기술 레벨",
     "global": false
   },
@@ -1665,12 +1659,6 @@
     "id": 637,
     "name": "+{{value}} Life after each Demon Kill",
     "koKR": "악마 처치 시 생명력",
-    "global": false
-  },
-  {
-    "id": 1862,
-    "name": "+{{value}} to Warlock Skills",
-    "koKR": "악마술사 기술 +",
     "global": false
   },
   {
