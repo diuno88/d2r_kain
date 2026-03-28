@@ -333,7 +333,7 @@
     "id": "4262286450",
     "ctg": "sword",
     "img": "https://cdn.nookazon.com/diablo2resurrected/sword/giant_sword.png",
-    "name": "Balrog Blade",
+    "name": "balrog-blade",
     "maxSockets": 4,
     "baseSpeed": 0,
     "korName": "발록 블레이드",
