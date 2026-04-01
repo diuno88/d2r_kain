@@ -2989,6 +2989,7 @@
   {
     "id": "2807122517",
     "name": "Authority",
+    "nameId": "authority",
     "img": "https://cdn.nookazon.com/diablo2resurrected/runewords/735cd4bbc4d567ef1ce39286c6275a44.jpeg",
     "description": [],
     "sockets": 3,
@@ -3015,6 +3016,7 @@
   {
     "id": "3408989058",
     "name": "Coven",
+    "nameId": "coven",
     "img": "https://cdn.nookazon.com/diablo2resurrected/runewords/806409b8b40c3ebad6c1edac2cadabf7.jpeg",
     "description": [],
     "sockets": 3,
@@ -3054,6 +3056,7 @@
   {
     "id": "3908860136",
     "name": "Ritual",
+    "nameId": "ritual",
     "img": "https://cdn.nookazon.com/diablo2resurrected/runewords/cf85d182d4138d957e77af6a10d8d53b.jpeg",
     "description": [],
     "sockets": 3,
@@ -3100,6 +3103,7 @@
   {
     "id": "3390983223",
     "name": "Vigilance",
+    "nameId": "vigilance",
     "img": "https://cdn.nookazon.com/diablo2resurrected/runewords/b9cfe5af1bd9b0d352369a15b6c0954d.jpeg",
     "description": [],
     "sockets": 2,
@@ -3163,9 +3167,10 @@
   {
     "id": "3291499016",
     "name": "Void",
+    "nameId": "void",
     "img": "https://cdn.nookazon.com/diablo2resurrected/runewords/830e92f25e2af93b53f15ab02fea01ff.jpeg",
     "description": [],
-    "sockets": null,
+    "sockets": 3,
     "type": [
       {
         "kor": "Dagger",
@@ -3203,6 +3208,7 @@
   {
     "id": "4086849218",
     "name": "Pattern",
+    "nameId": "pattern",
     "img": "https://cdn.nookazon.com/diablo2resurrected/runeword/pattern.png",
     "description": [
       "(+30%) Faster Block Rate",
@@ -3216,7 +3222,7 @@
       "(+6) To Dexterity",
       "All Resistances (+15)"
     ],
-    "sockets": null,
+    "sockets": 3,
     "type": [
       {
         "kor": "Assassin Claw",
