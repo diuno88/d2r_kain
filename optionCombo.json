@@ -2902,5 +2902,11 @@
     "name": "to Battle Orders (Any Class)",
     "koKR": " 전투 지시 (Any Class)",
     "global": false
+  },
+  {
+    "id":400,
+    "name":"+{{value}} to Mana",
+    "koKR":"마나",
+    "global":false
   }
 ]
