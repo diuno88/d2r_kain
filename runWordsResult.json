@@ -2985,5 +2985,264 @@
     ],
     "nameId": "leaf",
     "baseItemKey": "Base Item (Stave) 2"
+  },
+  {
+    "id": "2807122517",
+    "name": "Authority",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/runewords/735cd4bbc4d567ef1ce39286c6275a44.jpeg",
+    "description": [],
+    "sockets": 3,
+    "type": [
+      {
+        "kor": "Body Armor",
+        "group": "Body Armor",
+        "eng": "Body Armor"
+      }
+    ],
+    "description_filtered": [
+      {
+        "min": 40,
+        "max": 60,
+        "property": "Enhanced Damage",
+        "property_id": 510,
+        "property_kor": "피해 증가"
+      }
+
+    ],
+    "korName": "권위",
+    "baseItemKey": "Base Item (Body Armor) 3"
+  },
+  {
+    "id": "3408989058",
+    "name": "Coven",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/runewords/806409b8b40c3ebad6c1edac2cadabf7.jpeg",
+    "description": [],
+    "sockets": 3,
+    "type": [
+      {
+        "kor": "Helm",
+        "group": "Helm",
+        "eng": "Helm"
+      }
+    ],
+    "description_filtered": [
+      {
+        "min": 30,
+        "max": 50,
+        "property": "Enhanced Defense",
+        "property_id": 425,
+        "property_kor": "방어력 증가"
+      },
+      {
+        "min": 1,
+        "max": 5,
+        "property": "Life after each Kill",
+        "property_id": 721,
+        "property_kor": "적 처치 시 생명력 "
+      },
+      {
+        "min": 26,
+        "max": 40,
+        "property": " Better Chance of Getting Magic Items",
+        "property_id": 461,
+        "property_kor": "마법 아이템 발견 확률 증가"
+      }
+    ],
+    "korName": "마녀단",
+    "baseItemKey": "Base Item (Helm) 3"
+  },
+  {
+    "id": "3908860136",
+    "name": "Ritual",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/runewords/cf85d182d4138d957e77af6a10d8d53b.jpeg",
+    "description": [],
+    "sockets": 3,
+    "type": [
+      {
+        "kor": "Dagger",
+        "group": "Dagger",
+        "eng": "Dagger"
+      }
+    ],
+    "description_filtered": [
+      {
+        "min": 200,
+        "max": 270,
+        "property": "Enhanced Damage",
+        "property_id": 510,
+        "property_kor": "피해 증가"
+      },
+      {
+        "min": 3,
+        "max": 5,
+        "property": "Life after each Kill",
+        "property_id": 721,
+        "property_kor": "적 처치 시 생명력 "
+      },
+      {
+        "min": 200,
+        "max": 260,
+        "property": "Bonus to Attack Rating",
+        "property_id": 424,
+        "property_kor": "명중률 보너스"
+      },
+      {
+        "min": 150,
+        "max": 250,
+        "property": "Damage to Demons",
+        "property_id": 513,
+        "property_kor": "악마에게 주는 피해"
+      }
+    ],
+    "korName": "의식",
+    "baseItemKey": "Base Item (Dagger) 3"
+  },
+  {
+    "id": "3390983223",
+    "name": "Vigilance",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/runewords/b9cfe5af1bd9b0d352369a15b6c0954d.jpeg",
+    "description": [],
+    "sockets": 2,
+    "type": [
+      {
+        "kor": "쉴드",
+        "group": "etc",
+        "eng": "Shield"
+      },
+      {
+        "kor": "Paladin Shield",
+        "group": "Paladin Shield",
+        "eng": "Paladin Shield"
+      },
+      {
+        "kor": "Voodoo Head",
+        "group": "Voodoo Head",
+        "eng": "Voodoo Head"
+      }
+    ],
+    "description_filtered": [
+      {
+        "min": 3,
+        "max": 5,
+        "property": "Magic Damage",
+        "property_id": 654,
+        "property_kor": "마법 피해"
+      },
+      {
+        "min": 75,
+        "max": 100,
+        "property": "Enhanced Defense",
+        "property_id": 425,
+        "property_kor": "방어력 증가"
+      },
+      {
+        "min": 20,
+        "max": 40,
+        "property": "to Life",
+        "property_id": 418,
+        "property_kor": "생명력"
+      },
+      {
+        "min": 20,
+        "max": 40,
+        "property": "to Mana",
+        "property_id": 400,
+        "property_kor": "마나"
+      },
+      {
+        "min": 25,
+        "max": 35,
+        "property": "to All Resistances",
+        "property_id": 441,
+        "property_kor": "모든 저항"
+      }
+    ],
+    "korName": "경계",
+    "baseItemKey": "Base Item (Grimoire, Paladin Shield, Shield, Voodoo Head) 2"
+  },
+  {
+    "id": "3291499016",
+    "name": "Void",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/runewords/830e92f25e2af93b53f15ab02fea01ff.jpeg",
+    "description": [],
+    "sockets": null,
+    "type": [
+      {
+        "kor": "Dagger",
+        "group": "Dagger",
+        "eng": "Dagger"
+      }
+    ],
+    "description_filtered": [
+
+      {
+        "min": 10,
+        "max": 15,
+        "property": "to Magic Skill Damage",
+        "property_id": 1879,
+        "property_kor": "마법 기술 피해"
+      },
+      {
+        "min": 1,
+        "max": 3,
+        "property": "to Abyss (Warlock Only)",
+        "property_id": 1579,
+        "property_kor": "심연 (악마술사 전용)"
+      },
+      {
+        "min": 8,
+        "max": 12,
+        "property": "to all Attributes",
+        "property_id": 727,
+        "property_kor": "모든 능력치"
+      }
+    ],
+    "korName": "공허",
+    "baseItemKey": "Base Item (Dagger) 3"
+  },
+  {
+    "id": "4086849218",
+    "name": "Pattern",
+    "img": "https://cdn.nookazon.com/diablo2resurrected/runeword/pattern.png",
+    "description": [
+      "(+30%) Faster Block Rate",
+      "(+40-80%) Enhanced Damage (Varies)",
+      "(10%) Bonus to Attack Rating",
+      "Adds (17-62) Fire Damage",
+      "Adds (1-50) Lightning Damage",
+      "Adds (3-14) Cold Damage",
+      "(+75) Poison Damage over 5 Sec.",
+      "(+6) To Strength",
+      "(+6) To Dexterity",
+      "All Resistances (+15)"
+    ],
+    "sockets": null,
+    "type": [
+      {
+        "kor": "Assassin Claw",
+        "group": "Assassin Claw",
+        "eng": "Assassin Claw"
+      },
+      {
+        "kor": "Claw",
+        "group": "Claw",
+        "eng": "Claw"
+      }
+    ],
+    "description_filtered": [
+      {
+        "min": 40,
+        "max": 80,
+        "property": "Enhanced Damage (Varies)",
+        "property_id": 510,
+        "property_kor": "피해증가"
+      }
+    ],
+    "korName": "귀감",
+    "baseItemKey": "Base Item (Claw) 3"
   }
+
+
+
+  
 ]
