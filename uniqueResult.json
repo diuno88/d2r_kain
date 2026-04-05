@@ -15520,13 +15520,15 @@
         "max": 1, 
         "property": "to Eldritch Skills (Warlock Only)", 
         "property_id": 1547, 
+        "selectable": true,
         "property_kor": "기괴 기술 + (악마술사 전용)" 
       }, 
       { 
         "min": 1, 
         "max": 1, 
         "property": "to Demon Skills (Warlock Only)", 
-        "property_id": 1546, 
+        "property_id": 1546,
+        "selectable": true,
         "property_kor": "악마 기술 + (악마술사 전용)" 
       }, 
       { 
@@ -15534,6 +15536,7 @@
         "max": 1, 
         "property": "to Chaos Skills (Warlock Only)", 
         "property_id": 1548, 
+        "selectable": true,
         "property_kor": "혼돈 기술 + (악마술사 전용)" 
       }
     ]
