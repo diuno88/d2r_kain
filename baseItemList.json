@@ -6814,21 +6814,6 @@
     "qualityLevel": "52"
   },
   {
-    "id": "3314313089",
-    "ctg": "knife",
-    "img": "https://cdn.nookazon.com/diablo2resurrected/knife/gidbinn.png",
-    "name": "The Gidbinn",
-    "maxSockets": null,
-    "baseSpeed": null,
-    "korName": "기드빈",
-    "group": "weapon",
-    "tier": null,
-    "ctgGroup": "gidbinn",
-    "defenseMin": null,
-    "defenseMax": null,
-    "qualityLevel": null
-  },
-  {
     "id": "2966095818",
     "ctg": "polearm",
     "img": "https://cdn.nookazon.com/diablo2resurrected/polearm/scythe.png",
