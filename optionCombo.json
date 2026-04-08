@@ -2908,5 +2908,12 @@
     "name":"+{{value}} to Mana",
     "koKR":"마나",
     "global":false
+  },
+  {
+    "id":937,
+    "name":"Increase Maximum Durability",
+    "koKR":"최대 내구도 증가",
+    "global":false
   }
+  
 ]
