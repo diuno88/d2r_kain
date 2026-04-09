@@ -6247,8 +6247,8 @@
         "min": 7,
         "max": 19,
         "property": "Blizzard When Struck",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 694,
+        "property_kor": "피격시 레벨 눈보라 시전 확률"
       },
       {
         "min": 15,
