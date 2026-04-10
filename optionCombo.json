@@ -110,7 +110,7 @@
   {
     "id": 567,
     "name": "+{{value}}% Chance of Crushing Blow",
-    "koKR": "강타 확률",
+    "koKR": "강타 확률(강한 타격 확률)",
     "global": false
   },
   {
@@ -2383,7 +2383,7 @@
   },
   {
     "id": 1864,
-    "name": "+{{value}}% Deadly Strike",
+    "name": "+{{value}}%Chance of Deadly Strike",
     "koKR": "치명적 공격",
     "global": false
   },
