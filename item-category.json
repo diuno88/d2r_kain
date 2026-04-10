@@ -32,7 +32,7 @@
   "charm":       { "kor": "부적",     "group": "etc" },
   "grimoires":   { "kor": "마법서",   "group": "etc",         "same": "Grimoire" },
   "statue":  { "kor": "동상",  "group": "material" },
-  "essence": { "kor": "가루",  "group": "material" },
+  "essence": { "kor": "정수",  "group": "material" },
   "key":     { "kor": "키",    "group": "material" },
   "gold":    { "kor": "골드",  "group": "material" },
   "shard":   { "kor": "세계석","group": "material" },
