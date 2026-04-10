@@ -8160,7 +8160,7 @@
   },
   {
     "id": "bulkathos-nightmare",
-    "ctg": "재료",
+    "ctg": "statue",
     "img": "https://cdn.nookazon.com/diablo2resurrected/shard/bulkathos_nightmare.png",
     "name": "bulkathos_nightmare",
     "maxSockets": null,
@@ -8173,7 +8173,7 @@
   },
   {
     "id": "korlics-pain",
-    "ctg": "재료",
+    "ctg": "statue",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/shard/korlics_pain.png",
     "name": "korlics_pain",
     "maxSockets": null,
@@ -8186,7 +8186,7 @@
   },
   {
     "id": "madawcs-ire",
-    "ctg": "재료",
+    "ctg": "statue",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/shard/madawcs_ire.png",
     "name": "madawcs_ire",
     "maxSockets": null,
@@ -8199,7 +8199,7 @@
   },
   {
     "id": "talics-anguish",
-    "ctg": "재료",
+    "ctg": "statue",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/shard/talics_anguish.png",
     "name": "talics_anguish",
     "maxSockets": null,
@@ -8212,7 +8212,7 @@
   },
   {
     "id": "worusks-end",
-    "ctg": "재료",
+    "ctg": "statue",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/shard/worusks_end.png",
     "name": "worusks_end",
     "maxSockets": null,
@@ -8225,7 +8225,7 @@
   },
   {
     "id": "statue-set",
-    "ctg": "재료",
+    "ctg": "statue",
     "img": "https://cdn.nookazon.com/diablo2resurrected/misc/bc7c0c7dffa4a6d7a92021f4f371e49f.jpeg",
     "name": "bc7c0c7dffa4a6d7a92021f4f371e49f",
     "maxSockets": null,
@@ -8238,7 +8238,7 @@
   },
   {
     "id": "token-of-absolution",
-    "ctg": "재료",
+    "ctg": "essence",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/quest/token_of_absolution.png",
     "name": "token_of_absolution",
     "maxSockets": null,
@@ -8251,7 +8251,7 @@
   },
   {
     "id": "burning-essence-of-terror",
-    "ctg": "재료",
+    "ctg": "essence",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/quest/burning_essence_of_terror.png",
     "name": "burning_essence_of_terror",
     "maxSockets": null,
@@ -8277,7 +8277,7 @@
   },
   {
     "id": "charged-essense-of-hatred",
-    "ctg": "재료",
+    "ctg": "essence",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/quest/charged_essense_of_hatred.png",
     "name": "charged_essense_of_hatred",
     "maxSockets": null,
@@ -8290,7 +8290,7 @@
   },
   {
     "id": "twisted-essence-of-suffering",
-    "ctg": "재료",
+    "ctg": "essence",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/quest/twisted_essence_of_suffering.png",
     "name": "twisted_essence_of_suffering",
     "maxSockets": null,
@@ -8303,7 +8303,7 @@
   },
   {
     "id": "mephisto-key-destruction",
-    "ctg": "재료",
+    "ctg": "key",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/key/mephisto_key.png",
     "name": "mephisto_key",
     "maxSockets": null,
@@ -8316,7 +8316,7 @@
   },
   {
     "id": "mephisto-key-hatred",
-    "ctg": "재료",
+    "ctg": "key",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/key/mephisto_key.png",
     "name": "mephisto_key",
     "maxSockets": null,
@@ -8329,7 +8329,7 @@
   },
   {
     "id": "mephisto-key-terror",
-    "ctg": "재료",
+    "ctg": "key",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/key/mephisto_key.png",
     "name": "mephisto_key",
     "maxSockets": null,
@@ -8342,7 +8342,7 @@
   },
   {
     "id": "x-key-set",
-    "ctg": "재료",
+    "ctg": "key",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/misc/7fa446b7d36ae8c7a2d3fc670c19e8313x3%20Key%20Set.jpeg",
     "name": "7fa446b7d36ae8c7a2d3fc670c19e8313x3%20Key%20Set",
     "maxSockets": null,
@@ -8355,7 +8355,7 @@
   },
   {
     "id": "gold",
-    "ctg": "재료",
+    "ctg": "gold",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/gold/gold.png",
     "name": "gold",
     "maxSockets": null,
