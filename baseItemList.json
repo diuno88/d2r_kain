@@ -8368,7 +8368,7 @@
   },
   {
     "id": "shard-set",
-    "ctg": "재료",
+    "ctg": "shard",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/misc/0902195e228b520f896973bd611c1129.jpeg",
     "name": "0902195e228b520f896973bd611c1129",
     "maxSockets": null,
@@ -8379,4 +8379,4 @@
     "defenseMax": null,
     "qualityLevel": null
   }
-
+]
