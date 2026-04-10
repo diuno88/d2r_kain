@@ -14,7 +14,7 @@
   {
     "id": 411,
     "name": "{{value}}% Bonus to Attack Rating (Based on Character Level)",
-    "koKR": "% 렙당명중률보너스",
+    "koKR": "% 렙당명중률보너스(렙당어레)",
     "global": false
   },
   {
