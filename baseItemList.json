@@ -8011,7 +8011,8 @@
     "defenseMin": null,
     "defenseMax": null,
     "qualityLevel": null
-  }{
+  },
+  {
     "id": "southern-worldstone-shard",
     "ctg": "shard",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/shard/mote_of_hatred.png",
@@ -8157,7 +8158,6 @@
     "defenseMax": null,
     "qualityLevel": null
   },
-  [
   {
     "id": "bulkathos-nightmare",
     "ctg": "재료",
