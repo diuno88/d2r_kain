@@ -7987,72 +7987,7 @@
     "nameId": "occult-tome"
   },
   {
-    "id": "korlics-pain",
-    "ctg": "재료",
-    "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/shard/korlics_pain.png",
-    "name": "Korlic's Pain",
-    "maxSockets": null,
-    "korName": "콜릭의고통",
-    "group": "",
-    "nameId": "korlic's-pain",
-    "defenseMin": null,
-    "defenseMax": null,
-    "qualityLevel": null
-  },
-  {
-    "id": "worusks-end",
-    "ctg": "재료",
-    "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/shard/worusks_end.png",
-    "name": "Worusk's End",
-    "maxSockets": null,
-    "korName": "워루스크의끝",
-    "group": "",
-    "nameId": "worusk's-end",
-    "defenseMin": null,
-    "defenseMax": null,
-    "qualityLevel": null
-  },
-  {
-    "id": "madawcs-ire",
-    "ctg": "재료",
-    "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/shard/madawcs_ire.png",
-    "name": "Madawc's Ire",
-    "maxSockets": null,
-    "korName": "마도크의분노",
-    "group": "",
-    "nameId": "madawc's-ire",
-    "defenseMin": null,
-    "defenseMax": null,
-    "qualityLevel": null
-  },
-  {
-    "id": "169558979",
-    "ctg": "재료",
-    "img": "https://cdn.nookazon.com/diablo2resurrected/shard/bulkathos_nightmare.png",
-    "name": "Bul-Kathos' Nightmare",
-    "maxSockets": null,
-    "korName": "불카토스의악몽",
-    "group": "",
-    "nameId": "bul-kathos'-nightmare",
-    "defenseMin": null,
-    "defenseMax": null,
-    "qualityLevel": null
-  },
-  {
-    "id": "talics-anguish",
-    "ctg": "재료",
-    "img": "https://cdn.nookazon.com/diablo2resurrected/shard/talics_anguish.png",
-    "name": "Talic's Anguish",
-    "maxSockets": null,
-    "korName": "탈릭의고뇌",
-    "group": "",
-    "nameId": "talic's-anguish",
-    "defenseMin": null,
-    "defenseMax": null,
-    "qualityLevel": null
-  },
-  {
-    "id": "western-worldstone-shard",
+    "id": "1189945720",
     "ctg": "shard",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/shard/mote_of_anguish.png",
     "name": "Western Worldstone Shard",
@@ -8066,7 +8001,7 @@
     "qualityLevel": null
   },
   {
-    "id": "southern-worldstone-shard",
+    "id": "1662925107",
     "ctg": "shard",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/shard/mote_of_hatred.png",
     "name": "Southern Worldstone Shard",
@@ -8108,7 +8043,7 @@
     "qualityLevel": null
   },
   {
-    "id": "northern-worldstone-shard",
+    "id": "399128412",
     "ctg": "shard",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/shard/mote_of_destruction.png",
     "name": "Northern Worldstone Shard",
@@ -8218,7 +8153,7 @@
     "nameId": "codex"
   },
   {
-    "id": "bulkathos-nightmare",
+    "id": "169558979",
     "ctg": "statue",
     "img": "https://cdn.nookazon.com/diablo2resurrected/shard/bulkathos_nightmare.png",
     "name": "bulkathos_nightmare",
@@ -8231,7 +8166,7 @@
     "qualityLevel": null
   },
   {
-    "id": "korlics-pain",
+    "id": "1526346808",
     "ctg": "statue",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/shard/korlics_pain.png",
     "name": "korlics_pain",
@@ -8244,7 +8179,7 @@
     "qualityLevel": null
   },
   {
-    "id": "madawcs-ire",
+    "id": "1806446366",
     "ctg": "statue",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/shard/madawcs_ire.png",
     "name": "madawcs_ire",
@@ -8257,7 +8192,7 @@
     "qualityLevel": null
   },
   {
-    "id": "talics-anguish",
+    "id": "700449418",
     "ctg": "statue",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/shard/talics_anguish.png",
     "name": "talics_anguish",
@@ -8270,7 +8205,7 @@
     "qualityLevel": null
   },
   {
-    "id": "worusks-end",
+    "id": "1055348421",
     "ctg": "statue",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/shard/worusks_end.png",
     "name": "worusks_end",
@@ -8283,7 +8218,7 @@
     "qualityLevel": null
   },
   {
-    "id": "statue-set",
+    "id": "1002230133766",
     "ctg": "statue",
     "img": "https://cdn.nookazon.com/diablo2resurrected/misc/bc7c0c7dffa4a6d7a92021f4f371e49f.jpeg",
     "name": "statue-set",
@@ -8296,7 +8231,7 @@
     "qualityLevel": null
   },
   {
-    "id": "token-of-absolution",
+    "id": "3193724423",
     "ctg": "essence",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/quest/token_of_absolution.png",
     "name": "token_of_absolution",
@@ -8348,7 +8283,7 @@
     "qualityLevel": null
   },
   {
-    "id": "twisted-essence-of-suffering",
+    "id": "2406244331",
     "ctg": "essence",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/quest/twisted_essence_of_suffering.png",
     "name": "twisted_essence_of_suffering",
@@ -8361,7 +8296,7 @@
     "qualityLevel": null
   },
   {
-    "id": "mephisto-key-destruction",
+    "id": "2841933158",
     "ctg": "key",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/key/mephisto_key.png",
     "name": "mephisto_key",
@@ -8374,7 +8309,7 @@
     "qualityLevel": null
   },
   {
-    "id": "mephisto-key-hatred",
+    "id": "2324195166",
     "ctg": "key",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/key/mephisto_key.png",
     "name": "mephisto_key",
@@ -8387,7 +8322,7 @@
     "qualityLevel": null
   },
   {
-    "id": "mephisto-key-terror",
+    "id": "3117972750",
     "ctg": "key",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/key/mephisto_key.png",
     "name": "mephisto_key",
@@ -8413,7 +8348,7 @@
     "qualityLevel": null
   },
   {
-    "id": "gold",
+    "id": "2242343824",
     "ctg": "gold",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/gold/gold.png",
     "name": "gold",
@@ -8426,7 +8361,7 @@
     "qualityLevel": null
   },
   {
-    "id": "shard-set",
+    "id": "1002228103191",
     "ctg": "shard",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/misc/0902195e228b520f896973bd611c1129.jpeg",
     "name": "shard-set",
