@@ -12,6 +12,7 @@
     "ctgGroup": "tower_shield",
     "defenseMin": "145",
     "defenseMax": "161",
+    "nameId": "aegis",
     "qualityLevel": "79"
   },
   {
@@ -27,6 +28,7 @@
     "ctgGroup": "aerin_shield",
     "defenseMin": "26",
     "defenseMax": "36",
+    "nameId": "aerin-shield",
     "qualityLevel": "20"
   },
   {
@@ -42,6 +44,7 @@
     "ctgGroup": "rondache",
     "defenseMin": "113",
     "defenseMax": "137",
+    "nameId": "akaran-rondache",
     "qualityLevel": "40"
   },
   {
@@ -57,6 +60,7 @@
     "ctgGroup": "targe",
     "defenseMin": "101",
     "defenseMax": "125",
+    "nameId": "akaran-targe",
     "qualityLevel": "35"
   },
   {
@@ -72,6 +76,7 @@
     "ctgGroup": "wolf_head",
     "defenseMin": "52",
     "defenseMax": "62",
+    "nameId": "alpha-helm",
     "qualityLevel": "35"
   },
   {
@@ -87,6 +92,7 @@
     "ctgGroup": "ancient_armor",
     "defenseMin": "218",
     "defenseMax": "233",
+    "nameId": "ancient-armor",
     "qualityLevel": "40"
   },
   {
@@ -102,6 +108,7 @@
     "ctgGroup": "giant_axe",
     "defenseMin": null,
     "defenseMax": null,
+    "nameId": "ancient-axe",
     "qualityLevel": "51"
   },
   {
@@ -117,7 +124,8 @@
     "ctgGroup": "gothic_shield",
     "defenseMin": "80",
     "defenseMax": "93",
-    "qualityLevel": "56"
+    "qualityLevel": "56",
+    "nameId": "ancient-shield"
   },
   {
     "id": "2604934062",
@@ -132,7 +140,8 @@
     "ctgGroup": "war_sword",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "49"
+    "qualityLevel": "49",
+    "nameId": "ancient-sword"
   },
   {
     "id": "3300786413",
@@ -147,7 +156,8 @@
     "ctgGroup": "antlers",
     "defenseMin": "18",
     "defenseMax": "24",
-    "qualityLevel": "16"
+    "qualityLevel": "16",
+    "nameId": "antlers"
   },
   {
     "id": "2772050342",
@@ -162,7 +172,8 @@
     "ctgGroup": "light_crossbow",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "34"
+    "qualityLevel": "34",
+    "nameId": "arbalest"
   },
   {
     "id": "3707980542",
@@ -177,7 +188,8 @@
     "ctgGroup": "light_plate",
     "defenseMin": "410",
     "defenseMax": "524",
-    "qualityLevel": "84"
+    "qualityLevel": "84",
+    "nameId": "archon-plate"
   },
   {
     "id": "3921298189",
@@ -192,7 +204,8 @@
     "ctgGroup": "war_staff",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "85"
+    "qualityLevel": "85",
+    "nameId": "archon-staff"
   },
   {
     "id": "3605233659",
@@ -207,7 +220,8 @@
     "ctgGroup": "helm",
     "defenseMin": "105",
     "defenseMax": "149",
-    "qualityLevel": "68"
+    "qualityLevel": "68",
+    "nameId": "armet"
   },
   {
     "id": "3098240716",
@@ -222,7 +236,8 @@
     "ctgGroup": "stag_bow",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "39"
+    "qualityLevel": "39",
+    "nameId": "ashwood-bow"
   },
   {
     "id": "2706197183",
@@ -237,7 +252,8 @@
     "ctgGroup": "assault_helmet",
     "defenseMin": "30",
     "defenseMax": "35",
-    "qualityLevel": "20"
+    "qualityLevel": "20",
+    "nameId": "assault-helmet"
   },
   {
     "id": "4218367554",
@@ -252,7 +268,8 @@
     "ctgGroup": "scimitar",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "61"
+    "qualityLevel": "61",
+    "nameId": "ataghan"
   },
   {
     "id": "2493198271",
@@ -267,7 +284,8 @@
     "ctgGroup": "avenger_guard",
     "defenseMin": "35",
     "defenseMax": "50",
-    "qualityLevel": "24"
+    "qualityLevel": "24",
+    "nameId": "avenger-guard"
   },
   {
     "id": "3087666373",
@@ -282,7 +300,8 @@
     "ctgGroup": "axe",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "7"
+    "qualityLevel": "7",
+    "nameId": "axe"
   },
   {
     "id": "2507299957",
@@ -297,7 +316,8 @@
     "ctgGroup": "balanced_axe",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "16"
+    "qualityLevel": "16",
+    "nameId": "balanced-axe"
   },
   {
     "id": "2164088638",
@@ -312,7 +332,8 @@
     "ctgGroup": "balanced_knife",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "13"
+    "qualityLevel": "13",
+    "nameId": "balanced-knife"
   },
   {
     "id": "3500213857",
@@ -327,7 +348,8 @@
     "ctgGroup": "heavy_crossbow",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "47"
+    "qualityLevel": "47",
+    "nameId": "ballista"
   },
   {
     "id": "4262286450",
@@ -342,7 +364,8 @@
     "ctgGroup": "giant_sword",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "71"
+    "qualityLevel": "71",
+    "nameId": "balrog-blade"
   },
   {
     "id": "3303875882",
@@ -357,7 +380,8 @@
     "ctgGroup": "splint_mail",
     "defenseMin": "410",
     "defenseMax": "517",
-    "qualityLevel": "76"
+    "qualityLevel": "76",
+    "nameId": "balrog-skin"
   },
   {
     "id": "3894352881",
@@ -765,7 +789,8 @@
     "ctgGroup": "compendium",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": null
+    "qualityLevel": null,
+    "nameId": "blasphemous-compendium"
   },
   {
     "id": "1316178507",
@@ -780,7 +805,8 @@
     "ctgGroup": "grimoire",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": null
+    "qualityLevel": null,
+    "nameId": "blasphemous-grimoire"
   },
   {
     "id": "3423886577",
@@ -1572,7 +1598,8 @@
     "ctgGroup": "compendium",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": null
+    "qualityLevel": null,
+    "nameId": "compendium"
   },
   {
     "id": "2163474482",
@@ -3457,7 +3484,8 @@
     "ctgGroup": "grimoire",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": null
+    "qualityLevel": null,
+    "nameId": "grimoire"
   },
   {
     "id": "3425389784",
@@ -3837,7 +3865,7 @@
     "maxSockets": 4,
     "korName": "헌터보우",
     "group": "weapon",
-    "nameId": "hunters-bow",
+    "nameId": "hunter's-bow",
     "tier": "Normal",
     "baseSpeed": -10,
     "ctgGroup": "hunters_bow",
@@ -3853,7 +3881,7 @@
     "maxSockets": 3,
     "korName": "헌터스 가이즈",
     "group": "etc",
-    "nameId": "hunters-guise",
+    "nameId": "hunter's-guise",
     "tier": "Exceptional",
     "ctgGroup": "antlers",
     "defenseMin": "67",
@@ -3994,7 +4022,7 @@
     "maxSockets": 3,
     "korName": "자레드 스톤",
     "group": "etc",
-    "nameId": "jareds-stone",
+    "nameId": "jared's-stone",
     "tier": "Normal",
     "baseSpeed": 10,
     "ctgGroup": "dragon_stone",
@@ -5308,7 +5336,8 @@
     "ctgGroup": "compendium",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": null
+    "qualityLevel": null,
+    "nameId": "possessed-compendium"
   },
   {
     "id": "1380202707",
@@ -5323,7 +5352,8 @@
     "ctgGroup": "grimoire",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": null
+    "qualityLevel": null,
+    "nameId": "possessed-grimoire"
   },
   {
     "id": "3702021361",
@@ -7546,7 +7576,8 @@
     "ctgGroup": "military_pick",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "79"
+    "qualityLevel": "79",
+    "nameId": "war-spike"
   },
   {
     "id": "2412660625",
@@ -7561,7 +7592,8 @@
     "ctgGroup": "war_staff",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "24"
+    "qualityLevel": "24",
+    "nameId": "war-staff"
   },
   {
     "id": "2588565463",
@@ -7576,7 +7608,8 @@
     "ctgGroup": "war_sword",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "27"
+    "qualityLevel": "27",
+    "nameId": "war-sword"
   },
   {
     "id": "3204914405",
@@ -7622,7 +7655,8 @@
     "ctgGroup": "balanced_axe",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "80"
+    "qualityLevel": "80",
+    "nameId": "winged-axe"
   },
   {
     "id": "3364117546",
@@ -7637,7 +7671,8 @@
     "ctgGroup": "throwing_spear",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "85"
+    "qualityLevel": "85",
+    "nameId": "winged-harpoon"
   },
   {
     "id": "4234486681",
@@ -7652,7 +7687,8 @@
     "ctgGroup": "great_helm",
     "defenseMin": "85",
     "defenseMax": "98",
-    "qualityLevel": "51"
+    "qualityLevel": "51",
+    "nameId": "winged-helm"
   },
   {
     "id": "3147130416",
@@ -7667,7 +7703,8 @@
     "ctgGroup": "balanced_knife",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "77"
+    "qualityLevel": "77",
+    "nameId": "winged-knife"
   },
   {
     "id": "2558460115",
@@ -7682,7 +7719,8 @@
     "ctgGroup": "studded_leather",
     "defenseMin": "375",
     "defenseMax": "481",
-    "qualityLevel": "70"
+    "qualityLevel": "70",
+    "nameId": "wire-fleece"
   },
   {
     "id": "11090216",
@@ -7697,7 +7735,8 @@
     "ctgGroup": "wirts_leg",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": null
+    "qualityLevel": null,
+    "nameId": "wirt's-leg"
   },
   {
     "id": "3995543397",
@@ -7712,7 +7751,8 @@
     "ctgGroup": "wolf_head",
     "defenseMin": "8",
     "defenseMax": "11",
-    "qualityLevel": "4"
+    "qualityLevel": "4",
+    "nameId": "wolf-head"
   },
   {
     "id": "4120204096",
@@ -7727,7 +7767,8 @@
     "ctgGroup": "katar",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "9"
+    "qualityLevel": "9",
+    "nameId": "wrist-blade"
   },
   {
     "id": "3331410328",
@@ -7742,7 +7783,8 @@
     "ctgGroup": "katar",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "32"
+    "qualityLevel": "32",
+    "nameId": "wrist-spike"
   },
   {
     "id": "3753186303",
@@ -7757,7 +7799,8 @@
     "ctgGroup": "katar",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "62"
+    "qualityLevel": "62",
+    "nameId": "wrist-sword"
   },
   {
     "id": "4165666208",
@@ -7772,7 +7815,8 @@
     "ctgGroup": "leather_armor",
     "defenseMin": "364",
     "defenseMax": "470",
-    "qualityLevel": "67"
+    "qualityLevel": "67",
+    "nameId": "wyrmhide"
   },
   {
     "id": "2894531797",
@@ -7787,7 +7831,8 @@
     "ctgGroup": "leather_boots",
     "defenseMin": "54",
     "defenseMax": "62",
-    "qualityLevel": "60"
+    "qualityLevel": "60",
+    "nameId": "wyrmhide-boots"
   },
   {
     "id": "2331068189",
@@ -7802,7 +7847,8 @@
     "ctgGroup": "spetum",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "44"
+    "qualityLevel": "44",
+    "nameId": "yari"
   },
   {
     "id": "3224190832",
@@ -7817,7 +7863,8 @@
     "ctgGroup": "yew_wand",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "12"
+    "qualityLevel": "12",
+    "nameId": "yew-wand"
   },
   {
     "id": "3713086539",
@@ -7832,7 +7879,8 @@
     "ctgGroup": "aerin_shield",
     "defenseMin": "169",
     "defenseMax": "193",
-    "qualityLevel": "82"
+    "qualityLevel": "82",
+    "nameId": "zakarum-shield"
   },
   {
     "id": "2268808195",
@@ -7847,7 +7895,8 @@
     "ctgGroup": "zombie_head",
     "defenseMin": "4",
     "defenseMax": "8",
-    "qualityLevel": "8"
+    "qualityLevel": "8",
+    "nameId": "zombie-head"
   },
   {
     "id": "2734294945",
@@ -7862,7 +7911,8 @@
     "ctgGroup": "flamberge",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": "49"
+    "qualityLevel": "49",
+    "nameId": "zweihander"
   },
   {
     "id": "3209126938",
@@ -7901,7 +7951,8 @@
     "ctgGroup": "oldbook",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": null
+    "qualityLevel": null,
+    "nameId": "burnt-text"
   },
   {
     "id": "329591406",
@@ -7916,7 +7967,8 @@
     "ctgGroup": "codex",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": null
+    "qualityLevel": null,
+    "nameId": "occult-codex"
   },
   {
     "id": "1695288574",
@@ -7931,8 +7983,9 @@
     "ctgGroup": "tome_book",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": null
-  }, 
+    "qualityLevel": null,
+    "nameId": "occult-tome"
+  },
   {
     "id": "korlics-pain",
     "ctg": "재료",
@@ -7941,7 +7994,7 @@
     "maxSockets": null,
     "korName": "콜릭의고통",
     "group": "",
-    "nameId": "korlics-pain",
+    "nameId": "korlic's-pain",
     "defenseMin": null,
     "defenseMax": null,
     "qualityLevel": null
@@ -7954,7 +8007,7 @@
     "maxSockets": null,
     "korName": "워루스크의끝",
     "group": "",
-    "nameId": "worusks-end",
+    "nameId": "worusk's-end",
     "defenseMin": null,
     "defenseMax": null,
     "qualityLevel": null
@@ -7967,7 +8020,7 @@
     "maxSockets": null,
     "korName": "마도크의분노",
     "group": "",
-    "nameId": "madawcs-ire",
+    "nameId": "madawc's-ire",
     "defenseMin": null,
     "defenseMax": null,
     "qualityLevel": null
@@ -7980,7 +8033,7 @@
     "maxSockets": null,
     "korName": "불카토스의악몽",
     "group": "",
-    "nameId": "bul-kathos-nightmare",
+    "nameId": "bul-kathos'-nightmare",
     "defenseMin": null,
     "defenseMax": null,
     "qualityLevel": null
@@ -7993,7 +8046,7 @@
     "maxSockets": null,
     "korName": "탈릭의고뇌",
     "group": "",
-    "nameId": "talics-anguish",
+    "nameId": "talic's-anguish",
     "defenseMin": null,
     "defenseMax": null,
     "qualityLevel": null
@@ -8006,7 +8059,7 @@
     "maxSockets": null,
     "korName": "서부세계석조각",
     "group": "",
-    "ctgGroup":"shard",
+    "ctgGroup": "shard",
     "nameId": "western-worldstone-shard",
     "defenseMin": null,
     "defenseMax": null,
@@ -8020,7 +8073,7 @@
     "maxSockets": null,
     "korName": "남부세계석조각",
     "group": "",
-    "ctgGroup":"shard",
+    "ctgGroup": "shard",
     "nameId": "southern-worldstone-shard",
     "defenseMin": null,
     "defenseMax": null,
@@ -8034,7 +8087,7 @@
     "maxSockets": null,
     "korName": "동부세계석조각",
     "group": "",
-    "ctgGroup":"shard",
+    "ctgGroup": "shard",
     "nameId": "eastern-worldstone-shard",
     "defenseMin": null,
     "defenseMax": null,
@@ -8048,7 +8101,7 @@
     "maxSockets": null,
     "korName": "깊은세계석조각",
     "group": "",
-    "ctgGroup":"shard",
+    "ctgGroup": "shard",
     "nameId": "deep-worldstone-shard",
     "defenseMin": null,
     "defenseMax": null,
@@ -8062,7 +8115,7 @@
     "maxSockets": null,
     "korName": "북부세계석조각",
     "group": "",
-    "ctgGroup":"shard",
+    "ctgGroup": "shard",
     "nameId": "northern-worldstone-shard",
     "defenseMin": null,
     "defenseMax": null,
@@ -8081,7 +8134,8 @@
     "ctgGroup": "tome_book",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": null
+    "qualityLevel": null,
+    "nameId": "tome"
   },
   {
     "id": "207553392",
@@ -8096,7 +8150,8 @@
     "ctgGroup": "codex",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": null
+    "qualityLevel": null,
+    "nameId": "dark-codex"
   },
   {
     "id": "805858314",
@@ -8111,7 +8166,8 @@
     "ctgGroup": "tome_book",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": null
+    "qualityLevel": null,
+    "nameId": "dark-tome"
   },
   {
     "id": "382948930",
@@ -8126,7 +8182,8 @@
     "ctgGroup": "oldbook",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": null
+    "qualityLevel": null,
+    "nameId": "forgotten-volume"
   },
   {
     "id": "1047676425",
@@ -8141,7 +8198,8 @@
     "ctgGroup": "oldbook",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": null
+    "qualityLevel": null,
+    "nameId": "old-book"
   },
   {
     "id": "1567490295",
@@ -8156,7 +8214,8 @@
     "ctgGroup": "codex",
     "defenseMin": null,
     "defenseMax": null,
-    "qualityLevel": null
+    "qualityLevel": null,
+    "nameId": "codex"
   },
   {
     "id": "bulkathos-nightmare",
@@ -8227,7 +8286,7 @@
     "id": "statue-set",
     "ctg": "statue",
     "img": "https://cdn.nookazon.com/diablo2resurrected/misc/bc7c0c7dffa4a6d7a92021f4f371e49f.jpeg",
-    "name": "bc7c0c7dffa4a6d7a92021f4f371e49f",
+    "name": "statue-set",
     "maxSockets": null,
     "korName": "동상세트",
     "group": "",
@@ -8309,7 +8368,7 @@
     "maxSockets": null,
     "korName": "파괴키",
     "group": "",
-    "nameId": "mephisto-key",
+    "nameId": "key-of-destruction",
     "defenseMin": null,
     "defenseMax": null,
     "qualityLevel": null
@@ -8322,7 +8381,7 @@
     "maxSockets": null,
     "korName": "증오키",
     "group": "",
-    "nameId": "mephisto-key",
+    "nameId": "key-of-hate",
     "defenseMin": null,
     "defenseMax": null,
     "qualityLevel": null
@@ -8335,7 +8394,7 @@
     "maxSockets": null,
     "korName": "공포키",
     "group": "",
-    "nameId": "mephisto-key",
+    "nameId": "key-of-terror",
     "defenseMin": null,
     "defenseMax": null,
     "qualityLevel": null
@@ -8344,7 +8403,7 @@
     "id": "3357156195",
     "ctg": "key",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/misc/7fa446b7d36ae8c7a2d3fc670c19e8313x3%20Key%20Set.jpeg",
-    "name": "7fa446b7d36ae8c7a2d3fc670c19e8313x3%20Key%20Set",
+    "name": "3x3-key-set",
     "maxSockets": null,
     "korName": "3x3키셋",
     "group": "",
@@ -8370,7 +8429,7 @@
     "id": "shard-set",
     "ctg": "shard",
     "img": "https://cdn.nookazon.com/128x128/diablo2resurrected/misc/0902195e228b520f896973bd611c1129.jpeg",
-    "name": "0902195e228b520f896973bd611c1129",
+    "name": "shard-set",
     "maxSockets": null,
     "korName": "세계석 세트",
     "group": "shard",
