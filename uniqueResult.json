@@ -153,8 +153,8 @@
         "min": 1,
         "max": 2,
         "property": "Socketed",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 402,
+        "property_kor": "홈있음"
       },
       {
         "min": 10,
@@ -198,8 +198,8 @@
         "min": 1,
         "max": 2,
         "property": "Socketed",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 402,
+        "property_kor": "홈있음"
       }
     ]
   },
@@ -320,8 +320,8 @@
         "min": 1,
         "max": 3,
         "property": "Socketed",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 402,
+        "property_kor": "홈있음"
       }
     ]
   },
@@ -10394,8 +10394,8 @@
         "min": 1,
         "max": 2,
         "property": "Socketed",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 402,
+        "property_kor": "홈있음"
       }
     ]
   },
@@ -11365,8 +11365,8 @@
         "min": 1,
         "max": 2,
         "property": "Socketed",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 402,
+        "property_kor": "홈있음"
       }
     ]
   },
@@ -12690,8 +12690,8 @@
         "min": 3,
         "max": 5,
         "property": "Socketed",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 402,
+        "property_kor": "홈있음"
       }
     ]
   },
@@ -14261,8 +14261,8 @@
         "min": 1,
         "max": 3,
         "property": "Socketed",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 402,
+        "property_kor": "홈있음"
       }
     ]
   },
