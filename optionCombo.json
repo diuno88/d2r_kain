@@ -2790,12 +2790,6 @@
     "global":false
   },
   {
-    "id": 400,
-    "name": "to Mana",
-    "koKR": "마나",
-    "global": false
-  },
-  {
     "id": 694,
     "name": "Chance to cast level Blizzard when struck",
     "koKR": "피격시 레벨 눈보라 시전 확률",
@@ -2920,7 +2914,20 @@
     "name":"Damage",
     "koKR":"피해",
     "global":false
+  },
+  {
+    "id":628,
+    "name":"Charged Bolt on striking",
+    "koKR":"타격 시 번개 줄기 시전",
+    "global":false
+  },
+  {
+    "id":1223,
+    "name":"Damage Increased",
+    "koKR":"받는 물리피해 증가",
+    "global":false
   }
+
   
   
 ]
