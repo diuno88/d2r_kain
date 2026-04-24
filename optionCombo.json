@@ -2914,6 +2914,13 @@
     "name":"Increase Maximum Durability",
     "koKR":"최대 내구도 증가",
     "global":false
+  },
+  {
+    "id":1857,
+    "name":"Damage",
+    "koKR":"피해",
+    "global":false
   }
+  
   
 ]
