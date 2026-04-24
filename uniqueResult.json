@@ -4720,20 +4720,6 @@
         "property": "Enhanced Defense",
         "property_id": 425,
         "property_kor": "방어력증가"
-      },
-      {
-        "min": 39,
-        "max": 80,
-        "property": "Assassin kick dmg:",
-        "property_id": null,
-        "property_kor": null
-      },
-      {
-        "min": 20,
-        "max": 20,
-        "property": "plus Maximum Stamina",
-        "property_id": 452,
-        "property_kor": "최대지구력"
       }
     ]
   },
