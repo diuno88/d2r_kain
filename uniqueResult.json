@@ -9,13 +9,6 @@
     "description": [],
     "description_filtered": [
       {
-        "min": 12,
-        "max": 45,
-        "property": "Damage",
-        "property_id": null,
-        "property_kor": null
-      },
-      {
         "min": 90,
         "max": 90,
         "property": "plus To Attack Rating",
@@ -56,23 +49,9 @@
       {
         "min": 80,
         "max": 120,
-        "property": "Defense",
-        "property_id": null,
-        "property_kor": null
-      },
-      {
-        "min": 30,
-        "max": 30,
-        "property": "plus Defense",
-        "property_id": 399,
-        "property_kor": "방어력:"
-      },
-      {
-        "min": 5,
-        "max": 5,
-        "property": "plus To Strength",
-        "property_id": 437,
-        "property_kor": "힘"
+        "property": "Enhanced Defense",
+        "property_id": 425,
+        "property_kor": "방어력증가"
       }
     ]
   },
@@ -85,13 +64,6 @@
     "tier": null,
     "description": [],
     "description_filtered": [
-      {
-        "min": 45,
-        "max": 45,
-        "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
-      },
       {
         "min": 3,
         "max": 6,
@@ -132,8 +104,8 @@
         "min": 100,
         "max": 150,
         "property": "Defense",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 399,
+        "property_kor": "방어력"
       },
       {
         "min": 1,
@@ -184,8 +156,8 @@
         "min": 250,
         "max": 320,
         "property": "Defense",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 399,
+        "property_kor": "방어력"
       },
       {
         "min": 25,
@@ -222,8 +194,8 @@
         "min": 100,
         "max": 200,
         "property": "Defense",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 399,
+        "property_kor": "방어력"
       },
       {
         "min": 1,
@@ -261,8 +233,8 @@
         "min": 1,
         "max": 15,
         "property": "damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       }
     ]
   },
@@ -285,8 +257,8 @@
         "min": 320,
         "max": 420,
         "property": "Defense",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 399,
+        "property_kor": "방어력"
       },
       {
         "min": 300,
@@ -461,8 +433,8 @@
         "min": 50,
         "max": 120,
         "property": "Defense",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 399,
+        "property_kor": "방어력"
       },
       {
         "min": 50,
@@ -637,22 +609,7 @@
         "property": "Defense"
       }
     ],
-    "description_filtered": [
-      {
-        "min": 15,
-        "max": 15,
-        "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
-      },
-      {
-        "min": 1,
-        "max": 1,
-        "property": "plus To Light Radius",
-        "property_id": 422,
-        "property_kor": "시야"
-      }
-    ]
+    "description_filtered": []
   },
   {
     "id": "3982688299",
@@ -673,8 +630,8 @@
         "min": 10,
         "max": 20,
         "property": "Defense",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 399,
+        "property_kor": "방어력"
       },
       {
         "min": 10,
@@ -726,8 +683,8 @@
         "min": 10,
         "max": 45,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 300,
@@ -1380,8 +1337,8 @@
         "min": 3,
         "max": 7,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 10,
@@ -1408,13 +1365,6 @@
     "tier": "Exceptional",
     "description": [],
     "description_filtered": [
-      {
-        "min": 100,
-        "max": 100,
-        "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
-      },
       {
         "min": 12,
         "max": 15,
@@ -1443,8 +1393,8 @@
         "min": 170,
         "max": 210,
         "property": "Defense",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 399,
+        "property_kor": "방어력"
       },
       {
         "min": 30,
@@ -1475,8 +1425,8 @@
         "min": 35,
         "max": 75,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 1,
@@ -1489,8 +1439,8 @@
         "min": 13,
         "max": 20,
         "property": "Charged Bolt On Striking",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 628,
+        "property_kor": "타격시 번개줄기 시전"
       }
     ]
   },
@@ -1507,8 +1457,8 @@
         "min": 10,
         "max": 30,
         "property": "Damage Increased by",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1223,
+        "property_kor": "받는 물리피해 증가"
       }
     ]
   },
@@ -1531,8 +1481,8 @@
         "min": 45,
         "max": 65,
         "property": "Life",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 418,
+        "property_kor": "생명력"
       },
       {
         "min": 180,
@@ -1561,20 +1511,6 @@
         "property": "plus Max Stamina",
         "property_id": 452,
         "property_kor": "최대지구력"
-      },
-      {
-        "min": 45,
-        "max": 65,
-        "property": "To Life",
-        "property_id": null,
-        "property_kor": null
-      },
-      {
-        "min": 28,
-        "max": 50,
-        "property": "Assassin kick dmg:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -1665,8 +1601,8 @@
         "min": 25,
         "max": 50,
         "property": "Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       },
       {
         "min": 10,
@@ -1704,8 +1640,8 @@
         "min": 40,
         "max": 40,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       },
       {
         "min": 2,
@@ -1756,8 +1692,8 @@
         "min": 10,
         "max": 10,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       }
     ]
   },
@@ -2034,8 +1970,8 @@
         "min": 15,
         "max": 45,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 50,
@@ -2230,8 +2166,8 @@
         "min": 300,
         "max": 350,
         "property": "Defense",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 399,
+        "property_kor": "방어력"
       }
     ]
   },
@@ -2326,8 +2262,8 @@
         "min": 40,
         "max": 40,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       }
     ]
   },
@@ -2351,8 +2287,8 @@
         "min": 50,
         "max": 50,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       }
     ]
   },
@@ -2599,15 +2535,15 @@
         "min": 450,
         "max": 550,
         "property": "Defense",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 399,
+        "property_kor": "방어력"
       },
       {
         "min": 40,
         "max": 50,
         "property": "To Energy",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 421,
+        "property_kor": "마력"
       },
       {
         "min": 5,
@@ -2688,8 +2624,8 @@
         "min": 175,
         "max": 175,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       },
       {
         "min": 80,
@@ -2891,8 +2827,8 @@
         "min": 20,
         "max": 20,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       }
     ]
   },
@@ -2990,8 +2926,8 @@
         "min": 15,
         "max": 15,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       },
       {
         "min": 15,
@@ -3166,8 +3102,8 @@
         "min": 15,
         "max": 15,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       },
       {
         "min": 15,
@@ -3686,13 +3622,6 @@
         "property": "Enhanced Defense",
         "property_id": 425,
         "property_kor": "방어력증가"
-      },
-      {
-        "min": 17,
-        "max": 29,
-        "property": "Pal Smite Dmg:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -4054,8 +3983,8 @@
         "min": 35,
         "max": 35,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       },
       {
         "min": 50,
@@ -4383,8 +4312,8 @@
         "min": 10,
         "max": 20,
         "property": "Defense",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 399,
+        "property_kor": "방어력"
       },
       {
         "min": 8,
@@ -4568,13 +4497,6 @@
         "property": "plus Defense",
         "property_id": 399,
         "property_kor": "방어력:"
-      },
-      {
-        "min": 8,
-        "max": 16,
-        "property": "Assassin kick dmg:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -4689,13 +4611,6 @@
         "property": "plus To Leap (Barbarian Only)",
         "property_id": 618,
         "property_kor": "도약(야만용사전용)"
-      },
-      {
-        "min": 4,
-        "max": 10,
-        "property": "Assassin kick dmg:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -5080,13 +4995,6 @@
         "property": "plus To Life",
         "property_id": 418,
         "property_kor": "생명력"
-      },
-      {
-        "min": 3,
-        "max": 8,
-        "property": "Assassin kick dmg:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -5278,8 +5186,8 @@
         "min": 100,
         "max": 150,
         "property": "Defense",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 399,
+        "property_kor": "방어력"
       },
       {
         "min": 40,
@@ -5436,13 +5344,6 @@
         "property": "plus To Dexterity",
         "property_id": 429,
         "property_kor": "민첩"
-      },
-      {
-        "min": 69,
-        "max": 118,
-        "property": "Assassin kick dmg:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -5541,8 +5442,8 @@
         "min": 20,
         "max": 20,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       }
     ]
   },
@@ -5773,8 +5674,8 @@
         "min": 20,
         "max": 30,
         "property": "To Energy",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 421,
+        "property_kor": "마력"
       },
       {
         "min": 10,
@@ -5962,13 +5863,6 @@
         "property": "Poison Resist",
         "property_id": 401,
         "property_kor": "독저항"
-      },
-      {
-        "min": 60,
-        "max": 110,
-        "property": "Assassin kick dmg:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -6007,13 +5901,6 @@
         "property": "To Dexterity",
         "property_id": 429,
         "property_kor": "민첩"
-      },
-      {
-        "min": 83,
-        "max": 149,
-        "property": "Assassin kick dmg:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -6090,13 +5977,6 @@
         "property": "plus Defense VS. Missile",
         "property_id": 612,
         "property_kor": "원거리공격방어력"
-      },
-      {
-        "min": 23,
-        "max": 52,
-        "property": "Assassin kick dmg:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -6512,27 +6392,6 @@
         "property": "Cold Absorb",
         "property_id": 1868,
         "property_kor": "냉기흡수"
-      },
-      {
-        "min": 74,
-        "max": 84,
-        "property": "Class block: Pal:",
-        "property_id": null,
-        "property_kor": null
-      },
-      {
-        "min": 69,
-        "max": 79,
-        "property": "Ama/Asn/Bar:",
-        "property_id": null,
-        "property_kor": null
-      },
-      {
-        "min": 64,
-        "max": 74,
-        "property": "Dru/Nec/Sor:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -6910,13 +6769,6 @@
         "property": "plus To Vigor (Paladin Only)",
         "property_id": 619,
         "property_kor": "원기(성기사전용)"
-      },
-      {
-        "min": 10,
-        "max": 20,
-        "property": "Assassin kick dmg:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -7057,8 +6909,8 @@
         "min": 20,
         "max": 20,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       }
     ]
   },
@@ -7199,8 +7051,8 @@
         "min": 40,
         "max": 60,
         "property": "Defense",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 399,
+        "property_kor": "방어력"
       },
       {
         "min": 10,
@@ -7260,13 +7112,6 @@
         "property": "plus To Life",
         "property_id": 418,
         "property_kor": "생명력"
-      },
-      {
-        "min": 6,
-        "max": 12,
-        "property": "Assassin kick dmg:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -7469,8 +7314,8 @@
         "min": 15,
         "max": 25,
         "property": "Defense",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 399,
+        "property_kor": "방어력"
       },
       {
         "min": 60,
@@ -7673,8 +7518,8 @@
         "min": 15,
         "max": 25,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 30,
@@ -7682,13 +7527,6 @@
         "property": "Better Chance of Getting Magic Items",
         "property_id": 461,
         "property_kor": "마법아이템발견확률증가"
-      },
-      {
-        "min": 37,
-        "max": 64,
-        "property": "Assassin kick dmg:",
-        "property_id": null,
-        "property_kor": null
       },
       {
         "min": 5,
@@ -7828,8 +7666,8 @@
         "min": 13,
         "max": 13,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       },
       {
         "min": 1,
@@ -8521,8 +8359,8 @@
         "min": 20,
         "max": 30,
         "property": "To Energy",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 421,
+        "property_kor": "마력"
       }
     ]
   },
@@ -8899,8 +8737,8 @@
         "min": 36,
         "max": 36,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       }
     ]
   },
@@ -9070,8 +8908,8 @@
         "min": 40,
         "max": 85,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 80,
@@ -9247,8 +9085,8 @@
         "min": 100,
         "max": 100,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       }
     ]
   },
@@ -9272,8 +9110,8 @@
         "min": 30,
         "max": 30,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       },
       {
         "min": 4,
@@ -9318,8 +9156,8 @@
         "min": 25,
         "max": 50,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 5,
@@ -9819,8 +9657,8 @@
         "min": 25,
         "max": 25,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       },
       {
         "min": 4,
@@ -9851,8 +9689,8 @@
         "min": 75,
         "max": 150,
         "property": "Defense",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 399,
+        "property_kor": "방어력"
       },
       {
         "min": 35,
@@ -9883,8 +9721,8 @@
         "min": 30,
         "max": 50,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       }
     ]
   },
@@ -9908,8 +9746,8 @@
         "min": 20,
         "max": 30,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 2,
@@ -10173,13 +10011,6 @@
         "property": "Mana Stolen Per Hit",
         "property_id": 463,
         "property_kor": "적중당마나훔침"
-      },
-      {
-        "min": 25,
-        "max": 67,
-        "property": "Throw damage:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -10315,13 +10146,6 @@
         "property": "Life Stolen Per Hit",
         "property_id": 462,
         "property_kor": "적중당생명력훔침"
-      },
-      {
-        "min": 104,
-        "max": 192,
-        "property": "Throw damage:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -10405,8 +10229,8 @@
         "min": 30,
         "max": 100,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 5,
@@ -10501,8 +10325,8 @@
         "min": 40,
         "max": 40,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       },
       {
         "min": 3,
@@ -10735,8 +10559,8 @@
         "min": 35,
         "max": 50,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 1,
@@ -10833,13 +10657,6 @@
         "property": "Life Stolen Per Hit",
         "property_id": 462,
         "property_kor": "적중당생명력훔침"
-      },
-      {
-        "min": 30,
-        "max": 254,
-        "property": "Throw damage:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -10911,13 +10728,6 @@
         "property": "Lightning Damage",
         "property_id": 550,
         "property_kor": "번개피해"
-      },
-      {
-        "min": 39,
-        "max": 204,
-        "property": "Throw damage:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -10980,8 +10790,8 @@
         "min": 30,
         "max": 30,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       },
       {
         "min": 3,
@@ -11224,8 +11034,8 @@
         "min": 20,
         "max": 45,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 2,
@@ -11284,8 +11094,8 @@
         "min": 15,
         "max": 35,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 4,
@@ -11539,8 +11349,8 @@
         "min": 35,
         "max": 40,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 3,
@@ -11571,8 +11381,8 @@
         "min": 20,
         "max": 40,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       }
     ]
   },
@@ -11614,8 +11424,8 @@
         "min": 15,
         "max": 25,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 20,
@@ -11646,8 +11456,8 @@
         "min": 20,
         "max": 32,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 200,
@@ -11816,8 +11626,8 @@
         "min": 30,
         "max": 50,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 10,
@@ -11862,8 +11672,8 @@
         "min": 20,
         "max": 20,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       },
       {
         "min": 6,
@@ -11901,8 +11711,8 @@
         "min": 15,
         "max": 15,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       }
     ]
   },
@@ -11960,13 +11770,6 @@
         "property": "Enhanced Damage",
         "property_id": 510,
         "property_kor": "피해증가"
-      },
-      {
-        "min": 17,
-        "max": 186,
-        "property": "Throw damage:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -12036,8 +11839,8 @@
         "min": 10,
         "max": 30,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 60,
@@ -12096,8 +11899,8 @@
         "min": 25,
         "max": 50,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 5,
@@ -12134,8 +11937,8 @@
         "min": 25,
         "max": 50,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 2,
@@ -12194,8 +11997,8 @@
         "min": 25,
         "max": 50,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 200,
@@ -12254,8 +12057,8 @@
         "min": 10,
         "max": 15,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 55,
@@ -12339,8 +12142,8 @@
         "min": 12,
         "max": 20,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 100,
@@ -12555,8 +12358,8 @@
         "min": 30,
         "max": 65,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 100,
@@ -12601,8 +12404,8 @@
         "min": 35,
         "max": 35,
         "property": "plus To Mana",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 400,
+        "property_kor": "마나"
       }
     ]
   },
@@ -13010,8 +12813,8 @@
         "min": 15,
         "max": 27,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 1,
@@ -13055,8 +12858,8 @@
         "min": 20,
         "max": 40,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 3,
@@ -13162,8 +12965,8 @@
         "min": 10,
         "max": 30,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 20,
@@ -13201,8 +13004,8 @@
         "min": 400,
         "max": 600,
         "property": "Defense",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 399,
+        "property_kor": "방어력"
       },
       {
         "min": 30,
@@ -13389,8 +13192,8 @@
         "min": 5,
         "max": 10,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       }
     ]
   },
@@ -13584,8 +13387,8 @@
         "min": 15,
         "max": 25,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 2,
@@ -13630,8 +13433,8 @@
         "min": 12,
         "max": 30,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       }
     ]
   },
@@ -13655,8 +13458,8 @@
         "min": 1,
         "max": 20,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 25,
@@ -13808,8 +13611,8 @@
         "min": 20,
         "max": 30,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 15,
@@ -13890,8 +13693,8 @@
         "min": 60,
         "max": 120,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 200,
@@ -13959,13 +13762,6 @@
         "property": "Life Stolen Per Hit",
         "property_id": 462,
         "property_kor": "적중당생명력훔침"
-      },
-      {
-        "min": 45,
-        "max": 99,
-        "property": "Throw damage:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -14076,13 +13872,6 @@
         "property": "plus To Lightning Bolt (Amazon Only)",
         "property_id": 745,
         "property_kor": "번개흡수(아마존전용)"
-      },
-      {
-        "min": 87,
-        "max": 198,
-        "property": "Throw damage:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -14106,8 +13895,8 @@
         "min": 25,
         "max": 50,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 2,
@@ -14143,13 +13932,6 @@
         "property": "plus To Javelin and Spear Skill",
         "property_id": 456,
         "property_kor": "투창과창기술(아마존전용)"
-      },
-      {
-        "min": 70,
-        "max": 212,
-        "property": "Throw damage:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -14306,13 +14088,6 @@
         "property": "Enhanced Damage",
         "property_id": 510,
         "property_kor": "피해증가"
-      },
-      {
-        "min": 69,
-        "max": 136,
-        "property": "Throw damage:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -14397,8 +14172,8 @@
         "min": 1,
         "max": 3,
         "property": "Damage",
-        "property_id": null,
-        "property_kor": null
+        "property_id": 1857,
+        "property_kor": "피해"
       },
       {
         "min": 50,
@@ -14502,13 +14277,6 @@
         "property": "plus To Mana After Each Kill",
         "property_id": 511,
         "property_kor": "적처치시마나"
-      },
-      {
-        "min": 112,
-        "max": 368,
-        "property": "Throw damage:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -14745,13 +14513,6 @@
         "property": "plus To Light Radius",
         "property_id": 422,
         "property_kor": "시야"
-      },
-      {
-        "min": 26,
-        "max": 46,
-        "property": "Assassin kick dmg:",
-        "property_id": null,
-        "property_kor": null
       }
     ]
   },
@@ -15501,29 +15262,29 @@
         "property_id": 421,
         "property_kor": "마력"
       },
-      { 
-        "min": 1, 
-        "max": 1, 
-        "property": "to Eldritch Skills (Warlock Only)", 
-        "property_id": 1547, 
+      {
+        "min": 1,
+        "max": 1,
+        "property": "to Eldritch Skills (Warlock Only)",
+        "property_id": 1547,
         "selectable": true,
-        "property_kor": "기괴 기술 + (악마술사 전용)" 
-      }, 
-      { 
-        "min": 1, 
-        "max": 1, 
-        "property": "to Demon Skills (Warlock Only)", 
+        "property_kor": "기괴 기술 + (악마술사 전용)"
+      },
+      {
+        "min": 1,
+        "max": 1,
+        "property": "to Demon Skills (Warlock Only)",
         "property_id": 1546,
         "selectable": true,
-        "property_kor": "악마 기술 + (악마술사 전용)" 
-      }, 
-      { 
-        "min": 1, 
-        "max": 1, 
-        "property": "to Chaos Skills (Warlock Only)", 
-        "property_id": 1548, 
+        "property_kor": "악마 기술 + (악마술사 전용)"
+      },
+      {
+        "min": 1,
+        "max": 1,
+        "property": "to Chaos Skills (Warlock Only)",
+        "property_id": 1548,
         "selectable": true,
-        "property_kor": "혼돈 기술 + (악마술사 전용)" 
+        "property_kor": "혼돈 기술 + (악마술사 전용)"
       }
     ]
   },
