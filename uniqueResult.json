@@ -733,8 +733,8 @@
         "property_kor": "마법 기술 피해"
       },
       {
-        "min": -10,
-        "max": -5,
+        "min": -5,
+        "max": -10,
         "property": "to Enemy Magic Resistance",
         "property_id": 1877,
         "property_kor": "적의 마법 저항"
@@ -835,8 +835,8 @@
         "property_kor": "피해 증가"
       },
       {
-        "min": -10,
-        "max": -5,
+        "min": -5,
+        "max": -10,
         "property": "to Enemy Physical Damage Resistance",
         "property_id": 1881,
         "property_kor": "적의 물리 피해 저항"
@@ -937,8 +937,8 @@
         "property_kor": "냉기 기술 피해"
       },
       {
-        "min": -10,
-        "max": -5,
+        "min": -5,
+        "max": -10,
         "property": "To Enemy Cold Resistance",
         "property_id": 609,
         "property_kor": "적의 냉기 저항"
@@ -1039,8 +1039,8 @@
         "property_kor": "번개 기술 피해"
       },
       {
-        "min": -10,
-        "max": -5,
+        "min": -5,
+        "max": -10,
         "property": "To Enemy Lightning Resistance",
         "property_id": 736,
         "property_kor": "적의 번개 저항"
@@ -1141,8 +1141,8 @@
         "property_kor": "화염 기술 피해"
       },
       {
-        "min": -10,
-        "max": -5,
+        "min": -5,
+        "max": -10,
         "property": "To Enemy Fire Resistance",
         "property_id": 735,
         "property_kor": "적의 화염 저항"
@@ -1243,8 +1243,8 @@
         "property_kor": "독 기술 피해"
       },
       {
-        "min": -10,
-        "max": -5,
+        "min": -5,
+        "max": -10,
         "property": "To Enemy Poison Resistance",
         "property_id": 723,
         "property_kor": "적의 독 저항"
