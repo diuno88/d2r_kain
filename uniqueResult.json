@@ -705,6 +705,7 @@
   {
     "id": "3219738921",
     "korName": "새로워진 칠흑의 천공 거대 부적",
+    "affix_kor":"(신 마파참)",
     "name": "Renewed Black Cleft",
     "nameId": "renewed-black-cleft",
     "img": "https://cdn.nookazon.com/diablo2resurrected/charm/charm_large.png",
@@ -821,6 +822,7 @@
   {
     "id": "2995920867",
     "korName": "새로워진 뼈의 분쇄 거대 부적",
+    "affix_kor":"(신 물파참)",
     "name": "Renewed Bone Break",
     "nameId": "renewed-bone-break",
     "img": "https://cdn.nookazon.com/diablo2resurrected/charm/charm_large.png",
@@ -934,6 +936,7 @@
   {
     "id": "2702791506",
     "korName": "새로워진 추위의 파열 거대 부적",
+    "affix_kor":"(신 냉파참)",
     "name": "Renewed Cold Rupture",
     "nameId": "renewed-cold-rupture",
     "img": "https://cdn.nookazon.com/diablo2resurrected/charm/charm_large.png",
@@ -1047,6 +1050,7 @@
   {
     "id": "4256920282",
     "korName": "새로워진 천상의 틈 거대 부적",
+    "affix_kor":"(신 번파참)",
     "name": "Renewed Crack of the Heavens",
     "nameId": "renewed-crack-of-the-heavens",
     "img": "https://cdn.nookazon.com/diablo2resurrected/charm/charm_large.png",
@@ -1161,6 +1165,7 @@
   {
     "id": "3233750126",
     "korName": "새로워진 불길의 균열 거대 부적",
+    "affix_kor":"(신 화파참)",
     "name": "Renewed Flame Rift",
     "nameId": "renewed-flame-rift",
     "img": "https://cdn.nookazon.com/diablo2resurrected/charm/charm_large.png",
@@ -1274,6 +1279,7 @@
   {
     "id": "3814720721",
     "korName": "새로워진 부패의 분열 거대 부적",
+    "affix_kor":"(신 독파참)",
     "name": "Renewed Rotting Fissure",
     "nameId": "renewed-rotting-fissure",
     "img": "https://cdn.nookazon.com/diablo2resurrected/charm/charm_large.png",
@@ -1516,7 +1522,8 @@
   },
   {
     "id": "374110750",
-    "korName": "(물파참)뼈의분쇄",
+    "korName": "뼈의분쇄",
+    "affix_kor":"(물파참)",
     "name": "The Bone Break",
     "nameId": "the-bone-break",
     "img": "https://cdn.nookazon.com/diablo2resurrected/uniques/fd15463b8bb70f2798241f63c21405d2The Bone Break.jpeg",
@@ -1801,7 +1808,8 @@
   },
   {
     "id": "3308865831",
-    "korName": "(콜다주얼)무지개자락",
+    "korName": "무지개자락",
+    "affix_kor":"(콜다주얼)",
     "name": "Rainbow Facet: Cold Death",
     "nameId": "rainbow-facet:-cold-death",
     "img": "https://cdn.nookazon.com/diablo2resurrected/gem/perfect_diamond2.png",
@@ -1826,7 +1834,8 @@
   },
   {
     "id": "3807838496",
-    "korName": "(콜업주얼)무지개자락",
+    "korName": "무지개자락",
+    "affix_kor":"(콜업주얼)",
     "name": "Rainbow Facet: Cold Level-up",
     "nameId": "rainbow-facet:-cold-level-up",
     "img": "https://cdn.nookazon.com/diablo2resurrected/gem/perfect_diamond2.png",
@@ -1904,7 +1913,8 @@
   },
   {
     "id": "2470315921",
-    "korName": "(독다주얼)무지개자락",
+    "korName": "무지개자락",
+    "affix_kor":"(독다주얼)",
     "name": "Rainbow Facet: Poison Death",
     "nameId": "rainbow-facet:-poison-death",
     "img": "https://cdn.nookazon.com/diablo2resurrected/gem/perfect_diamond4.png",
@@ -1929,7 +1939,8 @@
   },
   {
     "id": "2188191106",
-    "korName": "(독업주얼)무지개자락",
+    "korName": "무지개자락",
+    "affix_kor":"(독업주얼)",
     "name": "Rainbow Facet: Poison Level-up",
     "nameId": "rainbow-facet:-poison-level-up",
     "img": "https://cdn.nookazon.com/diablo2resurrected/gem/perfect_diamond4.png",
@@ -1979,7 +1990,8 @@
   },
   {
     "id": "1283013862",
-    "korName": "(독파참)부패의분열",
+    "korName": "부패의분열",
+    "affix_kor":"(구독파참)",
     "name": "The Rotting Fissure",
     "nameId": "the-rotting-fissure",
     "img": "https://cdn.nookazon.com/diablo2resurrected/uniques/a6052df889aa5e62ab9fa071d0f04e26The Rotting Fissure.jpeg",
@@ -2136,7 +2148,8 @@
   },
   {
     "id": "1731212580",
-    "korName": "(마범파괴참)칠흑의천공",
+    "korName": "칠흑의천공",
+    "affix_kor":"(구마법파괴참)",
     "name": "The Black Cleft",
     "nameId": "the-black-cleft",
     "img": "https://cdn.nookazon.com/diablo2resurrected/uniques/4affece17b1058361821184378971a17The Black Cleft.jpeg",
@@ -7682,7 +7695,8 @@
   },
   {
     "id": "849307965",
-    "korName": "(번파참)천상의틈",
+    "korName": "천상의틈",
+    "affix_kor":"(구 번파참)",
     "name": "The Crack of the Heavens",
     "nameId": "the-crack-of-the-heavens",
     "img": "https://cdn.nookazon.com/diablo2resurrected/uniques/841db0701d60a037ea2639acdc7c0a6bThe Crack of the Heavens.jpeg",
@@ -7771,7 +7785,8 @@
   },
   {
     "id": "2368934470",
-    "korName": "(라다주얼)무지개자락",
+    "korName": "무지개자락",
+    "affix_kor":"(라다주얼)",
     "name": "Rainbow Facet: Lightning Death",
     "nameId": "rainbow-facet:-lightning-death",
     "img": "https://cdn.nookazon.com/diablo2resurrected/gem/perfect_diamond6.png",
@@ -7803,7 +7818,8 @@
   },
   {
     "id": "3699123392",
-    "korName": "(라업주얼)무지개자락",
+    "korName": "무지개자락",
+    "affix_kor":"(라업주얼)",
     "name": "Rainbow Facet: Lightning Level-up",
     "nameId": "rainbow-facet:-lightning-level-up",
     "img": "https://cdn.nookazon.com/diablo2resurrected/gem/perfect_diamond6.png",
@@ -14447,7 +14463,8 @@
   },
   {
     "id": "1363635173",
-    "korName": "(화파참)불길의균열",
+    "korName": "불길의균열",
+    "affix_kor":"(구 화파참)",
     "name": "The Flame Rift",
     "nameId": "the-flame-rift",
     "img": "https://cdn.nookazon.com/diablo2resurrected/uniques/dada86be273c80986e1cf53da02b7603The Flame Rift.jpeg",
@@ -14638,7 +14655,8 @@
   },
   {
     "id": "2991746251",
-    "korName": "(화다주얼)무지개자락",
+    "korName": "무지개자락",
+    "affix_kor":"(화다주얼)",
     "name": "Rainbow Facet: Fire Death",
     "nameId": "rainbow-facet:-fire-death",
     "img": "https://cdn.nookazon.com/diablo2resurrected/gem/perfect_diamond5.png",
@@ -14670,7 +14688,8 @@
   },
   {
     "id": "2722722130",
-    "korName": "(화업주얼)무지개자락",
+    "korName": "무지개자락",
+    "affix_kor":"(화업주얼)",
     "name": "Rainbow Facet: Fire Level-up",
     "nameId": "rainbow-facet:-fire-level-up",
     "img": "https://cdn.nookazon.com/diablo2resurrected/gem/perfect_diamond5.png",
