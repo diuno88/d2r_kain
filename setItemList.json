@@ -2,7 +2,7 @@
   {
     "id": "2912900382",
     "name": "Aldur's Advance",
-    "korName": "알더의 전진 (부츠)",
+    "korName": "알더의 전진",
     "img": "https://cdn.nookazon.com/diablo2resurrected/boot/light_plate_boots.png",
     "tier": "Exceptional",
     "description": [
@@ -23,12 +23,13 @@
         "property_kor": "화염 저항"
       }
     ],
-    "nameId": "aldurs-advance"
+    "nameId": "aldurs-advance",
+    "affix_kor": "(부츠)"
   },
   {
     "id": "4257248502",
     "name": "Aldur's Deception",
-    "korName": "알더의 기만 (갑옷)",
+    "korName": "알더의 기만",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/full_plate_mail.png",
     "tier": "Elite",
     "description": [
@@ -54,12 +55,13 @@
         "property_kor": "번개 저항"
       }
     ],
-    "nameId": "aldurs-deception"
+    "nameId": "aldurs-deception",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "2186559570",
     "name": "Aldur's Rhythm",
-    "korName": "알더의 리듬 (메이스)",
+    "korName": "알더의 리듬",
     "img": "https://cdn.nookazon.com/diablo2resurrected/mace/bloodrise.png",
     "tier": "Exceptional",
     "description": [],
@@ -92,12 +94,13 @@
         "property_kor": "홈 있음"
       }
     ],
-    "nameId": "aldurs-rhythm"
+    "nameId": "aldurs-rhythm",
+    "affix_kor": "(메이스)"
   },
   {
     "id": "3438280911",
     "name": "Aldur's Stony Gaze",
-    "korName": "알더의 돌같은 시선 (스피리트)",
+    "korName": "알더의 돌같은 시선",
     "img": "https://cdn.nookazon.com/diablo2resurrected/pelt/antlers.png",
     "tier": "Exceptional",
     "description": [
@@ -123,22 +126,24 @@
         "property_kor": "냉기 저항"
       }
     ],
-    "nameId": "aldurs-stony-gaze"
+    "nameId": "aldurs-stony-gaze",
+    "affix_kor": "(스피리트)"
   },
   {
     "id": "3001899185",
     "name": "Angelic Halo",
-    "korName": "천사의 후광 (반지)",
+    "korName": "천사의 후광",
     "img": "https://cdn.nookazon.com/diablo2resurrected/ring/ring5.png",
     "tier": null,
     "description": [],
     "description_filtered": [],
-    "nameId": "angelic-halo"
+    "nameId": "angelic-halo",
+    "affix_kor": "(반지)"
   },
   {
     "id": "3099988469",
     "name": "Angelic Mantle",
-    "korName": "천사의 망토 (갑옷)",
+    "korName": "천사의 망토",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/ring_mail.png",
     "tier": "Normal",
     "description": [
@@ -154,42 +159,46 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "angelic-mantle"
+    "nameId": "angelic-mantle",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "3952018128",
     "name": "Angelic Sickle",
-    "korName": "천사의 낫 (소드)",
+    "korName": "천사의 낫",
     "img": "https://cdn.nookazon.com/diablo2resurrected/sword/krintizs_skewer.png",
     "tier": "Normal",
     "description": [],
     "description_filtered": [],
-    "nameId": "angelic-sickle"
+    "nameId": "angelic-sickle",
+    "affix_kor": "(소드)"
   },
   {
     "id": "3719638985",
     "name": "Angelic Wings",
-    "korName": "천사의 날개 (목걸이)",
+    "korName": "천사의 날개",
     "img": "https://cdn.nookazon.com/diablo2resurrected/amulet/amulet2.png",
     "tier": null,
     "description": [],
     "description_filtered": [],
-    "nameId": "angelic-wings"
+    "nameId": "angelic-wings",
+    "affix_kor": "(목걸이)"
   },
   {
     "id": "3017305269",
     "name": "Arcanna's Deathwand",
-    "korName": "아르카나의 죽음의 지팡이 (스태프)",
+    "korName": "아르카나의 죽음의 지팡이",
     "img": "https://cdn.nookazon.com/diablo2resurrected/staff/war_staff.png",
     "tier": "Normal",
     "description": [],
     "description_filtered": [],
-    "nameId": "arcannas-deathwand"
+    "nameId": "arcannas-deathwand",
+    "affix_kor": "(스태프)"
   },
   {
     "id": "2906410711",
     "name": "Arcanna's Flesh",
-    "korName": "아르카나의 살 (갑옷)",
+    "korName": "아르카나의 살",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/light_plate.png",
     "tier": "Normal",
     "description": [
@@ -200,12 +209,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "arcannas-flesh"
+    "nameId": "arcannas-flesh",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "4256527178",
     "name": "Arcanna's Head",
-    "korName": "아르카나의 머리 (헬름)",
+    "korName": "아르카나의 머리",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/skull_cap.png",
     "tier": "Normal",
     "description": [
@@ -216,22 +226,24 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "arcannas-head"
+    "nameId": "arcannas-head",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "3449502882",
     "name": "Arcanna's Sign",
-    "korName": "아르카나의 표식 (목걸이)",
+    "korName": "아르카나의 표식",
     "img": "https://cdn.nookazon.com/diablo2resurrected/amulet/amulet3.png",
     "tier": null,
     "description": [],
     "description_filtered": [],
-    "nameId": "arcannas-sign"
+    "nameId": "arcannas-sign",
+    "affix_kor": "(목걸이)"
   },
   {
     "id": "2420647637",
     "name": "Arctic Binding",
-    "korName": "북극의 결속 (벨트)",
+    "korName": "북극의 결속",
     "img": "https://cdn.nookazon.com/diablo2resurrected/belt/light_belt.png",
     "tier": "Normal",
     "description": [
@@ -247,12 +259,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "arctic-binding"
+    "nameId": "arctic-binding",
+    "affix_kor": "(벨트)"
   },
   {
     "id": "2155103945",
     "name": "Arctic Furs",
-    "korName": "북극의 모피 (갑옷)",
+    "korName": "북극의 모피",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/quilted_armor.png",
     "tier": "Normal",
     "description": [
@@ -273,22 +286,24 @@
         "property_kor": "방어력"
       }
     ],
-    "nameId": "arctic-furs"
+    "nameId": "arctic-furs",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "4173678802",
     "name": "Arctic Horn",
-    "korName": "북극의 뿔 (보우)",
+    "korName": "북극의 뿔",
     "img": "https://cdn.nookazon.com/diablo2resurrected/bow/hellclap.png",
     "tier": "Normal",
     "description": [],
     "description_filtered": [],
-    "nameId": "arctic-horn"
+    "nameId": "arctic-horn",
+    "affix_kor": "(보우)"
   },
   {
     "id": "2697540533",
     "name": "Arctic Mitts",
-    "korName": "북극의 장갑 (글러브)",
+    "korName": "북극의 장갑",
     "img": "https://cdn.nookazon.com/diablo2resurrected/glove/light_gauntlets.png",
     "tier": "Normal",
     "description": [
@@ -299,37 +314,41 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "arctic-mitts"
+    "nameId": "arctic-mitts",
+    "affix_kor": "(글러브)"
   },
   {
     "id": "432025938",
     "name": "Bane's Authority",
-    "korName": "재앙의 권위 라이트 벨트 (벨트)",
+    "korName": "재앙의 권위 라이트 벨트",
     "img": "https://cdn.nookazon.com/diablo2resurrected/belt/light_belt.png",
     "tier": null,
     "description": [],
     "description_filtered": [],
-    "nameId": "banes-authority"
+    "nameId": "banes-authority",
+    "affix_kor": "(벨트)"
   },
   {
     "id": "224802998",
     "name": "Bane's Oathmaker",
-    "korName": "재앙의 맹약자 크리스 (나이프)",
+    "korName": "재앙의 맹약자 크리스",
     "img": "https://cdn.nookazon.com/diablo2resurrected/knife/banes_spire.png",
     "tier": null,
     "description": [],
     "description_filtered": [],
-    "nameId": "banes-oathmaker"
+    "nameId": "banes-oathmaker",
+    "affix_kor": "(나이프)"
   },
   {
     "id": "1394617614",
     "name": "Bane's Wraithskin",
-    "korName": "재앙의 망령껍질 하드 레더 아머 (갑옷)",
+    "korName": "재앙의 망령껍질 하드 레더 아머",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/hard_leather_armor.png",
     "tier": null,
     "description": [],
     "description_filtered": [],
-    "nameId": "banes-wraithskin"
+    "nameId": "banes-wraithskin",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "3285983437",
@@ -354,17 +373,18 @@
   {
     "id": "2881447838",
     "name": "Berserker's Hatchet",
-    "korName": "광전사의 손도끼 (액스)",
+    "korName": "광전사의 손도끼",
     "img": "https://cdn.nookazon.com/diablo2resurrected/axe/double_axe.png",
     "tier": "Normal",
     "description": [],
     "description_filtered": [],
-    "nameId": "berserkers-hatchet"
+    "nameId": "berserkers-hatchet",
+    "affix_kor": "(액스)"
   },
   {
     "id": "3633212624",
     "name": "Berserker's Hauberk",
-    "korName": "광전사의 사슬갑옷 (갑옷)",
+    "korName": "광전사의 사슬갑옷",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/splint_mail.png",
     "tier": "Normal",
     "description": [
@@ -375,12 +395,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "berserkers-hauberk"
+    "nameId": "berserkers-hauberk",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "2264033564",
     "name": "Berserker's Headgear",
-    "korName": "광전사의 머리장식 (헬름)",
+    "korName": "광전사의 머리장식",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/coif_of_glory.png",
     "tier": "Normal",
     "description": [
@@ -396,32 +417,35 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "berserkers-headgear"
+    "nameId": "berserkers-headgear",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "3867296295",
     "name": "Bul-Kathos' Sacred Charge",
-    "korName": "불카토스의 신성한 돌격 (소드)",
+    "korName": "불카토스의 신성한 돌격",
     "img": "https://cdn.nookazon.com/diablo2resurrected/sword/the_patriarch.png",
     "tier": "Elite",
     "description": [],
     "description_filtered": [],
-    "nameId": "bul-kathos-sacred-charge"
+    "nameId": "bul-kathos-sacred-charge",
+    "affix_kor": "(소드)"
   },
   {
     "id": "4016600101",
     "name": "Bul-Kathos' Tribal Guardian",
-    "korName": "불카토스의 부족 수호자 (소드)",
+    "korName": "불카토스의 부족 수호자",
     "img": "https://cdn.nookazon.com/diablo2resurrected/sword/war_sword.png",
     "tier": "Elite",
     "description": [],
     "description_filtered": [],
-    "nameId": "bul-kathos-tribal-guardian"
+    "nameId": "bul-kathos-tribal-guardian",
+    "affix_kor": "(소드)"
   },
   {
     "id": "2648311224",
     "name": "Cathan's Mesh",
-    "korName": "캐선의 그물 (갑옷)",
+    "korName": "캐선의 그물",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/chain_mail.png",
     "tier": "Normal",
     "description": [
@@ -437,42 +461,46 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "cathans-mesh"
+    "nameId": "cathans-mesh",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "3826660228",
     "name": "Cathan's Rule",
-    "korName": "캐선의 규율 (스태프)",
+    "korName": "캐선의 규율",
     "img": "https://cdn.nookazon.com/diablo2resurrected/staff/battle_staff.png",
     "tier": "Normal",
     "description": [],
     "description_filtered": [],
-    "nameId": "cathans-rule"
+    "nameId": "cathans-rule",
+    "affix_kor": "(스태프)"
   },
   {
     "id": "3601754843",
     "name": "Cathan's Seal",
-    "korName": "캐선의 인장 (반지)",
+    "korName": "캐선의 인장",
     "img": "https://cdn.nookazon.com/diablo2resurrected/ring/ring2.png",
     "tier": null,
     "description": [],
     "description_filtered": [],
-    "nameId": "cathans-seal"
+    "nameId": "cathans-seal",
+    "affix_kor": "(반지)"
   },
   {
     "id": "2854028496",
     "name": "Cathan's Sigil",
-    "korName": "캐선의 문장 (목걸이)",
+    "korName": "캐선의 문장",
     "img": "https://cdn.nookazon.com/diablo2resurrected/amulet/amulet3.png",
     "tier": null,
     "description": [],
     "description_filtered": [],
-    "nameId": "cathans-sigil"
+    "nameId": "cathans-sigil",
+    "affix_kor": "(목걸이)"
   },
   {
     "id": "3184939581",
     "name": "Cathan's Visage",
-    "korName": "캐선의 얼굴 (헬름)",
+    "korName": "캐선의 얼굴",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/mask.png",
     "tier": "Normal",
     "description": [
@@ -483,12 +511,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "cathans-visage"
+    "nameId": "cathans-visage",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "4037297345",
     "name": "Civerb's Cudgel",
-    "korName": "시버브의 곤봉 (셉터)",
+    "korName": "시버브의 곤봉",
     "img": "https://cdn.nookazon.com/diablo2resurrected/scepter/grand_scepter.png",
     "tier": "Normal",
     "description": [],
@@ -512,22 +541,24 @@
         "property_kor": "최대 피해"
       }
     ],
-    "nameId": "civerbs-cudgel"
+    "nameId": "civerbs-cudgel",
+    "affix_kor": "(셉터)"
   },
   {
     "id": "3493026449",
     "name": "Civerb's Icon",
-    "korName": "시버브의 성상 (목걸이)",
+    "korName": "시버브의 성상",
     "img": "https://cdn.nookazon.com/diablo2resurrected/amulet/amulet1.png",
     "tier": null,
     "description": [],
     "description_filtered": [],
-    "nameId": "civerbs-icon"
+    "nameId": "civerbs-icon",
+    "affix_kor": "(목걸이)"
   },
   {
     "id": "3783073382",
     "name": "Civerb's Ward",
-    "korName": "시버브의 수호 (쉴드)",
+    "korName": "시버브의 수호",
     "img": "https://cdn.nookazon.com/diablo2resurrected/shield/stormguild.png",
     "tier": "Normal",
     "description": [
@@ -538,12 +569,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "civerbs-ward"
+    "nameId": "civerbs-ward",
+    "affix_kor": "(쉴드)"
   },
   {
     "id": "3209445059",
     "name": "Cleglaw's Claw",
-    "korName": "클레글로의 발톱 (쉴드)",
+    "korName": "클레글로의 발톱",
     "img": "https://cdn.nookazon.com/diablo2resurrected/shield/umbral_disk.png",
     "tier": "Normal",
     "description": [
@@ -559,12 +591,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "cleglaws-claw"
+    "nameId": "cleglaws-claw",
+    "affix_kor": "(쉴드)"
   },
   {
     "id": "4010568096",
     "name": "Cleglaw's Pincers",
-    "korName": "클레글로의 집게 (글러브)",
+    "korName": "클레글로의 집게",
     "img": "https://cdn.nookazon.com/diablo2resurrected/glove/bracers_m.png",
     "tier": "Normal",
     "description": [
@@ -575,22 +608,24 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "cleglaws-pincers"
+    "nameId": "cleglaws-pincers",
+    "affix_kor": "(글러브)"
   },
   {
     "id": "2393195676",
     "name": "Cleglaw's Tooth",
-    "korName": "클레글로의 이빨 (소드)",
+    "korName": "클레글로의 이빨",
     "img": "https://cdn.nookazon.com/diablo2resurrected/sword/hellplague.png",
     "tier": "Normal",
     "description": [],
     "description_filtered": [],
-    "nameId": "cleglaws-tooth"
+    "nameId": "cleglaws-tooth",
+    "affix_kor": "(소드)"
   },
   {
     "id": "2229737111",
     "name": "Cow King's Hide",
-    "korName": "소왕의 가죽 (갑옷)",
+    "korName": "소왕의 가죽",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/studded_leather.png",
     "tier": "Normal",
     "description": [
@@ -606,12 +641,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "cow-kings-hide"
+    "nameId": "cow-kings-hide",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "4104204890",
     "name": "Cow King's Hooves",
-    "korName": "소왕의 발굽 (부츠)",
+    "korName": "소왕의 발굽",
     "img": "https://cdn.nookazon.com/diablo2resurrected/boot/heavy_boots.png",
     "tier": "Exceptional",
     "description": [
@@ -637,12 +673,13 @@
         "property_kor": "화염 피해"
       }
     ],
-    "nameId": "cow-kings-hooves"
+    "nameId": "cow-kings-hooves",
+    "affix_kor": "(부츠)"
   },
   {
     "id": "3834585967",
     "name": "Cow King's Horns",
-    "korName": "소왕의 뿔 (헬름)",
+    "korName": "소왕의 뿔",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/cap_hat.png",
     "tier": "Exceptional",
     "description": [
@@ -658,12 +695,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "cow-kings-horns"
+    "nameId": "cow-kings-horns",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "3167124406",
     "name": "Credendum",
-    "korName": "크레덴덤 (벨트)",
+    "korName": "크레덴덤",
     "img": "https://cdn.nookazon.com/diablo2resurrected/belt/belt_m.png",
     "tier": "Elite",
     "description": [
@@ -679,12 +717,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "credendum"
+    "nameId": "credendum",
+    "affix_kor": "(벨트)"
   },
   {
     "id": "3126291861",
     "name": "Dangoon's Teaching",
-    "korName": "단군의 가르침 (메이스)",
+    "korName": "단군의 가르침",
     "img": "https://cdn.nookazon.com/diablo2resurrected/mace/dangoons_teaching.png",
     "tier": "Elite",
     "description": [],
@@ -708,12 +747,13 @@
         "property_kor": "화염 피해"
       }
     ],
-    "nameId": "dangoons-teaching"
+    "nameId": "dangoons-teaching",
+    "affix_kor": "(메이스)"
   },
   {
     "id": "2402943669",
     "name": "Dark Adherent",
-    "korName": "Dark Adherent (갑옷)",
+    "korName": "Dark Adherent",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/quilted_armor.png",
     "tier": "Elite",
     "description": [
@@ -739,12 +779,13 @@
         "property_kor": "독 피해"
       }
     ],
-    "nameId": "dark-adherent"
+    "nameId": "dark-adherent",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "3186576978",
     "name": "Death's Guard",
-    "korName": "죽음의 수호 (벨트)",
+    "korName": "죽음의 수호",
     "img": "https://cdn.nookazon.com/diablo2resurrected/belt/sash_l.png",
     "tier": "Normal",
     "description": [
@@ -760,12 +801,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "deaths-guard"
+    "nameId": "deaths-guard",
+    "affix_kor": "(벨트)"
   },
   {
     "id": "3983240540",
     "name": "Death's Hand",
-    "korName": "죽음의 손 (글러브)",
+    "korName": "죽음의 손",
     "img": "https://cdn.nookazon.com/diablo2resurrected/glove/gloves_l.png",
     "tier": "Normal",
     "description": [
@@ -776,22 +818,24 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "deaths-hand"
+    "nameId": "deaths-hand",
+    "affix_kor": "(글러브)"
   },
   {
     "id": "2381647271",
     "name": "Death's Touch",
-    "korName": "죽음의 손길 (소드)",
+    "korName": "죽음의 손길",
     "img": "https://cdn.nookazon.com/diablo2resurrected/sword/war_sword.png",
     "tier": "Normal",
     "description": [],
     "description_filtered": [],
-    "nameId": "deaths-touch"
+    "nameId": "deaths-touch",
+    "affix_kor": "(소드)"
   },
   {
     "id": "2937859179",
     "name": "Griswold's Heart",
-    "korName": "그리스왈드의 심장 (갑옷)",
+    "korName": "그리스왈드의 심장",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/corpsemourn.png",
     "tier": "Exceptional",
     "description": [
@@ -807,12 +851,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "griswolds-heart"
+    "nameId": "griswolds-heart",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "3741345509",
     "name": "Griswold's Honor",
-    "korName": "그리스왈드의 명예 (쉴드)",
+    "korName": "그리스왈드의 명예",
     "img": "https://cdn.nookazon.com/diablo2resurrected/shield/crown_shield.png",
     "tier": "Elite",
     "description": [
@@ -828,12 +873,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "griswolds-honor"
+    "nameId": "griswolds-honor",
+    "affix_kor": "(쉴드)"
   },
   {
     "id": "3466880444",
     "name": "Griswold's Redemption",
-    "korName": "그리스왈드의 구원 (셉터)",
+    "korName": "그리스왈드의 구원",
     "img": "https://cdn.nookazon.com/diablo2resurrected/scepter/war_scepter.png",
     "tier": "Elite",
     "description": [],
@@ -857,12 +903,13 @@
         "property_kor": "홈 있음"
       }
     ],
-    "nameId": "griswolds-redemption"
+    "nameId": "griswolds-redemption",
+    "affix_kor": "(셉터)"
   },
   {
     "id": "4284314538",
     "name": "Griswold's Valor",
-    "korName": "그리스왈드의 용맹 (헬름)",
+    "korName": "그리스왈드의 용맹",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/crown.png",
     "tier": "Elite",
     "description": [
@@ -901,12 +948,13 @@
         "property_kor": "냉기 피해"
       }
     ],
-    "nameId": "griswolds-valor"
+    "nameId": "griswolds-valor",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "4017690976",
     "name": "Guillaume's Face",
-    "korName": "기욤의 얼굴 (헬름)",
+    "korName": "기욤의 얼굴",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/great_helm.png",
     "tier": "Exceptional",
     "description": [
@@ -922,12 +970,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "guillaumes-face"
+    "nameId": "guillaumes-face",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "3977016850",
     "name": "Haemosu's Adamant",
-    "korName": "해모수의 강철 (갑옷)",
+    "korName": "해모수의 강철",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/haemosus_adament.png",
     "tier": "Exceptional",
     "description": [
@@ -953,12 +1002,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "haemosus-adamant"
+    "nameId": "haemosus-adamant",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "1491273256",
     "name": "Horazon's Countenance",
-    "korName": "호라존의 표정(헬름)",
+    "korName": "호라존의 표정",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/horazons_countenance.png",
     "tier": null,
     "description": [],
@@ -982,12 +1032,13 @@
         "property_kor": "마법 피해 감소"
       }
     ],
-    "nameId": "horazons-countenance"
+    "nameId": "horazons-countenance",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "176323484",
     "name": "Horazon's Dominion",
-    "korName": "호라존의 지배(갑옷)",
+    "korName": "호라존의 지배",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/splint_mail.png",
     "tier": null,
     "description": [],
@@ -1038,12 +1089,13 @@
         "property_kor": "번개 저항"
       }
     ],
-    "nameId": "horazons-dominion"
+    "nameId": "horazons-dominion",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "553089084",
     "name": "Horazon's Hold",
-    "korName": "호라존의 장악(글러브)",
+    "korName": "호라존의 장악",
     "img": "https://cdn.nookazon.com/diablo2resurrected/glove/gloves_l.png",
     "tier": null,
     "description": [],
@@ -1076,12 +1128,13 @@
         "property_kor": "생명력"
       }
     ],
-    "nameId": "horazons-hold"
+    "nameId": "horazons-hold",
+    "affix_kor": "(글러브)"
   },
   {
     "id": "2037975948",
     "name": "Horazon's Legacy",
-    "korName": "호라존의 유산(부츠)",
+    "korName": "호라존의 유산",
     "img": "https://cdn.nookazon.com/diablo2resurrected/boot/light_plate_boots.png",
     "tier": null,
     "description": [],
@@ -1114,12 +1167,13 @@
         "property_kor": "마법 저항"
       }
     ],
-    "nameId": "horazons-legacy"
+    "nameId": "horazons-legacy",
+    "affix_kor": "(부츠)"
   },
   {
     "id": "2061919011",
     "name": "Horazon's Secrets",
-    "korName": "호라존의 비밀(마법서)",
+    "korName": "호라존의 비밀",
     "img": "https://cdn.nookazon.com/diablo2resurrected/grimoires/ars_torbaalos.png",
     "tier": null,
     "description": [],
@@ -1143,12 +1197,13 @@
         "property_kor": "생명력"
       }
     ],
-    "nameId": "horazons-secrets"
+    "nameId": "horazons-secrets",
+    "affix_kor": "(마법서)"
   },
   {
     "id": "2295745237",
     "name": "Hsarus' Iron Fist",
-    "korName": "사루스의 강철 주먹 (쉴드)",
+    "korName": "사루스의 강철 주먹",
     "img": "https://cdn.nookazon.com/diablo2resurrected/shield/pelta_lunata.png",
     "tier": "Normal",
     "description": [
@@ -1159,12 +1214,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "hsarus-iron-fist"
+    "nameId": "hsarus-iron-fist",
+    "affix_kor": "(쉴드)"
   },
   {
     "id": "3899413104",
     "name": "Hsarus' Iron Heel",
-    "korName": "사루스의 강철 발꿈치 (부츠)",
+    "korName": "사루스의 강철 발꿈치",
     "img": "https://cdn.nookazon.com/diablo2resurrected/boot/chain_boots.png",
     "tier": "Normal",
     "description": [
@@ -1175,12 +1231,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "hsarus-iron-heel"
+    "nameId": "hsarus-iron-heel",
+    "affix_kor": "(부츠)"
   },
   {
     "id": "2613143690",
     "name": "Hsarus' Iron Stay",
-    "korName": "사루스의 강철 지지대 (벨트)",
+    "korName": "사루스의 강철 지지대",
     "img": "https://cdn.nookazon.com/diablo2resurrected/belt/belt_m.png",
     "tier": "Normal",
     "description": [
@@ -1191,12 +1248,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "hsarus-iron-stay"
+    "nameId": "hsarus-iron-stay",
+    "affix_kor": "(벨트)"
   },
   {
     "id": "2531153726",
     "name": "Hwanin's Blessing",
-    "korName": "Hwanin's Blessing (벨트)",
+    "korName": "Hwanin's Blessing",
     "img": "https://cdn.nookazon.com/diablo2resurrected/belt/belt_m.png",
     "tier": "Normal",
     "description": [
@@ -1217,12 +1275,13 @@
         "property_kor": "번개 피해"
       }
     ],
-    "nameId": "hwanins-blessing"
+    "nameId": "hwanins-blessing",
+    "affix_kor": "(벨트)"
   },
   {
     "id": "2954718866",
     "name": "Hwanin's Justice",
-    "korName": "Hwanin's Justice (폴암)",
+    "korName": "Hwanin's Justice",
     "img": "https://cdn.nookazon.com/diablo2resurrected/polearm/voulge.png",
     "tier": "Exceptional",
     "description": [],
@@ -1237,12 +1296,13 @@
         "property_kor": "번개 피해"
       }
     ],
-    "nameId": "hwanins-justice"
+    "nameId": "hwanins-justice",
+    "affix_kor": "(폴암)"
   },
   {
     "id": "3764345246",
     "name": "Hwanin's Refuge",
-    "korName": "Hwanin's Refuge (갑옷)",
+    "korName": "Hwanin's Refuge",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/scale_mail.png",
     "tier": "Exceptional",
     "description": [
@@ -1258,12 +1318,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "hwanins-refuge"
+    "nameId": "hwanins-refuge",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "2826700613",
     "name": "Hwanin's Splendor",
-    "korName": "Hwanin's Splendor (헬름)",
+    "korName": "Hwanin's Splendor",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/crown_of_thieves.png",
     "tier": "Exceptional",
     "description": [
@@ -1279,12 +1340,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "hwanins-splendor"
+    "nameId": "hwanins-splendor",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "4275061870",
     "name": "Immortal King's Detail",
-    "korName": "불멸의 왕의 장식 (벨트)",
+    "korName": "불멸의 왕의 장식",
     "img": "https://cdn.nookazon.com/diablo2resurrected/belt/girdle_h.png",
     "tier": "Exceptional",
     "description": [
@@ -1300,12 +1362,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "immortal-kings-detail"
+    "nameId": "immortal-kings-detail",
+    "affix_kor": "(벨트)"
   },
   {
     "id": "4017579480",
     "name": "Immortal King's Forge",
-    "korName": "불멸의 왕의 대장간 (글러브)",
+    "korName": "불멸의 왕의 대장간",
     "img": "https://cdn.nookazon.com/diablo2resurrected/glove/gaunlets_h.png",
     "tier": "Exceptional",
     "description": [
@@ -1321,12 +1384,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "immortal-kings-forge"
+    "nameId": "immortal-kings-forge",
+    "affix_kor": "(글러브)"
   },
   {
     "id": "3227151854",
     "name": "Immortal King's Pillar",
-    "korName": "불멸의 왕의 기둥 (부츠)",
+    "korName": "불멸의 왕의 기둥",
     "img": "https://cdn.nookazon.com/diablo2resurrected/boot/plate_boots.png",
     "tier": "Exceptional",
     "description": [
@@ -1342,12 +1406,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "immortal-kings-pillar"
+    "nameId": "immortal-kings-pillar",
+    "affix_kor": "(부츠)"
   },
   {
     "id": "4134612737",
     "name": "Immortal King's Soul Cage",
-    "korName": "불멸의 왕의 영혼 우리 (갑옷)",
+    "korName": "불멸의 왕의 영혼 우리",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/victors_silk.png",
     "tier": "Elite",
     "description": [
@@ -1363,12 +1428,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "immortal-kings-soul-cage"
+    "nameId": "immortal-kings-soul-cage",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "2327139623",
     "name": "Immortal King's Stone Crusher",
-    "korName": "불멸의 왕의 돌 분쇄기 (마울)",
+    "korName": "불멸의 왕의 돌 분쇄기",
     "img": "https://cdn.nookazon.com/diablo2resurrected/hammer/maul.png",
     "tier": "Elite",
     "description": [],
@@ -1383,12 +1449,13 @@
         "property_kor": "강한타격 확률"
       }
     ],
-    "nameId": "immortal-kings-stone-crusher"
+    "nameId": "immortal-kings-stone-crusher",
+    "affix_kor": "(마울)"
   },
   {
     "id": "2264300634",
     "name": "Immortal King's Will",
-    "korName": "불멸의 왕의 의지 (헬름)",
+    "korName": "불멸의 왕의 의지",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/avenger_guard.png",
     "tier": "Normal",
     "description": [
@@ -1414,12 +1481,13 @@
         "property_kor": "마법 아이템 발견 확률 증가"
       }
     ],
-    "nameId": "immortal-kings-will"
+    "nameId": "immortal-kings-will",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "2673100469",
     "name": "Infernal Cranium",
-    "korName": "지옥의 두개골 (헬름)",
+    "korName": "지옥의 두개골",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/war_bonnet.png",
     "tier": "Normal",
     "description": [
@@ -1430,12 +1498,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "infernal-cranium"
+    "nameId": "infernal-cranium",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "2743959522",
     "name": "Infernal Sign",
-    "korName": "지옥의 표식 (벨트)",
+    "korName": "지옥의 표식",
     "img": "https://cdn.nookazon.com/diablo2resurrected/belt/heavy_belt.png",
     "tier": "Normal",
     "description": [
@@ -1451,22 +1520,24 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "infernal-sign"
+    "nameId": "infernal-sign",
+    "affix_kor": "(벨트)"
   },
   {
     "id": "3505593812",
     "name": "Infernal Torch",
-    "korName": "지옥의 횃불 (원드)",
+    "korName": "지옥의 횃불",
     "img": "https://cdn.nookazon.com/diablo2resurrected/wand/grim_wand.png",
     "tier": "Normal",
     "description": [],
     "description_filtered": [],
-    "nameId": "infernal-torch"
+    "nameId": "infernal-torch",
+    "affix_kor": "(원드)"
   },
   {
     "id": "3593687160",
     "name": "Iratha's Coil",
-    "korName": "이라사의 코일 (헬름)",
+    "korName": "이라사의 코일",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/crown.png",
     "tier": "Normal",
     "description": [
@@ -1477,22 +1548,24 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "irathas-coil"
+    "nameId": "irathas-coil",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "2940688535",
     "name": "Iratha's Collar",
-    "korName": "이라사의 목걸이 (목걸이)",
+    "korName": "이라사의 목걸이",
     "img": "https://cdn.nookazon.com/diablo2resurrected/amulet/amulet1.png",
     "tier": null,
     "description": [],
     "description_filtered": [],
-    "nameId": "irathas-collar"
+    "nameId": "irathas-collar",
+    "affix_kor": "(목걸이)"
   },
   {
     "id": "3211535556",
     "name": "Iratha's Cord",
-    "korName": "이라사의 끈 (벨트)",
+    "korName": "이라사의 끈",
     "img": "https://cdn.nookazon.com/diablo2resurrected/belt/heavy_belt.png",
     "tier": "Normal",
     "description": [
@@ -1508,12 +1581,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "irathas-cord"
+    "nameId": "irathas-cord",
+    "affix_kor": "(벨트)"
   },
   {
     "id": "3338799207",
     "name": "Iratha's Cuff",
-    "korName": "이라사의 팔찌 (글러브)",
+    "korName": "이라사의 팔찌",
     "img": "https://cdn.nookazon.com/diablo2resurrected/glove/light_gauntlets.png",
     "tier": "Normal",
     "description": [
@@ -1524,12 +1598,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "irathas-cuff"
+    "nameId": "irathas-cuff",
+    "affix_kor": "(글러브)"
   },
   {
     "id": "4252857064",
     "name": "Isenhart's Case",
-    "korName": "아이젠하트의 갑옷 (갑옷)",
+    "korName": "아이젠하트의 갑옷",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/breast_plate.png",
     "tier": "Normal",
     "description": [
@@ -1545,12 +1620,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "isenharts-case"
+    "nameId": "isenharts-case",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "3930858950",
     "name": "Isenhart's Horns",
-    "korName": "아이젠하트의 뿔 (헬름)",
+    "korName": "아이젠하트의 뿔",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/duskdeep.png",
     "tier": "Normal",
     "description": [
@@ -1561,22 +1637,24 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "isenharts-horns"
+    "nameId": "isenharts-horns",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "2318413367",
     "name": "Isenhart's Lightbrand",
-    "korName": "아이젠하트의 빛의 검 (소드)",
+    "korName": "아이젠하트의 빛의 검",
     "img": "https://cdn.nookazon.com/diablo2resurrected/sword/griswolds_edge.png",
     "tier": "Normal",
     "description": [],
     "description_filtered": [],
-    "nameId": "isenharts-lightbrand"
+    "nameId": "isenharts-lightbrand",
+    "affix_kor": "(소드)"
   },
   {
     "id": "3747877818",
     "name": "Isenhart's Parry",
-    "korName": "아이젠하트의 방패 (쉴드)",
+    "korName": "아이젠하트의 방패",
     "img": "https://cdn.nookazon.com/diablo2resurrected/shield/the_ward.png",
     "tier": "Normal",
     "description": [
@@ -1592,12 +1670,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "isenharts-parry"
+    "nameId": "isenharts-parry",
+    "affix_kor": "(쉴드)"
   },
   {
     "id": "2419933598",
     "name": "Laying of Hands",
-    "korName": "안수 (글러브)",
+    "korName": "안수",
     "img": "https://cdn.nookazon.com/diablo2resurrected/glove/gloves_l.png",
     "tier": "Elite",
     "description": [
@@ -1613,12 +1692,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "laying-of-hands"
+    "nameId": "laying-of-hands",
+    "affix_kor": "(글러브)"
   },
   {
     "id": "3417201846",
     "name": "Magnus' Skin",
-    "korName": "마그누스의 피부 (글러브)",
+    "korName": "마그누스의 피부",
     "img": "https://cdn.nookazon.com/diablo2resurrected/glove/heavy_gloves.png",
     "tier": "Exceptional",
     "description": [
@@ -1634,22 +1714,24 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "magnus-skin"
+    "nameId": "magnus-skin",
+    "affix_kor": "(글러브)"
   },
   {
     "id": "3196591890",
     "name": "M'avina's Caster",
-    "korName": "마비나의 활 (보우)",
+    "korName": "마비나의 활",
     "img": "https://cdn.nookazon.com/diablo2resurrected/bow/reflex_bow.png",
     "tier": "Elite",
     "description": [],
     "description_filtered": [],
-    "nameId": "mavinas-caster"
+    "nameId": "mavinas-caster",
+    "affix_kor": "(보우)"
   },
   {
     "id": "2641654843",
     "name": "M'avina's Embrace",
-    "korName": "마비나의 포옹 (갑옷)",
+    "korName": "마비나의 포옹",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/field_plate.png",
     "tier": "Elite",
     "description": [
@@ -1675,12 +1757,13 @@
         "property_kor": "마법 피해 감소"
       }
     ],
-    "nameId": "mavinas-embrace"
+    "nameId": "mavinas-embrace",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "2167544980",
     "name": "M'avina's Icy Clutch",
-    "korName": "마비나의 얼음 손아귀 (글러브)",
+    "korName": "마비나의 얼음 손아귀",
     "img": "https://cdn.nookazon.com/diablo2resurrected/glove/light_gauntlets.png",
     "tier": "Exceptional",
     "description": [
@@ -1706,12 +1789,13 @@
         "property_kor": "냉기 피해"
       }
     ],
-    "nameId": "mavinas-icy-clutch"
+    "nameId": "mavinas-icy-clutch",
+    "affix_kor": "(글러브)"
   },
   {
     "id": "4236260079",
     "name": "M'avina's Tenet",
-    "korName": "마비나의 신조 (벨트)",
+    "korName": "마비나의 신조",
     "img": "https://cdn.nookazon.com/diablo2resurrected/belt/light_belt.png",
     "tier": "Exceptional",
     "description": [
@@ -1727,12 +1811,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "mavinas-tenet"
+    "nameId": "mavinas-tenet",
+    "affix_kor": "(벨트)"
   },
   {
     "id": "2319788801",
     "name": "M'avina's True Sight",
-    "korName": "마비나의 진실한 시야 (써클릿)",
+    "korName": "마비나의 진실한 시야",
     "img": "https://cdn.nookazon.com/diablo2resurrected/circlet/diadem.png",
     "tier": "Elite",
     "description": [
@@ -1748,12 +1833,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "mavinas-true-sight"
+    "nameId": "mavinas-true-sight",
+    "affix_kor": "(써클릿)"
   },
   {
     "id": "3745212043",
     "name": "Milabrega's Diadem",
-    "korName": "밀라브레가의 왕관 (헬름)",
+    "korName": "밀라브레가의 왕관",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/crown.png",
     "tier": "Normal",
     "description": [
@@ -1764,12 +1850,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "milabregas-diadem"
+    "nameId": "milabregas-diadem",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "3214288448",
     "name": "Milabrega's Orb",
-    "korName": "밀라브레가의 보주 (쉴드)",
+    "korName": "밀라브레가의 보주",
     "img": "https://cdn.nookazon.com/diablo2resurrected/shield/steelclash.png",
     "tier": "Normal",
     "description": [
@@ -1785,12 +1872,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "milabregas-orb"
+    "nameId": "milabregas-orb",
+    "affix_kor": "(쉴드)"
   },
   {
     "id": "2442813660",
     "name": "Milabrega's Robe",
-    "korName": "밀라브레가의 로브 (갑옷)",
+    "korName": "밀라브레가의 로브",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/victors_silk.png",
     "tier": "Normal",
     "description": [
@@ -1801,22 +1889,24 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "milabregas-robe"
+    "nameId": "milabregas-robe",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "3769121903",
     "name": "Milabrega's Rod",
-    "korName": "밀라브레가의 지팡이 (셉터)",
+    "korName": "밀라브레가의 지팡이",
     "img": "https://cdn.nookazon.com/diablo2resurrected/scepter/war_scepter.png",
     "tier": "Normal",
     "description": [],
     "description_filtered": [],
-    "nameId": "milabregas-rod"
+    "nameId": "milabregas-rod",
+    "affix_kor": "(셉터)"
   },
   {
     "id": "2158968455",
     "name": "Naj's Circlet",
-    "korName": "나즈의 왕관 (써클릿)",
+    "korName": "나즈의 왕관",
     "img": "https://cdn.nookazon.com/diablo2resurrected/circlet/circlet.png",
     "tier": "Normal",
     "description": [
@@ -1842,12 +1932,13 @@
         "property_kor": "화염 피해"
       }
     ],
-    "nameId": "najs-circlet"
+    "nameId": "najs-circlet",
+    "affix_kor": "(써클릿)"
   },
   {
     "id": "2979936598",
     "name": "Naj's Light Plate",
-    "korName": "나즈의 경갑옷 (갑옷)",
+    "korName": "나즈의 경갑옷",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/plate_mail.png",
     "tier": "Elite",
     "description": [
@@ -1863,12 +1954,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "najs-light-plate"
+    "nameId": "najs-light-plate",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "3772189159",
     "name": "Naj's Puzzler",
-    "korName": "나즈의 수수께끼 (스태프)",
+    "korName": "나즈의 수수께끼",
     "img": "https://cdn.nookazon.com/diablo2resurrected/staff/lazarus_spire.png",
     "tier": "Elite",
     "description": [],
@@ -1883,12 +1975,13 @@
         "property_kor": "번개 피해"
       }
     ],
-    "nameId": "najs-puzzler"
+    "nameId": "najs-puzzler",
+    "affix_kor": "(스태프)"
   },
   {
     "id": "3295942653",
     "name": "Natalya's Mark",
-    "korName": "나탈리아의 표식 (탤런)",
+    "korName": "나탈리아의 표식",
     "img": "https://cdn.nookazon.com/diablo2resurrected/h2h/natalyas_mark.png",
     "tier": "Elite",
     "description": [],
@@ -1903,12 +1996,13 @@
         "property_kor": "화염 피해"
       }
     ],
-    "nameId": "natalyas-mark"
+    "nameId": "natalyas-mark",
+    "affix_kor": "(탤런)"
   },
   {
     "id": "4099953499",
     "name": "Natalya's Shadow",
-    "korName": "나탈리아의 그림자 (갑옷)",
+    "korName": "나탈리아의 그림자",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/scale_mail.png",
     "tier": "Elite",
     "description": [
@@ -1943,12 +2037,13 @@
         "property_kor": "홈 있음"
       }
     ],
-    "nameId": "natalyas-shadow"
+    "nameId": "natalyas-shadow",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "3570407092",
     "name": "Natalya's Soul",
-    "korName": "나탈리아의 영혼 (부츠)",
+    "korName": "나탈리아의 영혼",
     "img": "https://cdn.nookazon.com/diablo2resurrected/boot/chain_boots.png",
     "tier": "Exceptional",
     "description": [
@@ -1992,12 +2087,13 @@
         "property_kor": "번개 저항"
       }
     ],
-    "nameId": "natalyas-soul"
+    "nameId": "natalyas-soul",
+    "affix_kor": "(부츠)"
   },
   {
     "id": "2812479223",
     "name": "Natalya's Totem",
-    "korName": "나탈리아의 토템 (헬름)",
+    "korName": "나탈리아의 토템",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/wormskull.png",
     "tier": "Exceptional",
     "description": [
@@ -2041,12 +2137,13 @@
         "property_kor": "힘"
       }
     ],
-    "nameId": "natalyas-totem"
+    "nameId": "natalyas-totem",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "3712490589",
     "name": "Ondal's Almighty",
-    "korName": "온달의 전능함 (헬름)",
+    "korName": "온달의 전능함",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/ondals_almighty.png",
     "tier": "Elite",
     "description": [
@@ -2062,12 +2159,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "ondals-almighty"
+    "nameId": "ondals-almighty",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "2165184904",
     "name": "Rite of Passage",
-    "korName": "통과의례 (부츠)",
+    "korName": "통과의례",
     "img": "https://cdn.nookazon.com/diablo2resurrected/boot/leather_boots.png",
     "tier": "Exceptional",
     "description": [
@@ -2093,12 +2191,13 @@
         "property_kor": "최대 지구력"
       }
     ],
-    "nameId": "rite-of-passage"
+    "nameId": "rite-of-passage",
+    "affix_kor": "(부츠)"
   },
   {
     "id": "2536509549",
     "name": "Sander's Paragon",
-    "korName": "샌더스의 모범 (헬름)",
+    "korName": "샌더스의 모범",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/war_bonnet.png",
     "tier": "Normal",
     "description": [
@@ -2109,12 +2208,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "sanders-paragon"
+    "nameId": "sanders-paragon",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "3839100867",
     "name": "Sander's Riprap",
-    "korName": "샌더스의 돌무더기 (부츠)",
+    "korName": "샌더스의 돌무더기",
     "img": "https://cdn.nookazon.com/diablo2resurrected/boot/heavy_boots.png",
     "tier": "Normal",
     "description": [
@@ -2125,12 +2225,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "sanders-riprap"
+    "nameId": "sanders-riprap",
+    "affix_kor": "(부츠)"
   },
   {
     "id": "4024507482",
     "name": "Sander's Superstition",
-    "korName": "샌더스의 미신 (원드)",
+    "korName": "샌더스의 미신",
     "img": "https://cdn.nookazon.com/diablo2resurrected/wand/gravenspine.png",
     "tier": "Normal",
     "description": [],
@@ -2145,12 +2246,13 @@
         "property_kor": "냉기 피해"
       }
     ],
-    "nameId": "sanders-superstition"
+    "nameId": "sanders-superstition",
+    "affix_kor": "(원드)"
   },
   {
     "id": "3025625262",
     "name": "Sander's Taboo",
-    "korName": "샌더스의 금기 (글러브)",
+    "korName": "샌더스의 금기",
     "img": "https://cdn.nookazon.com/diablo2resurrected/glove/heavy_gloves.png",
     "tier": "Normal",
     "description": [
@@ -2176,12 +2278,13 @@
         "property_kor": "독 피해"
       }
     ],
-    "nameId": "sanders-taboo"
+    "nameId": "sanders-taboo",
+    "affix_kor": "(글러브)"
   },
   {
     "id": "3260618690",
     "name": "Sazabi's Cobalt Redeemer",
-    "korName": "사자비의 코발트 구원자 (소드)",
+    "korName": "사자비의 코발트 구원자",
     "img": "https://cdn.nookazon.com/diablo2resurrected/sword/hellplague.png",
     "tier": "Elite",
     "description": [],
@@ -2196,12 +2299,13 @@
         "property_kor": "냉기 피해"
       }
     ],
-    "nameId": "sazabis-cobalt-redeemer"
+    "nameId": "sazabis-cobalt-redeemer",
+    "affix_kor": "(소드)"
   },
   {
     "id": "4079485892",
     "name": "Sazabi's Ghost Liberator",
-    "korName": "사자비의 유령 해방자 (갑옷)",
+    "korName": "사자비의 유령 해방자",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/splint_mail.png",
     "tier": "Elite",
     "description": [
@@ -2227,12 +2331,13 @@
         "property_kor": "생명력"
       }
     ],
-    "nameId": "sazabis-ghost-liberator"
+    "nameId": "sazabis-ghost-liberator",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "2732874563",
     "name": "Sazabi's Mental Sheath",
-    "korName": "사자비의 정신 칼집 (헬름)",
+    "korName": "사자비의 정신 칼집",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/duskdeep.png",
     "tier": "Exceptional",
     "description": [
@@ -2267,12 +2372,13 @@
         "property_kor": "화염 저항"
       }
     ],
-    "nameId": "sazabis-mental-sheath"
+    "nameId": "sazabis-mental-sheath",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "2457555923",
     "name": "Sigon's Gage",
-    "korName": "시곤의 건틀렛 (글러브)",
+    "korName": "시곤의 건틀렛",
     "img": "https://cdn.nookazon.com/diablo2resurrected/glove/gaunlets_h.png",
     "tier": "Normal",
     "description": [
@@ -2283,12 +2389,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "sigons-gage"
+    "nameId": "sigons-gage",
+    "affix_kor": "(글러브)"
   },
   {
     "id": "2749106253",
     "name": "Sigon's Guard",
-    "korName": "시곤의 방패 (쉴드)",
+    "korName": "시곤의 방패",
     "img": "https://cdn.nookazon.com/diablo2resurrected/shield/bverrit_keep.png",
     "tier": "Normal",
     "description": [
@@ -2299,12 +2406,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "sigons-guard"
+    "nameId": "sigons-guard",
+    "affix_kor": "(쉴드)"
   },
   {
     "id": "3246675334",
     "name": "Sigon's Sabot",
-    "korName": "시곤의 신발 (부츠)",
+    "korName": "시곤의 신발",
     "img": "https://cdn.nookazon.com/diablo2resurrected/boot/plate_boots.png",
     "tier": "Normal",
     "description": [
@@ -2315,12 +2423,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "sigons-sabot"
+    "nameId": "sigons-sabot",
+    "affix_kor": "(부츠)"
   },
   {
     "id": "2593020278",
     "name": "Sigon's Shelter",
-    "korName": "시곤의 갑옷 (갑옷)",
+    "korName": "시곤의 갑옷",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/gothic_plate.png",
     "tier": "Normal",
     "description": [
@@ -2336,12 +2445,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "sigons-shelter"
+    "nameId": "sigons-shelter",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "2321700074",
     "name": "Sigon's Visor",
-    "korName": "시곤의 투구 (헬름)",
+    "korName": "시곤의 투구",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/great_helm.png",
     "tier": "Normal",
     "description": [
@@ -2357,12 +2467,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "sigons-visor"
+    "nameId": "sigons-visor",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "3468104278",
     "name": "Sigon's Wrap",
-    "korName": "시곤의 허리띠 (벨트)",
+    "korName": "시곤의 허리띠",
     "img": "https://cdn.nookazon.com/diablo2resurrected/belt/girdle_h.png",
     "tier": "Normal",
     "description": [
@@ -2373,12 +2484,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "sigons-wrap"
+    "nameId": "sigons-wrap",
+    "affix_kor": "(벨트)"
   },
   {
     "id": "2452108311",
     "name": "Taebaek's Glory",
-    "korName": "태백의 영광 (쉴드)",
+    "korName": "태백의 영광",
     "img": "https://cdn.nookazon.com/diablo2resurrected/shield/heavens_taebaek.png",
     "tier": "Elite",
     "description": [
@@ -2394,12 +2506,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "taebaeks-glory"
+    "nameId": "taebaeks-glory",
+    "affix_kor": "(쉴드)"
   },
   {
     "id": "3508566971",
     "name": "Tal Rasha's Adjudication",
-    "korName": "탈라샤의 판결 (목걸이)",
+    "korName": "탈라샤의 판결",
     "img": "https://cdn.nookazon.com/diablo2resurrected/amulet/amulet2.png",
     "tier": null,
     "description": [],
@@ -2414,12 +2527,13 @@
         "property_kor": "번개 피해"
       }
     ],
-    "nameId": "tal-rashas-adjudication"
+    "nameId": "tal-rashas-adjudication",
+    "affix_kor": "(목걸이)"
   },
   {
     "id": "2481158566",
     "name": "Tal Rasha's Fine-Spun Cloth",
-    "korName": "탈라샤의 고급 천 (벨트)",
+    "korName": "탈라샤의 고급 천",
     "img": "https://cdn.nookazon.com/diablo2resurrected/belt/belt_m.png",
     "tier": "Exceptional",
     "description": [
@@ -2440,12 +2554,13 @@
         "property_kor": "마법 아이템 발견 확률 증가"
       }
     ],
-    "nameId": "tal-rashas-fine-spun-cloth"
+    "nameId": "tal-rashas-fine-spun-cloth",
+    "affix_kor": "(벨트)"
   },
   {
     "id": "2994169422",
     "name": "Tal Rasha's Guardianship",
-    "korName": "탈라샤의 수호 (갑옷)",
+    "korName": "탈라샤의 수호",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/gothic_plate.png",
     "tier": "Elite",
     "description": [
@@ -2461,12 +2576,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "tal-rashas-guardianship"
+    "nameId": "tal-rashas-guardianship",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "3807052825",
     "name": "Tal Rasha's Horadric Crest",
-    "korName": "탈라샤의 호라드릭 문장 (헬름)",
+    "korName": "탈라샤의 호라드릭 문장",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/mask.png",
     "tier": "Exceptional",
     "description": [
@@ -2482,12 +2598,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "tal-rashas-horadric-crest"
+    "nameId": "tal-rashas-horadric-crest",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "2185308355",
     "name": "Tal Rasha's Lidless Eye",
-    "korName": "탈라샤의 감시하는 눈 (오브)",
+    "korName": "탈라샤의 감시하는 눈",
     "img": "https://cdn.nookazon.com/diablo2resurrected/orb/dragon_stone.png",
     "tier": "Exceptional",
     "description": [],
@@ -2520,22 +2637,24 @@
         "property_kor": "냉기 숙련 (원소술사 전용)"
       }
     ],
-    "nameId": "tal-rashas-lidless-eye"
+    "nameId": "tal-rashas-lidless-eye",
+    "affix_kor": "(오브)"
   },
   {
     "id": "4029956852",
     "name": "Tancred's Crowbill",
-    "korName": "탄크레드의 까마귀부리 (액스)",
+    "korName": "탄크레드의 까마귀부리",
     "img": "https://cdn.nookazon.com/diablo2resurrected/axe/mindrend.png",
     "tier": "Normal",
     "description": [],
     "description_filtered": [],
-    "nameId": "tancreds-crowbill"
+    "nameId": "tancreds-crowbill",
+    "affix_kor": "(액스)"
   },
   {
     "id": "2422102974",
     "name": "Tancred's Hobnails",
-    "korName": "탄크레드의 징박은 신발 (부츠)",
+    "korName": "탄크레드의 징박은 신발",
     "img": "https://cdn.nookazon.com/diablo2resurrected/boot/leather_boots.png",
     "tier": "Normal",
     "description": [
@@ -2546,12 +2665,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "tancreds-hobnails"
+    "nameId": "tancreds-hobnails",
+    "affix_kor": "(부츠)"
   },
   {
     "id": "3117626652",
     "name": "Tancred's Skull",
-    "korName": "탄크레드의 두개골 (헬름)",
+    "korName": "탄크레드의 두개골",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/wormskull.png",
     "tier": "Normal",
     "description": [
@@ -2562,12 +2682,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "tancreds-skull"
+    "nameId": "tancreds-skull",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "2171822281",
     "name": "Tancred's Spine",
-    "korName": "탄크레드의 척추 (갑옷)",
+    "korName": "탄크레드의 척추",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/goldskin.png",
     "tier": "Normal",
     "description": [
@@ -2578,22 +2699,24 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "tancreds-spine"
+    "nameId": "tancreds-spine",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "2847999465",
     "name": "Tancred's Weird",
-    "korName": "탄크레드의 부적 (목걸이)",
+    "korName": "탄크레드의 부적",
     "img": "https://cdn.nookazon.com/diablo2resurrected/amulet/amulet3.png",
     "tier": null,
     "description": [],
     "description_filtered": [],
-    "nameId": "tancreds-weird"
+    "nameId": "tancreds-weird",
+    "affix_kor": "(목걸이)"
   },
   {
     "id": "4194008562",
     "name": "Telling of Beads",
-    "korName": "묵주 (목걸이)",
+    "korName": "묵주",
     "img": "https://cdn.nookazon.com/diablo2resurrected/amulet/amulet2.png",
     "tier": null,
     "description": [],
@@ -2617,12 +2740,13 @@
         "property_kor": "공격자가 피해를 받음"
       }
     ],
-    "nameId": "telling-of-beads"
+    "nameId": "telling-of-beads",
+    "affix_kor": "(목걸이)"
   },
   {
     "id": "2765902985",
     "name": "Trang-Oul's Claws",
-    "korName": "트랑울의 발톱 (글러브)",
+    "korName": "트랑울의 발톱",
     "img": "https://cdn.nookazon.com/diablo2resurrected/glove/bracers_m.png",
     "tier": "Exceptional",
     "description": [
@@ -2638,12 +2762,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "trang-ouls-claws"
+    "nameId": "trang-ouls-claws",
+    "affix_kor": "(글러브)"
   },
   {
     "id": "3086158739",
     "name": "Trang-Oul's Girth",
-    "korName": "트랑울의 허리띠 (벨트)",
+    "korName": "트랑울의 허리띠",
     "img": "https://cdn.nookazon.com/diablo2resurrected/belt/heavy_belt.png",
     "tier": "Elite",
     "description": [
@@ -2669,12 +2794,13 @@
         "property_kor": "마나"
       }
     ],
-    "nameId": "trang-ouls-girth"
+    "nameId": "trang-ouls-girth",
+    "affix_kor": "(벨트)"
   },
   {
     "id": "3922359990",
     "name": "Trang-Oul's Guise",
-    "korName": "트랑울의 가면 (헬름)",
+    "korName": "트랑울의 가면",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/wormskull.png",
     "tier": "Elite",
     "description": [
@@ -2690,12 +2816,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "trang-ouls-guise"
+    "nameId": "trang-ouls-guise",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "3613947673",
     "name": "Trang-Oul's Scales",
-    "korName": "트랑울의 비늘 (갑옷)",
+    "korName": "트랑울의 비늘",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/full_plate_mail.png",
     "tier": "Exceptional",
     "description": [
@@ -2716,12 +2843,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "trang-ouls-scales"
+    "nameId": "trang-ouls-scales",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "4020337561",
     "name": "Trang-Oul's Wing",
-    "korName": "트랑울의 날개 (트로피)",
+    "korName": "트랑울의 날개",
     "img": "https://cdn.nookazon.com/diablo2resurrected/voodoo_head/gargoyle_head.png",
     "tier": "Exceptional",
     "description": [
@@ -2747,12 +2875,13 @@
         "property_kor": "화염 저항"
       }
     ],
-    "nameId": "trang-ouls-wing"
+    "nameId": "trang-ouls-wing",
+    "affix_kor": "(트로피)"
   },
   {
     "id": "4278402817",
     "name": "Vidala's Ambush",
-    "korName": "비달라의 매복 (갑옷)",
+    "korName": "비달라의 매복",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/leather_armor.png",
     "tier": "Normal",
     "description": [
@@ -2768,12 +2897,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "vidalas-ambush"
+    "nameId": "vidalas-ambush",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "2367298410",
     "name": "Vidala's Barb",
-    "korName": "비달라의 화살 (보우)",
+    "korName": "비달라의 화살",
     "img": "https://cdn.nookazon.com/diablo2resurrected/bow/long_battle_bow.png",
     "tier": "Normal",
     "description": [],
@@ -2788,12 +2918,13 @@
         "property_kor": "번개 피해"
       }
     ],
-    "nameId": "vidalas-barb"
+    "nameId": "vidalas-barb",
+    "affix_kor": "(보우)"
   },
   {
     "id": "3663603700",
     "name": "Vidala's Fetlock",
-    "korName": "비달라의 발목 (부츠)",
+    "korName": "비달라의 발목",
     "img": "https://cdn.nookazon.com/diablo2resurrected/boot/light_plate_boots.png",
     "tier": "Normal",
     "description": [
@@ -2804,72 +2935,79 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "vidalas-fetlock"
+    "nameId": "vidalas-fetlock",
+    "affix_kor": "(부츠)"
   },
   {
     "id": "2673028099",
     "name": "Vidala's Snare",
-    "korName": "비달라의 올가미 (목걸이)",
+    "korName": "비달라의 올가미",
     "img": "https://cdn.nookazon.com/diablo2resurrected/amulet/amulet2.png",
     "tier": null,
     "description": [],
     "description_filtered": [],
-    "nameId": "vidalas-snare"
+    "nameId": "vidalas-snare",
+    "affix_kor": "(목걸이)"
   },
   {
     "id": "3948544508",
     "name": "Warlord's Authority",
-    "korName": "Warlord's Authority (벨트)",
+    "korName": "Warlord's Authority",
     "img": "https://cdn.nookazon.com/diablo2resurrected/belt/girdle_h.png",
     "tier": null,
     "description": [],
     "description_filtered": [],
-    "nameId": "warlords-authority"
+    "nameId": "warlords-authority",
+    "affix_kor": "(벨트)"
   },
   {
     "id": "3356317273",
     "name": "Warlord's Conquest",
-    "korName": "Warlord's Conquest (글러브)",
+    "korName": "Warlord's Conquest",
     "img": "https://cdn.nookazon.com/diablo2resurrected/glove/gaunlets_h.png",
     "tier": null,
     "description": [],
     "description_filtered": [],
-    "nameId": "warlords-conquest"
+    "nameId": "warlords-conquest",
+    "affix_kor": "(글러브)"
   },
   {
     "id": "4163395957",
     "name": "Warlord's Crushers",
-    "korName": "Warlord's Crushers (부츠)",
+    "korName": "Warlord's Crushers",
     "img": "https://cdn.nookazon.com/diablo2resurrected/boot/plate_boots.png",
     "tier": null,
     "description": [],
     "description_filtered": [],
-    "nameId": "warlords-crushers"
+    "nameId": "warlords-crushers",
+    "affix_kor": "(부츠)"
   },
   {
     "id": "4161936065",
     "name": "Warlord's Lust",
-    "korName": "Warlord's Lust (헬름)",
+    "korName": "Warlord's Lust",
     "img": "https://cdn.nookazon.com/diablo2resurrected/helmet/great_helm.png",
     "tier": null,
     "description": [],
     "description_filtered": [],
-    "nameId": "warlords-lust"
+    "nameId": "warlords-lust",
+    "affix_kor": "(헬름)"
   },
   {
     "id": "3946842452",
     "name": "Warlord's Mantle",
-    "korName": "Warlord's Mantle (갑옷)",
+    "korName": "Warlord's Mantle",
     "img": "https://cdn.nookazon.com/diablo2resurrected/armor/full_plate_mail.png",
     "tier": null,
     "description": [],
     "description_filtered": [],
-    "nameId": "warlords-mantle"
+    "nameId": "warlords-mantle",
+    "affix_kor": "(갑옷)"
   },
   {
     "id": "4284941252",
     "name": "Whitstan's Guard",
-    "korName": "위트스탄의 수호 (쉴드)",
+    "korName": "위트스탄의 수호",
     "img": "https://cdn.nookazon.com/diablo2resurrected/shield/mosers_blessed_circle.png",
     "tier": "Exceptional",
     "description": [
@@ -2885,12 +3023,13 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "whitstans-guard"
+    "nameId": "whitstans-guard",
+    "affix_kor": "(쉴드)"
   },
   {
     "id": "3671921839",
     "name": "Wilhelm's Pride",
-    "korName": "빌헬름의 자긍심 (벨트)",
+    "korName": "빌헬름의 자긍심",
     "img": "https://cdn.nookazon.com/diablo2resurrected/belt/heavy_belt.png",
     "tier": "Exceptional",
     "description": [
@@ -2906,6 +3045,7 @@
       }
     ],
     "description_filtered": [],
-    "nameId": "wilhelms-pride"
+    "nameId": "wilhelms-pride",
+    "affix_kor": "(벨트)"
   }
 ]
