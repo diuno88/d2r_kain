@@ -730,77 +730,91 @@
         "max": 15,
         "property": "to Magic Skill Damage",
         "property_id": 1879,
-        "property_kor": "마법 기술 피해"
+        "property_kor": "마법 기술 피해",
+        "property_group":"A"
       },
       {
         "min": -5,
         "max": -10,
         "property": "to Enemy Magic Resistance",
         "property_id": 1877,
-        "property_kor": "적의 마법 저항"
+        "property_kor": "적의 마법 저항",
+        "property_group":"A"
       },
       {
         "min": 14,
         "max": 25,
         "property": "Better Chance Of Getting Magic Items",
         "property_id": 461,
-        "property_kor": "마법 아이템 발견 확률 증가"
+        "property_kor": "마법 아이템 발견 확률 증가",
+        "property_group":"B"
       },
       {
         "min": 20,
         "max": 55,
         "property": "Extra Gold From Monsters",
         "property_id": 460,
-        "property_kor": "괴물에게서 얻는 금화 증가"
+        "property_kor": "괴물에게서 얻는 금화 증가",
+        "property_group":"B"
+        
       },
       {
         "min": 10,
         "max": 65,
         "property": "plus To Life",
         "property_id": 418,
-        "property_kor": "생명력"
+        "property_kor": "생명력",
+        "property_group":"C"
       },
       {
         "min": 10,
         "max": 75,
         "property": "to Mana",
         "property_id": 617,
-        "property_kor": "마나"
+        "property_kor": "마나",
+        "property_group":"C"
       },
       {
         "min": 5,
         "max": 10,
         "property": "Faster Run/Walk",
         "property_id": 480,
-        "property_kor": "달리기/걷기 속도"
+        "property_kor": "달리기/걷기 속도",
+        "property_group":"D"
       },
       {
         "min": 12,
         "max": 24,
         "property": "Faster Hit Recovery",
         "property_id": 13,
-        "property_kor": "타격 회복 속도"
+        "property_kor": "타격 회복 속도",
+        "property_group":"D"
       },
       {
         "min": 3,
         "max": 8,
         "property": "To All Attributes",
         "property_id": 727,
-        "property_kor": "모든 능력치"
+        "property_kor": "모든 능력치",
+        "property_group":"D"
       },
       {
         "min": 5,
         "max": 10,
         "property": "Damage Reduced By",
         "property_id": 413,
-        "property_kor": "피해 감소"
+        "property_kor": "피해 감소",
+        "property_group":"E"
+        
       },
       {
         "min": 5,
         "max": 10,
         "property": "Magic Damage Reduced By",
         "property_id": 414,
-        "property_kor": "마법 피해 감소"
+        "property_kor": "마법 피해 감소",
+        "property_group":"E"
+
       }
     ]
   },
@@ -832,77 +846,88 @@
         "max": 100,
         "property": "Enhanced Damage",
         "property_id": 510,
-        "property_kor": "피해 증가"
+        "property_kor": "피해 증가",
+        "property_group":"A"
       },
       {
         "min": -5,
         "max": -10,
         "property": "to Enemy Physical Damage Resistance",
         "property_id": 1881,
-        "property_kor": "적의 물리 피해 저항"
+        "property_kor": "적의 물리 피해 저항",
+        "property_group":"A"
       },
       {
         "min": 14,
         "max": 25,
         "property": "Better Chance Of Getting Magic Items",
         "property_id": 461,
-        "property_kor": "마법 아이템 발견 확률 증가"
+        "property_kor": "마법 아이템 발견 확률 증가",
+        "property_group":"B"
       },
       {
         "min": 20,
         "max": 55,
         "property": "Extra Gold From Monsters",
         "property_id": 460,
-        "property_kor": "괴물에게서 얻는 금화 증가"
+        "property_kor": "괴물에게서 얻는 금화 증가",
+        "property_group":"B"
       },
       {
         "min": 10,
         "max": 65,
         "property": "plus To Life",
         "property_id": 418,
-        "property_kor": "생명력"
+        "property_kor": "생명력",
+        "property_group":"C"
       },
       {
         "min": 10,
         "max": 75,
         "property": "to Mana",
         "property_id": 617,
-        "property_kor": "마나"
+        "property_kor": "마나",
+        "property_group":"C"
       },
       {
         "min": 5,
         "max": 10,
         "property": "Faster Run/Walk",
         "property_id": 480,
-        "property_kor": "달리기/걷기 속도"
+        "property_kor": "달리기/걷기 속도",
+        "property_group":"D"
       },
       {
         "min": 12,
         "max": 24,
         "property": "Faster Hit Recovery",
         "property_id": 13,
-        "property_kor": "타격 회복 속도"
+        "property_kor": "타격 회복 속도",
+        "property_group":"D"
       },
       {
         "min": 3,
         "max": 8,
         "property": "To All Attributes",
         "property_id": 727,
-        "property_kor": "모든 능력치"
+        "property_kor": "모든 능력치",
+        "property_group":"D"
       },
       {
         "min": 5,
         "max": 10,
         "property": "Damage Reduced By",
         "property_id": 413,
-        "property_kor": "피해 감소"
+        "property_kor": "피해 감소",
+        "property_group":"E"
       },
       {
         "min": 5,
         "max": 10,
         "property": "Magic Damage Reduced By",
         "property_id": 414,
-        "property_kor": "마법 피해 감소"
+        "property_kor": "마법 피해 감소",
+        "property_group":"E"
       }
     ]
   },
@@ -934,77 +959,88 @@
         "max": 15,
         "property": "to Cold Skill Damage",
         "property_id": 747,
-        "property_kor": "냉기 기술 피해"
+        "property_kor": "냉기 기술 피해",
+        "property_group":"A"
       },
       {
         "min": -5,
         "max": -10,
         "property": "To Enemy Cold Resistance",
         "property_id": 609,
-        "property_kor": "적의 냉기 저항"
+        "property_kor": "적의 냉기 저항",
+        "property_group":"A"
       },
       {
         "min": 14,
         "max": 25,
         "property": "Better Chance Of Getting Magic Items",
         "property_id": 461,
-        "property_kor": "마법 아이템 발견 확률 증가"
+        "property_kor": "마법 아이템 발견 확률 증가",
+        "property_group":"B"
       },
       {
         "min": 20,
         "max": 55,
         "property": "Extra Gold From Monsters",
         "property_id": 460,
-        "property_kor": "괴물에게서 얻는 금화 증가"
+        "property_kor": "괴물에게서 얻는 금화 증가",
+        "property_group":"B"
       },
       {
         "min": 10,
         "max": 65,
         "property": "plus To Life",
         "property_id": 418,
-        "property_kor": "생명력"
+        "property_kor": "생명력",
+        "property_group":"C"
       },
       {
         "min": 10,
         "max": 75,
         "property": "to Mana",
         "property_id": 617,
-        "property_kor": "마나"
+        "property_kor": "마나",
+        "property_group":"C"
       },
       {
         "min": 5,
         "max": 10,
         "property": "Faster Run/Walk",
         "property_id": 480,
-        "property_kor": "달리기/걷기 속도"
+        "property_kor": "달리기/걷기 속도",
+        "property_group":"D"
       },
       {
         "min": 12,
         "max": 24,
         "property": "Faster Hit Recovery",
         "property_id": 13,
-        "property_kor": "타격 회복 속도"
+        "property_kor": "타격 회복 속도",
+        "property_group":"D"
       },
       {
         "min": 3,
         "max": 8,
         "property": "To All Attributes",
         "property_id": 727,
-        "property_kor": "모든 능력치"
+        "property_kor": "모든 능력치",
+        "property_group":"D"
       },
       {
         "min": 5,
         "max": 10,
         "property": "Damage Reduced By",
         "property_id": 413,
-        "property_kor": "피해 감소"
+        "property_kor": "피해 감소",
+        "property_group":"E"
       },
       {
         "min": 5,
         "max": 10,
         "property": "Magic Damage Reduced By",
         "property_id": 414,
-        "property_kor": "마법 피해 감소"
+        "property_kor": "마법 피해 감소",
+        "property_group":"E"
       }
     ]
   },
@@ -1036,77 +1072,89 @@
         "max": 15,
         "property": "to Lightning Skill Damage",
         "property_id": 743,
-        "property_kor": "번개 기술 피해"
+        "property_kor": "번개 기술 피해",
+        "property_group":"A"
       },
       {
         "min": -5,
         "max": -10,
         "property": "To Enemy Lightning Resistance",
         "property_id": 736,
-        "property_kor": "적의 번개 저항"
+        "property_kor": "적의 번개 저항",
+        "property_group":"A"
       },
       {
         "min": 14,
         "max": 25,
         "property": "Better Chance Of Getting Magic Items",
         "property_id": 461,
-        "property_kor": "마법 아이템 발견 확률 증가"
+        "property_kor": "마법 아이템 발견 확률 증가",
+        "property_group":"B"
       },
       {
         "min": 20,
         "max": 55,
         "property": "Extra Gold From Monsters",
         "property_id": 460,
-        "property_kor": "괴물에게서 얻는 금화 증가"
+        "property_kor": "괴물에게서 얻는 금화 증가",
+        "property_group":"B"
+
       },
       {
         "min": 10,
         "max": 65,
         "property": "plus To Life",
         "property_id": 418,
-        "property_kor": "생명력"
+        "property_kor": "생명력",
+        "property_group":"C"
       },
       {
         "min": 10,
         "max": 75,
         "property": "to Mana",
         "property_id": 617,
-        "property_kor": "마나"
+        "property_kor": "마나",
+        "property_group":"C"
       },
       {
         "min": 5,
         "max": 10,
         "property": "Faster Run/Walk",
         "property_id": 480,
-        "property_kor": "달리기/걷기 속도"
+        "property_kor": "달리기/걷기 속도",
+        "property_group":"D"
       },
       {
         "min": 12,
         "max": 24,
         "property": "Faster Hit Recovery",
         "property_id": 13,
-        "property_kor": "타격 회복 속도"
+        "property_kor": "타격 회복 속도",
+        "property_group":"D"
       },
       {
         "min": 3,
         "max": 8,
         "property": "To All Attributes",
         "property_id": 727,
-        "property_kor": "모든 능력치"
+        "property_kor": "모든 능력치",
+        "property_group":"D"
       },
       {
         "min": 5,
         "max": 10,
         "property": "Damage Reduced By",
         "property_id": 413,
-        "property_kor": "피해 감소"
+        "property_kor": "피해 감소",
+        "property_group":"E"
       },
       {
         "min": 5,
         "max": 10,
         "property": "Magic Damage Reduced By",
         "property_id": 414,
-        "property_kor": "마법 피해 감소"
+        "property_kor": "마법 피해 감소",
+        "property_group":"E"
       }
     ]
   },
@@ -1138,77 +1186,88 @@
         "max": 15,
         "property": "to Fire Skill Damage",
         "property_id": 750,
-        "property_kor": "화염 기술 피해"
+        "property_kor": "화염 기술 피해",
+        "property_group":"A"
       },
       {
         "min": -5,
         "max": -10,
         "property": "To Enemy Fire Resistance",
         "property_id": 735,
-        "property_kor": "적의 화염 저항"
+        "property_kor": "적의 화염 저항",
+        "property_group":"A"
       },
       {
         "min": 14,
         "max": 25,
         "property": "Better Chance Of Getting Magic Items",
         "property_id": 461,
-        "property_kor": "마법 아이템 발견 확률 증가"
+        "property_kor": "마법 아이템 발견 확률 증가",
+        "property_group":"B"
       },
       {
         "min": 20,
         "max": 55,
         "property": "Extra Gold From Monsters",
         "property_id": 460,
-        "property_kor": "괴물에게서 얻는 금화 증가"
+        "property_kor": "괴물에게서 얻는 금화 증가",
+        "property_group":"B"
       },
       {
         "min": 10,
         "max": 65,
         "property": "plus To Life",
         "property_id": 418,
-        "property_kor": "생명력"
+        "property_kor": "생명력",
+        "property_group":"C"
       },
       {
         "min": 10,
         "max": 75,
         "property": "to Mana",
         "property_id": 617,
-        "property_kor": "마나"
+        "property_kor": "마나",
+        "property_group":"C"
       },
       {
         "min": 5,
         "max": 10,
         "property": "Faster Run/Walk",
         "property_id": 480,
-        "property_kor": "달리기/걷기 속도"
+        "property_kor": "달리기/걷기 속도",
+        "property_group":"D"
       },
       {
         "min": 12,
         "max": 24,
         "property": "Faster Hit Recovery",
         "property_id": 13,
-        "property_kor": "타격 회복 속도"
+        "property_kor": "타격 회복 속도",
+        "property_group":"D"
       },
       {
         "min": 3,
         "max": 8,
         "property": "To All Attributes",
         "property_id": 727,
-        "property_kor": "모든 능력치"
+        "property_kor": "모든 능력치",
+        "property_group":"D"
       },
       {
         "min": 5,
         "max": 10,
         "property": "Damage Reduced By",
         "property_id": 413,
-        "property_kor": "피해 감소"
+        "property_kor": "피해 감소",
+        "property_group":"E"
       },
       {
         "min": 5,
         "max": 10,
         "property": "Magic Damage Reduced By",
         "property_id": 414,
-        "property_kor": "마법 피해 감소"
+        "property_kor": "마법 피해 감소",
+        "property_group":"E"
       }
     ]
   },
@@ -1240,77 +1299,88 @@
         "max": 15,
         "property": "to Poison Skill Damage",
         "property_id": 783,
-        "property_kor": "독 기술 피해"
+        "property_kor": "독 기술 피해",
+        "property_group":"A"
       },
       {
         "min": -5,
         "max": -10,
         "property": "To Enemy Poison Resistance",
         "property_id": 723,
-        "property_kor": "적의 독 저항"
+        "property_kor": "적의 독 저항",
+        "property_group":"A"
       },
       {
         "min": 14,
         "max": 25,
         "property": "Better Chance Of Getting Magic Items",
         "property_id": 461,
-        "property_kor": "마법 아이템 발견 확률 증가"
+        "property_kor": "마법 아이템 발견 확률 증가",
+        "property_group":"B"
       },
       {
         "min": 20,
         "max": 55,
         "property": "Extra Gold From Monsters",
         "property_id": 460,
-        "property_kor": "괴물에게서 얻는 금화 증가"
+        "property_kor": "괴물에게서 얻는 금화 증가",
+        "property_group":"B"
       },
       {
         "min": 10,
         "max": 65,
         "property": "plus To Life",
         "property_id": 418,
-        "property_kor": "생명력"
+        "property_kor": "생명력",
+        "property_group":"C"
       },
       {
         "min": 10,
         "max": 75,
         "property": "to Mana",
         "property_id": 617,
-        "property_kor": "마나"
+        "property_kor": "마나",
+        "property_group":"C"
       },
       {
         "min": 5,
         "max": 10,
         "property": "Faster Run/Walk",
         "property_id": 480,
-        "property_kor": "달리기/걷기 속도"
+        "property_kor": "달리기/걷기 속도",
+        "property_group":"D"
       },
       {
         "min": 12,
         "max": 24,
         "property": "Faster Hit Recovery",
         "property_id": 13,
-        "property_kor": "타격 회복 속도"
+        "property_kor": "타격 회복 속도",
+        "property_group":"D"
       },
       {
         "min": 3,
         "max": 8,
         "property": "To All Attributes",
         "property_id": 727,
-        "property_kor": "모든 능력치"
+        "property_kor": "모든 능력치",
+        "property_group":"D"
       },
       {
         "min": 5,
         "max": 10,
         "property": "Damage Reduced By",
         "property_id": 413,
-        "property_kor": "피해 감소"
+        "property_kor": "피해 감소",
+        "property_group":"E"
       },
       {
         "min": 5,
         "max": 10,
         "property": "Magic Damage Reduced By",
         "property_id": 414,
-        "property_kor": "마법 피해 감소"
+        "property_kor": "마법 피해 감소",
+        "property_group":"E"
       }
     ]
   },
